@@ -1,0 +1,119 @@
+---
+title: Episode 43 – The Creationist Fail with Rachel Nanon Brown
+author: Dustin
+type: post
+date: 2014-01-17T00:00:00+00:00
+url: /episode-43-the-creationist-fail-with-rachel-nanon-brown/
+enclosure:
+  - |
+    https://cdn.nomads.studio/file/nsp-media/atheist_nomads_043.mp3
+    57303661
+    audio/mpeg
+    a:2:{s:8:"duration";s:8:"01:59:19";s:8:"explicit";s:1:"0";}
+audio_file:
+  - |
+    https://cdn.nomads.studio/file/nsp-media/atheist_nomads_043.mp3
+    57303661
+    audio/mpeg
+    a:2:{s:8:"duration";s:8:"01:59:19";s:8:"explicit";s:1:"0";}
+categories:
+  - Episodes
+
+---
+<div itemscope itemtype="http://schema.org/AudioObject">
+  <meta itemprop="name" content="Episode 43 &#8211; The Creationist Fail with Rachel Nanon Brown" />
+  
+  <meta itemprop="uploadDate" content="2014-01-16T17:00:00-07:00" />
+  
+  <meta itemprop="encodingFormat" content="audio/mpeg" />
+  
+  <meta itemprop="duration" content="PT1H59M19S" />
+  
+  <meta itemprop="description" content="UPDATE - The files for this episode are hosted on Libsyn and the MP3 appears to be good. However, there is a problem with the Ogg file. I am troubleshooting this issue.
+
+UPDATE 2 - In my testing this is only effecting the Ogg web player and the one f..." />
+  
+  <meta itemprop="contentUrl" content="https://dts.podtrac.com/redirect.mp3/cdn.nomads.studio/file/nsp-media/atheist_nomads_043.mp3" />
+  
+  <meta itemprop="contentSize" content="54.6" />
+  </p> 
+  
+  <div class="powerpress_player" id="powerpress_player_8298">
+    <audio class="wp-audio-shortcode" id="audio-5195-42" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://dts.podtrac.com/redirect.mp3/cdn.nomads.studio/file/nsp-media/atheist_nomads_043.mp3?_=42" /><a href="https://dts.podtrac.com/redirect.mp3/cdn.nomads.studio/file/nsp-media/atheist_nomads_043.mp3">https://dts.podtrac.com/redirect.mp3/cdn.nomads.studio/file/nsp-media/atheist_nomads_043.mp3</a></audio>
+  </div>
+</div>
+
+<p class="powerpress_links powerpress_links_mp3">
+  Podcast: <a href="https://dts.podtrac.com/redirect.mp3/cdn.nomads.studio/file/nsp-media/atheist_nomads_043.mp3" class="powerpress_link_pinw" target="_blank" title="Play in new window" onclick="return powerpress_pinw('https://htotw.com/?powerpress_pinw=5195-podcast');" rel="nofollow">Play in new window</a> | <a href="https://dts.podtrac.com/redirect.mp3/cdn.nomads.studio/file/nsp-media/atheist_nomads_043.mp3" class="powerpress_link_d" title="Download" rel="nofollow" download="atheist_nomads_043.mp3">Download</a>
+</p>
+
+<p class="powerpress_links powerpress_subscribe_links">
+  Subscribe: <a href="https://podcasts.apple.com/us/podcast/humanists-take-on-the-world/id530050098?mt=2&ls=1" class="powerpress_link_subscribe powerpress_link_subscribe_itunes" target="_blank" title="Subscribe on Apple Podcasts" rel="nofollow">Apple Podcasts</a> | <a href="https://www.google.com/podcasts?feed=aHR0cDovL2F0aGVpc3Rub21hZHMubGlic3luLmNvbS9yc3M%3D" class="powerpress_link_subscribe powerpress_link_subscribe_googleplay" target="_blank" title="Subscribe on Google Podcasts" rel="nofollow">Google Podcasts</a> | <a href="https://open.spotify.com/show/3LzK2xZGike6Tc1GEMtMbr?si=LieN9SNuTpq96smuaUsH8A" class="powerpress_link_subscribe powerpress_link_subscribe_spotify" target="_blank" title="Subscribe on Spotify" rel="nofollow">Spotify</a> | <a href="https://www.pandora.com/podcast/atheist-nomads/PC:10122?corr=62071012&part=ug" class="powerpress_link_subscribe powerpress_link_subscribe_pandora" target="_blank" title="Subscribe on Pandora" rel="nofollow">Pandora</a> | <a href="https://htotw.com/feed/podcast/" class="powerpress_link_subscribe powerpress_link_subscribe_rss" target="_blank" title="Subscribe via RSS" rel="nofollow">RSS</a>
+</p>
+
+UPDATE &#8211; The files for this episode are hosted on Libsyn and the MP3 appears to be good. However, there is a problem with the Ogg file. I am troubleshooting this issue.
+
+UPDATE 2 &#8211; In my testing this is only effecting the Ogg web player and the one fix I&#8217;ve tried has not worked, so I have disabled the Ogg web player and will try uploading them separately next time to see whether or not the issue persists. Please let me know if you run into any issues since we have made a change to hosting.
+
+INTRO
+
+* Retraction: <a href="http://www.twitlonger.com/show/n_1rvdf6g" target="_blank" rel="noopener">Jenny McCarthy is still crazy</a>  
+* <a href="http://nwhumanist.com/tqh/2014/01/09/oak-harbor-invocation/" target="_blank" rel="noopener">Robert Ray to give the invocation at the Oak Harbor, WA City Council</a>  
+* Former SDA Pastor Ryan Bell is <a href="http://yearwithoutgod.com/" target="_blank" rel="noopener">trying out atheism for a year</a>  
+* Hosting changes &#8211; what this means for you
+
+FEEDBACK
+
+* Ryan
+
+Email us at <contact@htotw.com> or call us at (541) 203-0666.
+
+THIS DAY IN HISTORY &#8211;  
+* 1970 &#8211; <a href="http://www.history.com/this-day-in-history/curt-flood-files-historic-lawsuit-against-major-league-baseball" target="_blank" rel="noopener">Curt Flood files historic lawsuit against Major League Baseball</a>  
+* 1982 &#8211; <a href="http://news.google.com/newspapers?id=HQBkAAAAIBAJ&sjid=p-YDAAAAIBAJ&pg=4510%2C5709823" target="_blank" rel="noopener">Britain and Vatican restore full diplomatic ties after 400 years</a>  
+* 1988 &#8211; <a href="http://articles.latimes.com/1988-01-17/sports/sp-36803_1_jimmy-snyder" target="_blank" rel="noopener">Jimmy &#8216;The Greek&#8217;</a> <a href="http://www.people.com/people/article/0,,20098183,00.html" target="_blank" rel="noopener">Is Fired by CBS</a>
+
+SCIENCE AND TECHNOLOGY
+
+* <a href="http://www.theverge.com/2013/12/31/5259898/dolphins-caught-chewing-on-fish-to-get-high" target="_blank" rel="noopener">Dolphins caught getting high</a>  
+* <a href="http://www.newscientist.com/article/dn24831-learning-drugs-reawaken-grownup-brains-inner-child.html?cmpid=RSS%7CNSNS%7C2012-GLOBAL%7Conline-news#.Us2jA5CJA6M" target="_blank" rel="noopener">Drug found to restore some juvenile plasticity</a>  
+* <a href="http://c.washingtontimes.com/neighborhood/steps-authentic-happiness-positive-psychology/2013/dec/29/fibromyalgia-solved-pathology-not-mind/" target="_blank" rel="noopener">Possible causes for Fibromyalgia found</a>
+
+POLITICS AND RELIGION
+
+* <a href="http://www.latimes.com/nation/nationnow/la-na-nn-supreme-court-utah-gay-marriage-20140106,0,1384120.story#axzz2pkJpGbMN" target="_blank" rel="noopener">Same sex marriage is out in Utah while pending appeal</a>  
+* <a href="http://www.nytimes.com/2014/01/15/us/federal-judge-rejects-oklahomas-gay-marriage-ban.html?_r=0" target="_blank" rel="noopener">OK District Judge rules in favor of same sex marriage</a>  
+* <a href="http://thinkprogress.org/health/2014/01/05/3120251/texas-family-life-support-pregnant/" target="_blank" rel="noopener">Brain dead Texas woman kept on life support because she’s pregnant</a>  
+* <a href="http://stateofmind13.com/2014/01/04/lebanon-loses-78000-books-to-terrorism-tripolis-infamous-al-saeh-library-burned/" target="_blank" rel="noopener">78,000 books lost to terrorism in Lebanon because some were “anti-Islam”</a>  
+* <a href="http://www.skepticink.com/tippling/2014/01/09/the-terminal-decline-of-christianity-in-new-zealand" target="_blank" rel="noopener">Christianity now a minority in New Zeeland</a>  
+* <a href="http://abcnews.go.com/US/wireStory/satanists-unveil-design-okla-capitol-monument-21440030" target="_blank" rel="noopener">The Satanic Temple has officially applied for the monument</a>  
+* <a href="http://www.rawstory.com/rs/2014/01/02/science-guy-bill-nye-plans-to-debate-creation-museum-founder-ken-ham/" target="_blank" rel="noopener">Bill Nye to debate Ken Ham</a>
+
+INTERVIEW &#8211; Rachel Nanon Brown, co-host of Dogma Debate and Archosaur Site Research Assistant
+
+This episode is brought to you by:
+
+Nuclear Sponsor &#8211; US$20.00 per month  
+* Renee Davis-Pelt  
+* Russ from the Kitsap Atheists & Agnostics
+
+Platinum Sponsor – US$10.00 per month  
+* Robert Ray, Humanists of the North Puget Sound  
+* Virginia Dawn
+
+Gold Sponsor – US$5.00 per month  
+* Vernware
+
+* Audible.com &#8211; get your free audio book at <a href="audibletrial.com/atheistnomads" target="_blank" rel="noopener">audibletrial.com/atheistnomads</a>.  
+* Archway Hosting provides full featured web hosting for a fraction of the cost of traditional shared hosting. You get all the benefits of shared hosting, without the sticker shock or extra fees. Check them out at <a href="http://archwayhosting.com/" target="_blank" rel="noopener">archwayhosting.com</a>.  
+* This vs. That &#8211; A new six part series available for download made just for geeky skeptics like you! Use offer code &#8220;nomads&#8221; at checkout for 25% off your purchase at <a href="http://www.thisvsthatshow.com/" target="_blank" rel="noopener">thisvsthatshow.com</a>.
+
+<hr width="500" />
+
+You can find us online at <a href="https://www.htotw.com/" target="_blank" rel="noopener">www.htotw.com</a>, follow us on Twitter <a href="https://twitter.com/AtheistNomads" target="_blank" rel="noopener">@AtheistNomads</a>, <a href="https://htotw.com/facebook" target="_blank" rel="noopener">like us on Facebook</a>, email us at <contact@htotw.com>, and leave us a voice mail message at (541) 203-0666.
+
+Theme music is provided by Sturdy Fred.
+
+Recorded for release on 2014-01-16
+
+[notice]The live streaming players below are known to be problematic. Use one of them to sample the show, but if you want to listen to the whole episode it is recommended that you either download the episode to your computer or mobile device or subscribe using iTunes or another podcatcher.[/notice]

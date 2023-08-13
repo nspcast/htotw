@@ -1,0 +1,6 @@
+baseURL = 'https://htotw.com/'
+languageCode = 'en-us'
+title = 'Humanists Take on the World'
+theme = 'ananke'
+[markup.goldmark.renderer]
+  unsafe= true
