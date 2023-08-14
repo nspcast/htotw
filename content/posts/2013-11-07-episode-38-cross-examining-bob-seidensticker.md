@@ -32,7 +32,7 @@ categories:
   <meta itemprop="description" content="FEEDBACK
 * Brian | Cornell | American Association for the Advancement of Science | Science Daily
 
-Email us at contact@htotw.com or call us at (541) 203-0666.
+Email us at [redacted] or call us at (541) 203-0666.
 
 SUPPORTERS
 
@@ -60,7 +60,7 @@ Platinum Sponsor – US$10.00 per month
 FEEDBACK  
 * Brian | <a href="http://www.news.cornell.edu/stories/2006/07/bt-cotton-china-fails-reap-profit-after-seven-years" target="_blank" rel="noopener">Cornell</a> | <a href="http://www.sciencemag.org/content/328/5982/1151" target="_blank" rel="noopener">American Association for the Advancement of Science</a> | <a href="http://www.sciencedaily.com/releases/2012/07/120717131347.htm" target="_blank" rel="noopener">Science Daily</a>
 
-Email us at contact@htotw.com or call us at (541) 203-0666.
+Email us at [redacted] or call us at (541) 203-0666.
 
 SUPPORTERS
 
@@ -127,7 +127,7 @@ This episode is brought to you by:
 
 <hr width="500" />
 
-You can find us online at <a href="https://www.htotw.com/" target="_blank" rel="noopener">www.htotw.com</a>, follow us on Twitter <a href="https://twitter.com/AtheistNomads" target="_blank" rel="noopener">@AtheistNomads</a>, <a href="https://htotw.com/facebook" target="_blank" rel="noopener">like us on Facebook</a>, email us at <contact@htotw.com>, and leave us a voice mail message at (541) 203-0666.
+You can find us online at <a href="https://www.htotw.com/" target="_blank" rel="noopener">www.htotw.com</a>, follow us on Twitter <a href="https://twitter.com/AtheistNomads" target="_blank" rel="noopener">@AtheistNomads</a>, <a href="https://htotw.com/facebook" target="_blank" rel="noopener">like us on Facebook</a>, use the [contact form](https://htotw.com/contact), and leave us a voice mail message at (541) 203-0666.
 
 Theme music is provided by Sturdy Fred.
 

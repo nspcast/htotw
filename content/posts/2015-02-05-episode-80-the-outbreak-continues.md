@@ -87,7 +87,7 @@ FEEDBACK
 * @JR3045 via Twitter regarding Epiosde 79  
 * Neil via the website regarding Episode 79
 
-Email us at contact@htotw.com, tweet us @atheistnomads, find us on Facebook at facebook.com/atheistnomads, or call us at (541) 203-0666.
+Email us at [redacted], tweet us @atheistnomads, find us on Facebook at facebook.com/atheistnomads, or call us at (541) 203-0666.
 
 SUPPORTERS
 
@@ -120,6 +120,6 @@ Bronze Sponsor &#8211; US$10.00 per year
 
 <hr width="500" />
 
-You can find us online at <a href="https://www.htotw.com/" target="_blank" rel="noopener">www.htotw.com</a>, follow us on Twitter <a href="https://twitter.com/AtheistNomads" target="_blank" rel="noopener">@AtheistNomads</a>, <a href="https://htotw.com/facebook" target="_blank" rel="noopener">like us on Facebook</a>, email us at <contact@htotw.com>, and leave us a voice mail message at (541) 203-0666.
+You can find us online at <a href="https://www.htotw.com/" target="_blank" rel="noopener">www.htotw.com</a>, follow us on Twitter <a href="https://twitter.com/AtheistNomads" target="_blank" rel="noopener">@AtheistNomads</a>, <a href="https://htotw.com/facebook" target="_blank" rel="noopener">like us on Facebook</a>, use the [contact form](https://htotw.com/contact), and leave us a voice mail message at (541) 203-0666.
 
 Theme music is provided by Sturdy Fred.

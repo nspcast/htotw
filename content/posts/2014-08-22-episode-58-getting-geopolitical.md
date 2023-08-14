@@ -35,7 +35,7 @@ FEEDBACK
 
 Travis via voicemail
 
-Email us at contact@htotw.com or call u..." />
+Email us at [redacted] or call u..." />
   
   <meta itemprop="contentUrl" content="https://dts.podtrac.com/redirect.mp3/cdn.nomads.studio/file/nsp-media/atheist_nomads_058.mp3" />
   
@@ -61,7 +61,7 @@ FEEDBACK
 
 Travis via voicemail
 
-Email us at contact@htotw.com or call us at (541) 203-0666.
+Email us at [redacted] or call us at (541) 203-0666.
 
 SUPPORTERS
 
@@ -93,7 +93,7 @@ Kickass Patron – US$1.00 per episode
 
 <hr width="500" />
 
-You can find us online at <a href="https://www.htotw.com/" target="_blank" rel="noopener">www.htotw.com</a>, follow us on Twitter <a href="https://twitter.com/AtheistNomads" target="_blank" rel="noopener">@AtheistNomads</a>, <a href="https://htotw.com/facebook" target="_blank" rel="noopener">like us on Facebook</a>, email us at <contact@htotw.com>, and leave us a voice mail message at (541) 203-0666.
+You can find us online at <a href="https://www.htotw.com/" target="_blank" rel="noopener">www.htotw.com</a>, follow us on Twitter <a href="https://twitter.com/AtheistNomads" target="_blank" rel="noopener">@AtheistNomads</a>, <a href="https://htotw.com/facebook" target="_blank" rel="noopener">like us on Facebook</a>, use the [contact form](https://htotw.com/contact), and leave us a voice mail message at (541) 203-0666.
 
 Theme music is provided by Sturdy Fred.
 

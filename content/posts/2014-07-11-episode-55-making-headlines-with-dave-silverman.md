@@ -119,7 +119,7 @@ The Ugly:
 * Glen via email  
 * Graham via email
 
-Email us at contact@htotw.com or call us at (541) 203-0666.
+Email us at [redacted] or call us at (541) 203-0666.
 
 SUPPORTERS
 
@@ -140,7 +140,7 @@ Archway Hosting provides full featured web hosting for a fraction of the cost of
 
 <hr width="500" />
 
-You can find us online at <a href="https://www.htotw.com/" target="_blank" rel="noopener">www.htotw.com</a>, follow us on Twitter <a href="https://twitter.com/AtheistNomads" target="_blank" rel="noopener">@AtheistNomads</a>, <a href="https://htotw.com/facebook" target="_blank" rel="noopener">like us on Facebook</a>, email us at <contact@htotw.com>, and leave us a voice mail message at (541) 203-0666.
+You can find us online at <a href="https://www.htotw.com/" target="_blank" rel="noopener">www.htotw.com</a>, follow us on Twitter <a href="https://twitter.com/AtheistNomads" target="_blank" rel="noopener">@AtheistNomads</a>, <a href="https://htotw.com/facebook" target="_blank" rel="noopener">like us on Facebook</a>, use the [contact form](https://htotw.com/contact), and leave us a voice mail message at (541) 203-0666.
 
 Theme music is provided by Sturdy Fred.
 

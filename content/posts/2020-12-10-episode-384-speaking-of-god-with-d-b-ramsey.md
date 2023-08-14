@@ -84,7 +84,7 @@ And by our $1 patrons and those who want no reward.
 
 <!-- wp:paragraph -->
 
-You can find us online at [www.htotw.com][6], follow us on Twitter [@AtheistNomads][7], [like us on Facebook][8], email us at <contact@htotw.com>, and leave us a voice message using [SpeakPipe][1].
+You can find us online at [www.htotw.com][6], follow us on Twitter [@AtheistNomads][7], [like us on Facebook][8], use the [contact form](https://htotw.com/contact), and leave us a voice message using [SpeakPipe][1].
 
 <!-- /wp:paragraph -->
 

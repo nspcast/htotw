@@ -89,7 +89,7 @@ FEEDBACK
 * Virginia Dawn via Facebook  
 * @RandyLaMonda via Twitter
 
-Email us at contact@htotw.com or call us at (541) 203-0666.
+Email us at [redacted] or call us at (541) 203-0666.
 
 SUPPORTERS
 

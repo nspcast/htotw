@@ -86,7 +86,7 @@ Dale is editor and co-author of books including Parenting Beyond Belief, Raising
 
 <hr width="500" />
 
-You can find us online at <a href="https://www.htotw.com/" target="_blank" rel="noopener">www.htotw.com</a>, follow us on Twitter <a href="https://twitter.com/AtheistNomads" target="_blank" rel="noopener">@AtheistNomads</a>, email us at <contact@htotw.com>, leave us a voice mail message at (541) 203-0666, find us blogging at [www.dwnomad.com][3], and <a href="https://htotw.com/facebook" target="_blank" rel="noopener">like us on Facebook</a>.
+You can find us online at <a href="https://www.htotw.com/" target="_blank" rel="noopener">www.htotw.com</a>, follow us on Twitter <a href="https://twitter.com/AtheistNomads" target="_blank" rel="noopener">@AtheistNomads</a>, use the [contact form](https://htotw.com/contact), leave us a voice mail message at (541) 203-0666, find us blogging at [www.dwnomad.com][3], and <a href="https://htotw.com/facebook" target="_blank" rel="noopener">like us on Facebook</a>.
 
 Theme music is provided by Sturdy Fred.
 

@@ -29,7 +29,7 @@ categories:
   
   <meta itemprop="description" content="It’s a news week and there sure is a lot.
 
- 	Email us at contact@htotw.com or leave us a voice message using htotw.com/speakpipe
+ 	Email us at [redacted] or leave us a voice message using htotw.com/speakpipe
  	Support the show at htotw.com/donate
  	Subscribe at htotw.com/subscribe
 
@@ -57,7 +57,7 @@ Announcements
 
 It’s a news week and there sure is a lot.
 
-  * Email us at <a href="mailto:contact@htotw.com%E2%80%9D%20target=" rel="noopener noreferrer">contact@htotw.com</a> or leave us a voice message using <a href="https://htotw.com/speakpipe" target="_blank" rel="noopener noreferrer">htotw.com/speakpipe</a>
+  * Email us at <a href="mailto:[redacted]%E2%80%9D%20target=" rel="noopener noreferrer">[redacted]</a> or leave us a voice message using <a href="https://htotw.com/speakpipe" target="_blank" rel="noopener noreferrer">htotw.com/speakpipe</a>
   * Support the show at <a href="https://htotw.com/donate" target="_blank" rel="noopener noreferrer">htotw.com/donate</a>
   * Subscribe at <a href="https://htotw.com/subscribe" target="_blank" rel="noopener noreferrer">htotw.com/subscribe</a>
 
@@ -95,7 +95,7 @@ This episode is brought to you by:
 
 And by our $1 patrons and those who want no reward.
 
-You can find us online at <a href="https://www.htotw.com/" target="_blank" rel="noopener noreferrer">www.htotw.com</a>, follow us on Twitter <a href="https://twitter.com/AtheistNomads" target="_blank" rel="noopener noreferrer">@AtheistNomads</a>, <a href="https://www.facebook.com/AtheistNomads" target="_blank" rel="noopener noreferrer">like us on Facebook</a>, email us at <contact@htotw.com>, and leave us a voice message using <a href="https://htotw.com/speakpipe" target="_blank" rel="noopener noreferrer">SpeakPipe</a>.
+You can find us online at <a href="https://www.htotw.com/" target="_blank" rel="noopener noreferrer">www.htotw.com</a>, follow us on Twitter <a href="https://twitter.com/AtheistNomads" target="_blank" rel="noopener noreferrer">@AtheistNomads</a>, <a href="https://www.facebook.com/AtheistNomads" target="_blank" rel="noopener noreferrer">like us on Facebook</a>, use the [contact form](https://htotw.com/contact), and leave us a voice message using <a href="https://htotw.com/speakpipe" target="_blank" rel="noopener noreferrer">SpeakPipe</a>.
 
 Theme music is provided by Sturdy Fred.
 

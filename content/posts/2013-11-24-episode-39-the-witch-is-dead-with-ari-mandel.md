@@ -37,7 +37,7 @@ categories:
 
 FEEDBACK
 
-* Email us at contact@htotw.com or call us at (541) 203-0666.
+* Email us at [redacted] or call us at (541) 203-0666.
 
 THIS DAY IN HISTORY - November 21
 
@@ -69,7 +69,7 @@ INTRO
 
 FEEDBACK
 
-* Email us at <a href="mailto:contact@htotw.com" target="_blank" rel="noopener">contact@htotw.com</a> or call us at (541) 203-0666.
+* Email us at <a href="mailto:[redacted]" target="_blank" rel="noopener">[redacted]</a> or call us at (541) 203-0666.
 
 THIS DAY IN HISTORY &#8211; November 21
 
@@ -140,7 +140,7 @@ Gold Sponsor – US$5.00 per month
 
 <hr width="500" />
 
-You can find us online at <a href="https://www.htotw.com/" target="_blank" rel="noopener">www.htotw.com</a>, follow us on Twitter <a href="https://twitter.com/AtheistNomads" target="_blank" rel="noopener">@AtheistNomads</a>, <a href="https://htotw.com/facebook" target="_blank" rel="noopener">like us on Facebook</a>, email us at <contact@htotw.com>, and leave us a voice mail message at (541) 203-0666.
+You can find us online at <a href="https://www.htotw.com/" target="_blank" rel="noopener">www.htotw.com</a>, follow us on Twitter <a href="https://twitter.com/AtheistNomads" target="_blank" rel="noopener">@AtheistNomads</a>, <a href="https://htotw.com/facebook" target="_blank" rel="noopener">like us on Facebook</a>, use the [contact form](https://htotw.com/contact), and leave us a voice mail message at (541) 203-0666.
 
 Theme music is provided by Sturdy Fred.
 

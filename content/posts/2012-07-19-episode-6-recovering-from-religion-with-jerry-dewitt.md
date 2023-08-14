@@ -91,4 +91,4 @@ The music is provided by Sturdy Fred.
  [4]: http://clergyproject.org/
  [5]: https://twitter.com/jerry_dewitt
  [6]: https://www.htotw.com
- [7]: mailto:contact@htotw.com
+ [7]: mailto:[redacted]

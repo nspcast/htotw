@@ -84,7 +84,7 @@ Kristi &#8211; with correction on [genetic resistance to HIV][1]
 
 <hr width="500" />
 
-You can find us online at www.htotw.com, email us at <contact@htotw.com>, leave us a voice mail message at (541) 203-0666, find us blogging at [www.dwnomad.com][4], and <a href="https://htotw.com/facebook" target="_blank" rel="noopener">like us on Facebook</a>.
+You can find us online at www.htotw.com, use the [contact form](https://htotw.com/contact), leave us a voice mail message at (541) 203-0666, find us blogging at [www.dwnomad.com][4], and <a href="https://htotw.com/facebook" target="_blank" rel="noopener">like us on Facebook</a>.
 
 Theme music is provided by Sturdy Fred.
 

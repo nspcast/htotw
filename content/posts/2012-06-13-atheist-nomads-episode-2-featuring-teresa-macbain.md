@@ -39,7 +39,7 @@ categories:
 
 Sorry about the sound quality, we're still learning and fine tuning things.
 
-You can now contact both of us at contact@htotw.com, Wesley at wesley@htotw.com,..." />
+You can now contact both of us at [redacted], Wesley at [redacted],..." />
   
   <meta itemprop="contentUrl" content="https://dts.podtrac.com/redirect.mp3/cdn.nomads.studio/file/nsp-media/atheist_nomads_002.mp3" />
   
@@ -62,8 +62,6 @@ You can now contact both of us at contact@htotw.com, Wesley at wesley@htotw.com,
 We are very pleased to have Teresa MacBain as our guest! You can find more about her below.
 
 Sorry about the sound quality, we&#8217;re still learning and fine tuning things.
-
-You can now contact both of us at <contact@htotw.com>, Wesley at <wesley@htotw.com>, or Dustin at <dustin@htotw.com>. You can also leave us voice mail at (541) 203-0666 and we may even play your message on the show.
 
 This Day in History
 

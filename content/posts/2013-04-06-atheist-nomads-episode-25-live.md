@@ -20,4 +20,4 @@ Here&#8217;s the video:
 
 
 
-For live feedback you can tweet us <a href="https://twitter.com/AtheistNomads" target="_blank" rel="noopener">@AtheistNomads</a>, comment on the <a href="https://www.facebook.com/events/104552163076115/" target="_blank" rel="noopener">Facebook event page</a>, Google+ post, comment on right here, or email us at <a href="mailto:contact@htotw.com" target="_blank" rel="noopener">contact@htotw.com</a>.
+For live feedback you can tweet us <a href="https://twitter.com/AtheistNomads" target="_blank" rel="noopener">@AtheistNomads</a>, comment on the <a href="https://www.facebook.com/events/104552163076115/" target="_blank" rel="noopener">Facebook event page</a>, Google+ post, comment on right here, or email us at <a href="mailto:[redacted]" target="_blank" rel="noopener">[redacted]</a>.

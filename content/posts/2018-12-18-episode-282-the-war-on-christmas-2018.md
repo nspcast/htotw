@@ -62,7 +62,7 @@ Erin is with us for the annual waging of the War on the War on the War on Christ
 
 
 
-Contact us at contact@htotw.com, call (541) 203-0666, or by going to htotw.com/speakpipe.Support the show at htotw.com/donateTake the survey at htotw.com..." />
+Contact us at [redacted], call (541) 203-0666, or by going to htotw.com/speakpipe.Support the show at htotw.com/donateTake the survey at htotw.com..." />
   
   <meta itemprop="contentUrl" content="https://dts.podtrac.com/redirect.mp3/cdn.nomads.studio/file/nsp-media/atheist_nomads_282.mp3" />
   
@@ -83,7 +83,7 @@ Erin is with us for the annual waging of the War on the War on the War on Christ
 
 <!--more-->
 
-  * Contact us at <contact@htotw.com>, call (541) 203-0666, or by going to <a rel="noreferrer noopener" href="https://htotw.com/speakpipe" target="_blank">htotw.com/speakpipe</a>.
+  * Contact us at <[redacted]>, call (541) 203-0666, or by going to <a rel="noreferrer noopener" href="https://htotw.com/speakpipe" target="_blank">htotw.com/speakpipe</a>.
   * Support the show at <a rel="noreferrer noopener" href="https://htotw.com/donate" target="_blank">htotw.com/donate</a>
   * Take the survey at <a rel="noreferrer noopener" href="https://htotw.com/survey" target="_blank">htotw.com/survey</a>
   * 
@@ -134,7 +134,7 @@ This episode is brought to you by:
 
 <hr class="wp-block-separator" />
 
-You can find us online at <a href="https://www.htotw.com/" target="_blank" rel="noopener">www.htotw.com</a>, follow us on Twitter <a href="https://twitter.com/AtheistNomads" target="_blank" rel="noopener">@AtheistNomads</a>, <a href="https://htotw.com/facebook" target="_blank" rel="noopener">like us on Facebook</a>, email us at <contact@htotw.com>, and leave us a voice mail message at (541) 203-0666.
+You can find us online at <a href="https://www.htotw.com/" target="_blank" rel="noopener">www.htotw.com</a>, follow us on Twitter <a href="https://twitter.com/AtheistNomads" target="_blank" rel="noopener">@AtheistNomads</a>, <a href="https://htotw.com/facebook" target="_blank" rel="noopener">like us on Facebook</a>, use the [contact form](https://htotw.com/contact), and leave us a voice mail message at (541) 203-0666.
 
 Theme music is provided by Sturdy Fred.
 

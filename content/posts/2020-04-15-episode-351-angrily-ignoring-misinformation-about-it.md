@@ -33,7 +33,7 @@ categories:
 
 
 
- 	Email us at contact@htotw.com or leave us a voice message using htotw.com/speakpip..." />
+ 	Email us at [redacted] or leave us a voice message using htotw.com/speakpip..." />
   
   <meta itemprop="contentUrl" content="https://dts.podtrac.com/redirect.mp3/cdn.nomads.studio/file/nsp-media/atheist_nomads_351.mp3" />
   
@@ -57,7 +57,7 @@ This week is a solo episode where Dustin rants about COVID-19 misinformation, pe
 
 <!--more-->
 
-  * Email us at <a href="mailto:contact@htotw.com” target=" rel="noopener noreferrer">contact@htotw.com</a> or leave us a voice message using <a href="https://htotw.com/speakpipe" target="_blank" rel="noopener noreferrer">htotw.com/speakpipe</a>
+  * The feedback form is at [htotw.com/contact](https://htotw.com/contact) or leave us a voice message using <a href="https://htotw.com/speakpipe" target="_blank" rel="noopener noreferrer">htotw.com/speakpipe</a>
   * Support the show at <a href="https://htotw.com/donate" target="_blank" rel="noopener noreferrer">htotw.com/donate</a>
   * Subscribe at <a href="https://htotw.com/subscribe" target="_blank" rel="noopener noreferrer">htotw.com/subscribe</a>
 
@@ -97,7 +97,7 @@ And by our $1 patrons and those who want no reward.
 
 <hr width="500" />
 
-You can find us online at <a href="https://www.htotw.com/" target="_blank" rel="noopener noreferrer">www.htotw.com</a>, follow us on Twitter <a href="https://twitter.com/AtheistNomads" target="_blank" rel="noopener noreferrer">@AtheistNomads</a>, <a href="https://htotw.com/facebook" target="_blank" rel="noopener noreferrer">like us on Facebook</a>, email us at <contact@htotw.com>, and leave us a voice message using <a href="https://htotw.com/speakpipe" target="_blank" rel="noopener noreferrer">SpeakPipe</a>.
+You can find us online at <a href="https://www.htotw.com/" target="_blank" rel="noopener noreferrer">www.htotw.com</a>, follow us on Twitter <a href="https://twitter.com/AtheistNomads" target="_blank" rel="noopener noreferrer">@AtheistNomads</a>, <a href="https://htotw.com/facebook" target="_blank" rel="noopener noreferrer">like us on Facebook</a>, use the [contact form](https://htotw.com/contact), and leave us a voice message using <a href="https://htotw.com/speakpipe" target="_blank" rel="noopener noreferrer">SpeakPipe</a>.
 
 Theme music is provided by Sturdy Fred.
 

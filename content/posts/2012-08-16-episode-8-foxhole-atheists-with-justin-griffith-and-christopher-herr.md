@@ -33,7 +33,7 @@ categories:
 
 01:41 FEEDBACK
 
-Kudos from Neil and mixed reviews on iTunes. If you think there's room for improvement and we know there is, please email us at contact@htotw.com with specifics on what we can do better.
+Kudos from Neil and mixed reviews on iTunes. If you think there's room for improvement and we know there is, please use the [contact form](https://htotw.com/contact) with specifics on what we can do better.
 
 05:27 THIS DAY IN HISTORY ..." />
   
@@ -59,7 +59,7 @@ Kudos from Neil and mixed reviews on iTunes. If you think there's room for impro
 
 01:41 FEEDBACK
 
-Kudos from Neil and mixed reviews on iTunes. If you think there&#8217;s room for improvement and we know there is, please email us at contact@htotw.com with specifics on what we can do better.
+Kudos from Neil and mixed reviews on iTunes. If you think there&#8217;s room for improvement and we know there is, please use the [contact form](https://htotw.com/contact) with specifics on what we can do better.
 
 05:27 THIS DAY IN HISTORY &#8211; August 16
 
@@ -100,7 +100,7 @@ SGT Justin Griffith, USA, is the Military Director for American Atheists and was
 
 <hr width="500" />
 
-You can email us at <contact@htotw.com>, leave us a voice mail message at (541) 203-0666, find us blogging at <a href="http://www.dwnomad.com" target="_blank" rel="noopener">www.dwnomad.com</a>, and <a href="https://htotw.com/facebook" target="_blank" rel="noopener">like us on Facebook</a>.
+You can use the [contact form](https://htotw.com/contact), leave us a voice mail message at (541) 203-0666, find us blogging at <a href="http://www.dwnomad.com" target="_blank" rel="noopener">www.dwnomad.com</a>, and <a href="https://htotw.com/facebook" target="_blank" rel="noopener">like us on Facebook</a>.
 
 Theme music is provided by Sturdy Fred.
 
