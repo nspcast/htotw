@@ -17,7 +17,7 @@ This week we talk about AHA leadership changes, Jeep&#8217;s Super Bowl Commerci
 
 <!--more-->
 
- * Got feedback? Use the <a href="https://htotw.com/contact" target="_blank" rel="noopener">contact form or leave us a voice message using </a>[htotw.com/speakpipe][1]
+ * Got feedback? Use the <a href="https://htotw.com/contact" target="_blank" rel="noopener">contact form</a> or leave us a voice message using [htotw.com/speakpipe][1]
  * Support the show at [htotw.com/donate][2]
  * Subscribe at [htotw.com/subscribe][3]
  * Join our Discord server at [htotw.com/discord][4]

@@ -17,7 +17,7 @@ This week we talk about Idaho&#8217;s latest legislative shenanigans, Oklahoma&#
 
 <!--more-->
 
- * use the [contact form](https://htotw.com/contact) or leave us a voice message using [htotw.com/speakpipe][1]
+ * Use the [contact form](https://htotw.com/contact) or leave us a voice message using [htotw.com/speakpipe][1]
  * Support the show at [htotw.com/donate][2]
  * Subscribe at [htotw.com/subscribe][3]
  * Join our Discord server at [htotw.com/discord][4]

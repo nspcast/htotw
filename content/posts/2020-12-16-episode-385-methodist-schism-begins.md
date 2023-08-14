@@ -21,7 +21,7 @@ This week we talk about Hanukkah, the start of the Methodist schism, Bundy&#8217
 
 <!--more-->
 
- * use the [contact form](https://htotw.com/contact) or leave us a voice message using [htotw.com/speakpipe][1]
+ * Use the [contact form](https://htotw.com/contact) or leave us a voice message using [htotw.com/speakpipe][1]
  * Support the show at [htotw.com/donate][2]
  * Subscribe at [htotw.com/subscribe][3]
  * Join our Discord server at [htotw.com/discord][4]
