@@ -19,11 +19,11 @@ In this episode we are joined by Nadya Dutchin the new Executive Director of the
 
 <!--more-->
 
-  * The feedback form is at [httow.com/contact][3]
-  * Leave us voice message at +1 (208) 996-8667 or [htotw.com/speakpipe][4]
-  * Support the show on [a monthy basis with Patreon][5] or [on just once with PayPal][6]
-  * Subscribe at [htotw.com/subscribe][7]
-  * Join our Discord server at [htotw.com/discord][8]
+* The feedback form is at [httow.com/contact][3]
+* Leave us voice message at +1 (208) 996-8667 or [htotw.com/speakpipe][4]
+* Support the show on [a monthy basis with Patreon][5] or [on just once with PayPal][6]
+* Subscribe at [htotw.com/subscribe][7]
+* Join our Discord server at [htotw.com/discord][8]
 
 ### Feedback
 

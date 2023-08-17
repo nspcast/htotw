@@ -17,11 +17,11 @@ This week we talk about Prosperity Theology, which is background we need to cont
 
 <!--more-->
 
-  * The feedback form is at [htotw.com/contact][1]
-  * Leave us voice message at [htotw.com/speakpipe][2]
-  * Support the show at [htotw.com/donate][3]
-  * Subscribe at [htotw.com/subscribe][4]
-  * Join our Discord server at [htotw.com/discord][5]
+ * The feedback form is at [htotw.com/contact][1]
+ * Leave us voice message at [htotw.com/speakpipe][2]
+ * Support the show at [htotw.com/donate][3]
+ * Subscribe at [htotw.com/subscribe][4]
+ * Join our Discord server at [htotw.com/discord][5]
 
 ### Dustin&#8217; off the Degree
 

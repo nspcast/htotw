@@ -18,11 +18,11 @@ We are joined by Kevin Bolling, Executive Director of the Secular Student Allian
 
 <!--more-->
 
-  * The feedback form is at [htotw.com/contact][2]
-  * Leave us voice message at +1 (208) 996-8667 or [htotw.com/speakpipe][3]
-  * Support the show on a monthy basis with Patreon or just once with PayPal, credit or debit card, Apple Pay, or Google Pay links are at [htotw.com/donate][4]
-  * Subscribe at [htotw.com/subscribe][5]
-  * Join our Discord server at [htotw.com/discord][6]
+ * The feedback form is at [htotw.com/contact][2]
+ * Leave us voice message at +1 (208) 996-8667 or [htotw.com/speakpipe][3]
+ * Support the show on a monthy basis with Patreon or just once with PayPal, credit or debit card, Apple Pay, or Google Pay links are at [htotw.com/donate][4]
+ * Subscribe at [htotw.com/subscribe][5]
+ * Join our Discord server at [htotw.com/discord][6]
 
 ### Feedback
 
@@ -30,7 +30,7 @@ Voicemail from Robert
 
 ### Support
 
-&#8211; Nathan
+- Nathan
 
 This episode is brought to you by:
 

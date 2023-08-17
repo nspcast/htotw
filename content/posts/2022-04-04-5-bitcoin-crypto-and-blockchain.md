@@ -16,11 +16,11 @@ This week we talk about what Bitcoin is, how it works in theory, how it works in
 
 <!--more-->
 
-  * The feedback form is at [htotw.com/contact][1]
-  * Leave us voice message at +1 (208) 996-8667 or [htotw.com/speakpipe][2]
-  * Support the show on a monthy basis with Patreon or just once with PayPal, credit or debit card, Apple Pay, or Google Pay links are at [htotw.com/donate][3]
-  * Subscribe at [htotw.com/subscribe][4]
-  * Join our Discord server at [htotw.com/discord][5]
+ * The feedback form is at [htotw.com/contact][1]
+ * Leave us voice message at +1 (208) 996-8667 or [htotw.com/speakpipe][2]
+ * Support the show on a monthy basis with Patreon or just once with PayPal, credit or debit card, Apple Pay, or Google Pay links are at [htotw.com/donate][3]
+ * Subscribe at [htotw.com/subscribe][4]
+ * Join our Discord server at [htotw.com/discord][5]
 
 ### Crypto
 
@@ -47,11 +47,11 @@ This week we talk about what Bitcoin is, how it works in theory, how it works in
       * Climate
 
 Sources  
-&#8211; https://mitsloan.mit.edu/ideas-made-to-matter/bitcoin-who-owns-it-who-mines-it-whos-breaking-law  
-&#8211; https://bitinfocharts.com/  
-&#8211; https://en.wikipedia.org/wiki/Bitcoin#Design  
-&#8211; https://news.climate.columbia.edu/2021/09/20/bitcoins-impacts-on-climate-and-the-environment/  
-&#8211; https://www.bbc.com/news/technology-56012952
+- https://mitsloan.mit.edu/ideas-made-to-matter/bitcoin-who-owns-it-who-mines-it-whos-breaking-law  
+- https://bitinfocharts.com/  
+- https://en.wikipedia.org/wiki/Bitcoin#Design  
+- https://news.climate.columbia.edu/2021/09/20/bitcoins-impacts-on-climate-and-the-environment/  
+- https://www.bbc.com/news/technology-56012952
 
 ### Feedback
 

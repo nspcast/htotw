@@ -17,23 +17,23 @@ This week we talk changes the format of the show.
 
 <!--more-->
 
-  * The feedback form is at [htotw.com/contact][1]
-  * Leave us voice message at [htotw.com/speakpipe][2]
-  * Support the show at [htotw.com/donate][3]
-  * Subscribe at [htotw.com/subscribe][4]
-  * Join our Discord server at [htotw.com/discord][5]
+ * The feedback form is at [htotw.com/contact][1]
+ * Leave us voice message at [htotw.com/speakpipe][2]
+ * Support the show at [htotw.com/donate][3]
+ * Subscribe at [htotw.com/subscribe][4]
+ * Join our Discord server at [htotw.com/discord][5]
 
 ### Discussion
 
 Atheist Nomads 4.0
 
 So what will the show be now?  
-&#8211; Each episode will be single topic and shorter. Probably 20 &#8211; 30 minutes.  
-&#8211; Some will be a ‘Dustin’ off the Degree&#8217; even though I won’t call it that any more. I also plan to increase the rigor on these.  
-&#8211; Some will be discussions of specific big stories in the news.  
-&#8211; Some will be discussions of concerning trends in the news.  
-&#8211; Some will be discussions of random topics of interest to atheists, humanists, and/or skeptics.  
-&#8211; Some will be interviews.
+- Each episode will be single topic and shorter. Probably 20 - 30 minutes.  
+- Some will be a ‘Dustin’ off the Degree&#8217; even though I won’t call it that any more. I also plan to increase the rigor on these.  
+- Some will be discussions of specific big stories in the news.  
+- Some will be discussions of concerning trends in the news.  
+- Some will be discussions of random topics of interest to atheists, humanists, and/or skeptics.  
+- Some will be interviews.
 
 ### Feedback
 

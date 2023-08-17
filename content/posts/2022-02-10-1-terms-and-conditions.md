@@ -16,11 +16,11 @@ It’s the rebrand/relaunch as Humanists Take on the World and we start with an 
 
 <!--more-->
 
-  * The feedback form is at [httow.com/contact][1]
-  * Leave us voice message at +1 (208) 996-8667 or [htotw.com/speakpipe][2]
-  * Support the show on [a monthy basis with Patreon][3] or [on just once with PayPal][4]
-  * Subscribe at [htotw.com/subscribe][5]
-  * Join our Discord server at [htotw.com/discord][6]
+ * The feedback form is at [httow.com/contact][1]
+ * Leave us voice message at +1 (208) 996-8667 or [htotw.com/speakpipe][2]
+ * Support the show on [a monthy basis with Patreon][3] or [on just once with PayPal][4]
+ * Subscribe at [htotw.com/subscribe][5]
+ * Join our Discord server at [htotw.com/discord][6]
 
 ### Terms and Conditions
 

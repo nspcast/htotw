@@ -16,15 +16,15 @@ Just like everyone else we’re talking about the draft Supreme Court ruling tha
 
 <!--more-->
 
-  * The feedback form is at [htotw.com/contact][1]
-  * Leave us voice message at +1 (208) 996-8667 or [htotw.com/speakpipe][2]
-  * Support the show on a monthy basis with Patreon or just once with PayPal, credit or debit card, Apple Pay, or Google Pay links are at [htotw.com/donate][3]
-  * Subscribe at [htotw.com/subscribe][4]
-  * Join our Discord server at [htotw.com/discord][5]
+ * The feedback form is at [htotw.com/contact][1]
+ * Leave us voice message at +1 (208) 996-8667 or [htotw.com/speakpipe][2]
+ * Support the show on a monthy basis with Patreon or just once with PayPal, credit or debit card, Apple Pay, or Google Pay links are at [htotw.com/donate][3]
+ * Subscribe at [htotw.com/subscribe][4]
+ * Join our Discord server at [htotw.com/discord][5]
 
 ### Announcements
 
-  * Facebook Podcasts Retirement &#8211; June 3
+  * Facebook Podcasts Retirement - June 3
   * Podcast hosting change again
   * Live stream May 21 at 1:00 PM MDT
 
@@ -35,20 +35,20 @@ Says ruling is limited to just abortion.
 Calls out Lawrence v Texas and Obergefell v Hodges as wrong decided with no constitutional or historical right tied to it, it even questions Loving v Virginia.
 
 Guts jurisprudance on Right to Privacy and personal Liberty  
-&#8211; Gay rights  
-&#8211; Trans rights  
-&#8211; Contraceptive access  
-&#8211; interracial marriage  
-&#8211; Personal liberty
+- Gay rights  
+- Trans rights  
+- Contraceptive access  
+- Interracial marriage  
+- Personal liberty
 
 Fit’s perfectly with World Congress of Families&#8217; goals which means the GOP has bought into White Genocide philosophy [See AN435][6]
 
 This is bad for everyone, but really bad for women:  
-&#8211; Many state bans do not have exceptions for the mothers health, that stops doctors from ending a miscarriage until the fetal heartbeat stops. This has killed women and will continue to do so.  
-&#8211; Many states are not leaving exceptions for rape or incest.  
-&#8211; Some are estimating that this will double maternal mortality for black women, not counting botched home abortions.  
-&#8211; This will increase child poverty by making it harder for women who have children to control their family sizes as well as increasing the number of women to drop out of high school, college, or forgo career opportunities.  
-&#8211; If the World Congress of Families gets their way, all women’s rights will be removed as they want individual rights eliminated and for families, under a man, to be where the rights are held
+- Many state bans do not have exceptions for the mothers health, that stops doctors from ending a miscarriage until the fetal heartbeat stops. This has killed women and will continue to do so.  
+- Many states are not leaving exceptions for rape or incest.  
+- Some are estimating that this will double maternal mortality for black women, not counting botched home abortions.  
+- This will increase child poverty by making it harder for women who have children to control their family sizes as well as increasing the number of women to drop out of high school, college, or forgo career opportunities.  
+- If the World Congress of Families gets their way, all women’s rights will be removed as they want individual rights eliminated and for families, under a man, to be where the rights are held
 
 ### News
 
@@ -66,8 +66,8 @@ This is bad for everyone, but really bad for women:
 
 ### Support
 
-  * Upgrading patron &#8211; Nathan
-  * New Patron &#8211; Mr. Ert
+  * Upgrading patron - Nathan
+  * New Patron - Mr. Ert
 
 This episode is brought to you by:
 

@@ -3,65 +3,24 @@ title: 362 Are bars or churches worse right now
 author: Dustin
 type: post
 date: 2020-07-10T04:07:43+00:00
-url: /episode-362-are-bars-or-churches-worse-right-now/
-enclosure:
-  - |
-    https://cdn.nomads.studio/file/nsp-media/atheist_nomads_362.mp3
-    52066304
-    audio/mpeg
-    a:5:{s:8:"duration";s:8:"01:12:15";s:6:"author";s:43:"Dustin Williams, Lauren Studley, Erin Riley";s:8:"explicit";s:1:"1";s:13:"episode_title";s:36:"Are bars or churches worse right now";s:10:"episode_no";s:3:"362";}
-audio_file:
-  - |
-    https://cdn.nomads.studio/file/nsp-media/atheist_nomads_362.mp3
-    52066304
-    audio/mpeg
-    a:5:{s:8:"duration";s:8:"01:12:15";s:6:"author";s:43:"Dustin Williams, Lauren Studley, Erin Riley";s:8:"explicit";s:1:"1";s:13:"episode_title";s:36:"Are bars or churches worse right now";s:10:"episode_no";s:3:"362";}
+url: /an/362/
+aliases: 
+  - /an/episode-362-are-bars-or-churches-worse-right-now/
+  - /episode-362-are-bars-or-churches-worse-right-now/
 categories:
   - Episodes
 
 ---
-<div itemscope itemtype="http://schema.org/AudioObject">
-  <meta itemprop="name" content="362 Are bars or churches worse right now" />
-  
-  <meta itemprop="uploadDate" content="2020-07-09T22:07:43-06:00" />
-  
-  <meta itemprop="encodingFormat" content="audio/mpeg" />
-  
-  <meta itemprop="duration" content="PT1H12M15S" />
-  
-  <meta itemprop="description" content="This week we’re joined by Erin and talk about some of the latest Black Lives Matter, Coronavirus, and church/state separation news.
-
-
-
- 	Email us at [redacted] or leave us a voice message using htotw.com/speakpipe
- 	Support the show at htotw.c..." />
-  
-  <meta itemprop="contentUrl" content="https://dts.podtrac.com/redirect.mp3/cdn.nomads.studio/file/nsp-media/atheist_nomads_362.mp3" />
-  
-  <meta itemprop="contentSize" content="49.7" />
-  </p> 
-  
-  <div class="powerpress_player" id="powerpress_player_8625">
-    <audio class="wp-audio-shortcode" id="audio-4466-369" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://dts.podtrac.com/redirect.mp3/cdn.nomads.studio/file/nsp-media/atheist_nomads_362.mp3?_=369" /><a href="https://dts.podtrac.com/redirect.mp3/cdn.nomads.studio/file/nsp-media/atheist_nomads_362.mp3">https://dts.podtrac.com/redirect.mp3/cdn.nomads.studio/file/nsp-media/atheist_nomads_362.mp3</a></audio>
-  </div>
-</div>
-
-<p class="powerpress_links powerpress_links_mp3">
-  Podcast: <a href="https://dts.podtrac.com/redirect.mp3/cdn.nomads.studio/file/nsp-media/atheist_nomads_362.mp3" class="powerpress_link_pinw" target="_blank" title="Play in new window" onclick="return powerpress_pinw('https://htotw.com/?powerpress_pinw=4466-podcast');" rel="nofollow">Play in new window</a> | <a href="https://dts.podtrac.com/redirect.mp3/cdn.nomads.studio/file/nsp-media/atheist_nomads_362.mp3" class="powerpress_link_d" title="Download" rel="nofollow" download="atheist_nomads_362.mp3">Download</a>
-</p>
-
-<p class="powerpress_links powerpress_subscribe_links">
-  Subscribe: <a href="https://podcasts.apple.com/us/podcast/humanists-take-on-the-world/id530050098?mt=2&ls=1" class="powerpress_link_subscribe powerpress_link_subscribe_itunes" target="_blank" title="Subscribe on Apple Podcasts" rel="nofollow">Apple Podcasts</a> | <a href="https://www.google.com/podcasts?feed=aHR0cDovL2F0aGVpc3Rub21hZHMubGlic3luLmNvbS9yc3M%3D" class="powerpress_link_subscribe powerpress_link_subscribe_googleplay" target="_blank" title="Subscribe on Google Podcasts" rel="nofollow">Google Podcasts</a> | <a href="https://open.spotify.com/show/3LzK2xZGike6Tc1GEMtMbr?si=LieN9SNuTpq96smuaUsH8A" class="powerpress_link_subscribe powerpress_link_subscribe_spotify" target="_blank" title="Subscribe on Spotify" rel="nofollow">Spotify</a> | <a href="https://www.pandora.com/podcast/atheist-nomads/PC:10122?corr=62071012&part=ug" class="powerpress_link_subscribe powerpress_link_subscribe_pandora" target="_blank" title="Subscribe on Pandora" rel="nofollow">Pandora</a> | <a href="https://htotw.com/feed/podcast/" class="powerpress_link_subscribe powerpress_link_subscribe_rss" target="_blank" title="Subscribe via RSS" rel="nofollow">RSS</a>
-</p>
+<div id="buzzsprout-player-10552747"></div><script src="https://www.buzzsprout.com/1983601/10552747-362-are-bars-or-churches-worse-right-now.js?container_id=buzzsprout-player-10552747&player=small" type="text/javascript" charset="utf-8"></script>
 
 This week we’re joined by Erin and talk about some of the latest Black Lives Matter, Coronavirus, and church/state separation news.
 
 <!--more-->
 
-  * The feedback form is at [htotw.com/contact](https://htotw.com/contact) or leave us a voice message using <a href="https://htotw.com/speakpipe" target="_blank" rel="noopener noreferrer">htotw.com/speakpipe</a>
-  * Support the show at <a href="https://htotw.com/donate" target="_blank" rel="payment noopener noreferrer">htotw.com/donate</a>
-  * Subscribe at <a href="https://htotw.com/subscribe" target="_blank" rel="noopener noreferrer">htotw.com/subscribe</a>
-  * Join our Discord server at <a href="https://htotw.com/discord" target="_blank" rel="noopener noreferrer">htotw.com/discord</a>
+ * The feedback form is at [htotw.com/contact](https://htotw.com/contact) or leave us a voice message using <a href="https://htotw.com/speakpipe" target="_blank" rel="noopener noreferrer">htotw.com/speakpipe</a>
+ * Support the show at <a href="https://htotw.com/donate" target="_blank" rel="payment noopener noreferrer">htotw.com/donate</a>
+ * Subscribe at <a href="https://htotw.com/subscribe" target="_blank" rel="noopener noreferrer">htotw.com/subscribe</a>
+ * Join our Discord server at <a href="https://htotw.com/discord" target="_blank" rel="noopener noreferrer">htotw.com/discord</a>
 
 ### News
 

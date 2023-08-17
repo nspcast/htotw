@@ -16,12 +16,12 @@ Dustin talks about the recent mass shootings, progress on gun reforms, and what 
 
 <!--more-->
 
-  * [Sale at the store 35% off June 22 &#8211; 26][1]
-  * The feedback form is at [htotw.com/contact][2]
-  * Leave us voice message at +1 (208) 996-8667 or [htotw.com/speakpipe][3]
-  * Support the show on a monthy basis with Patreon or just once with PayPal, credit or debit card, Apple Pay, or Google Pay links are at [htotw.com/donate][4]
-  * Subscribe at [htotw.com/subscribe][5]
-  * Join our Discord server at [htotw.com/discord][6]
+ * [Sale at the store 35% off June 22 &#8211; 26][1]
+ * The feedback form is at [htotw.com/contact][2]
+ * Leave us voice message at +1 (208) 996-8667 or [htotw.com/speakpipe][3]
+ * Support the show on a monthy basis with Patreon or just once with PayPal, credit or debit card, Apple Pay, or Google Pay links are at [htotw.com/donate][4]
+ * Subscribe at [htotw.com/subscribe][5]
+ * Join our Discord server at [htotw.com/discord][6]
 
 ### Recent mass shootings
 

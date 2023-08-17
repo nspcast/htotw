@@ -18,11 +18,11 @@ Please note the Podcast’s Twitter account has been deleted. The Facebook page 
 
 <!--more-->
 
-  * The feedback form is at [htotw.com/contact][1]
-  * Leave us voice message at +1 (208) 996-8667 or [htotw.com/speakpipe][2]
-  * Support the show on a monthly basis with Patreon or just once with PayPal, credit or debit card, Apple Pay, or Google Pay links are at [htotw.com/donate][3]
-  * Subscribe at [htotw.com/subscribe][4]
-  * Join our Discord server at [htotw.com/discord][5]
+* The feedback form is at [htotw.com/contact][1]
+* Leave us voice message at +1 (208) 996-8667 or [htotw.com/speakpipe][2]
+* Support the show on a monthly basis with Patreon or just once with PayPal, credit or debit card, Apple Pay, or Google Pay links are at [htotw.com/donate][3]
+* Subscribe at [htotw.com/subscribe][4]
+* Join our Discord server at [htotw.com/discord][5]
 
 ### News
 

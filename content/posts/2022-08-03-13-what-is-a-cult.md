@@ -16,19 +16,19 @@ This time we talk about what’s a cult, what’s a new religious movement, and 
 
 <!--more-->
 
-  * The feedback form is at [htotw.com/contact][1]
-  * Leave us voice message at +1 (208) 996-8667 or [htotw.com/speakpipe][2]
-  * Support the show on a monthy basis with Patreon or just once with PayPal, credit or debit card, Apple Pay, or Google Pay links are at [htotw.com/donate][3]
-  * Subscribe at [htotw.com/subscribe][4]
-  * Join our Discord server at [htotw.com/discord][5]
+ * The feedback form is at [htotw.com/contact][1]
+ * Leave us voice message at +1 (208) 996-8667 or [htotw.com/speakpipe][2]
+ * Support the show on a monthy basis with Patreon or just once with PayPal, credit or debit card, Apple Pay, or Google Pay links are at [htotw.com/donate][3]
+ * Subscribe at [htotw.com/subscribe][4]
+ * Join our Discord server at [htotw.com/discord][5]
 
 ### Links
 
-[Cult][6]  
-[Church-sect Typology][7]  
-[Christian Countercult][8]  
-[Secular Anti-cult Movement][9]  
-[New Religious Movements][10]
+* [Cult][6]  
+* [Church-sect Typology][7]  
+* [Christian Countercult][8]  
+* [Secular Anti-cult Movement][9]  
+* [New Religious Movements][10]
 
 This episode is brought to you by:
 

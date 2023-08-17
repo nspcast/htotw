@@ -17,11 +17,11 @@ This week we talk more about the upcoming rebrand and also talk about the [Hugue
 
 <!--more-->
 
-  * The feedback form is at [htotw.com/contact][2]
-  * Leave us voice message at [htotw.com/speakpipe][3]
-  * Support the show at [htotw.com/donate][4]
-  * Subscribe at [htotw.com/subscribe][5]
-  * Join our Discord server at [htotw.com/discord][6]
+ * The feedback form is at [htotw.com/contact][2]
+ * Leave us voice message at [htotw.com/speakpipe][3]
+ * Support the show at [htotw.com/donate][4]
+ * Subscribe at [htotw.com/subscribe][5]
+ * Join our Discord server at [htotw.com/discord][6]
 
 ### Feedback
 

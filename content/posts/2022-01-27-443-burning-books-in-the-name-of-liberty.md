@@ -17,12 +17,12 @@ This week we talk about banning and burning books.
 
 <!--more-->
 
-  * Sale on the store $13 shirts and up to 35% off everything else until Sunday
-  * The feedback form is at [htotw.com/contact][1]
-  * Leave us voice message at +1 (208) 996-8667 or [htotw.com/speakpipe][2]
-  * Support the show at [htotw.com/donate][3]
-  * Subscribe at [htotw.com/subscribe][4]
-  * Join our Discord server at [htotw.com/discord][5]
+ * Sale on the store $13 shirts and up to 35% off everything else until Sunday
+ * The feedback form is at [htotw.com/contact][1]
+ * Leave us voice message at +1 (208) 996-8667 or [htotw.com/speakpipe][2]
+ * Support the show at [htotw.com/donate][3]
+ * Subscribe at [htotw.com/subscribe][4]
+ * Join our Discord server at [htotw.com/discord][5]
 
 ### Banning and Burning Books
 

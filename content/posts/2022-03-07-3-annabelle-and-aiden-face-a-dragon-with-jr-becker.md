@@ -20,11 +20,11 @@ We’re joined by JR Becker author of the _Annabelle and Aiden_ series of childr
 
 <!--more-->
 
-  * The feedback form is at [htotw.com/contact][4]
-  * Leave us voice message at +1 (208) 996-8667 or [htotw.com/speakpipe][5]
-  * Support the show on [a monthy basis with Patreon][6] or [on just once with PayPal][7]
-  * Subscribe at [htotw.com/subscribe][8]
-  * Join our Discord server at [htotw.com/discord][9]
+ * The feedback form is at [htotw.com/contact][4]
+ * Leave us voice message at +1 (208) 996-8667 or [htotw.com/speakpipe][5]
+ * Support the show on [a monthy basis with Patreon][6] or [on just once with PayPal][7]
+ * Subscribe at [htotw.com/subscribe][8]
+ * Join our Discord server at [htotw.com/discord][9]
 
 ### Support
 

@@ -19,11 +19,11 @@ This week we talk about coming out to your family and in the news we have Biden 
 
 <!--more-->
 
-  * The feedback form is at [htotw.com/contact][1]
-  * Leave us voice message at [htotw.com/speakpipe][2]
-  * Support the show at [htotw.com/donate][3]
-  * Subscribe at [htotw.com/subscribe][4]
-  * Join our Discord server at [htotw.com/discord][5]
+ * The feedback form is at [htotw.com/contact][1]
+ * Leave us voice message at [htotw.com/speakpipe][2]
+ * Support the show at [htotw.com/donate][3]
+ * Subscribe at [htotw.com/subscribe][4]
+ * Join our Discord server at [htotw.com/discord][5]
 
 ### Dustin&#8217; off the Degree &#8211; How to come out to your family?
 

@@ -20,11 +20,11 @@ This week we talk with David Madison, PhD, author of _Ten Things Christians Wish
 
 <!--more-->
 
-  * The feedback form is at [htotw.com/contact][3]
-  * Leave us voice message at [htotw.com/speakpipe][4]
-  * Support the show at [htotw.com/donate][5]
-  * Subscribe at [htotw.com/subscribe][6]
-  * Join our Discord server at [htotw.com/discord][7]
+ * The feedback form is at [htotw.com/contact][3]
+ * Leave us voice message at [htotw.com/speakpipe][4]
+ * Support the show at [htotw.com/donate][5]
+ * Subscribe at [htotw.com/subscribe][6]
+ * Join our Discord server at [htotw.com/discord][7]
 
 This episode is brought to you by:
 

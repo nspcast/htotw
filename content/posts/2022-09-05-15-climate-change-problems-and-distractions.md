@@ -17,11 +17,11 @@ We talk about climate change with the actual issue (green house gases) and the p
 
 <!--more-->
 
-  * The feedback form is at [htotw.com/contact][1]
-  * Leave us voice message at +1 (208) 996-8667 or [htotw.com/speakpipe][2]
-  * Support the show on a monthly basis with Patreon or just once with PayPal, credit or debit card, Apple Pay, or Google Pay links are at [htotw.com/donate][3]
-  * Subscribe at [htotw.com/subscribe][4]
-  * Join our Discord server at [htotw.com/discord][5]
+ * The feedback form is at [htotw.com/contact][1]
+ * Leave us voice message at +1 (208) 996-8667 or [htotw.com/speakpipe][2]
+ * Support the show on a monthly basis with Patreon or just once with PayPal, credit or debit card, Apple Pay, or Google Pay links are at [htotw.com/donate][3]
+ * Subscribe at [htotw.com/subscribe][4]
+ * Join our Discord server at [htotw.com/discord][5]
 
 ### Topic
 
@@ -33,20 +33,20 @@ Climate Change &#8211; Solutions and Distractions
   * The small distraction &#8211; Active carbon cycle
 
 Methane:  
-&#8211; Actual problem &#8211; Natural Gas  
-&#8211; Distractors &#8211; Dams and cows
+* Actual problem &#8211; Natural Gas  
+* Distractors &#8211; Dams and cows
 
 Water:  
-&#8211; Actual problem &#8211; Ground and surface water use  
-&#8211; Distractor &#8211; Green and Gray water
+* Actual problem &#8211; Ground and surface water use  
+* Distractor &#8211; Green and Gray water
 
 Sources:
 
-&#8211;[Wikipedia: Climate Change][6]  
-&#8211;[Carbon Smart Farming][7]  
-&#8211;[Carbon Footprint History][8]  
-&#8211;[Food Production Green House Gas Emissions][9]  
-&#8211; [US food water usage][10]
+- [Wikipedia: Climate Change][6]  
+- [Carbon Smart Farming][7]  
+- [Carbon Footprint History][8]  
+- [Food Production Green House Gas Emissions][9]  
+- [US food water usage][10]
 
 This episode is brought to you by:
 

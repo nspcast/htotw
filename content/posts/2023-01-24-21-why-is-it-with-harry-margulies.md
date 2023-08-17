@@ -17,35 +17,35 @@ We talk with Harry Margiles, author of _Why Is It: We are afraid of being descen
 
 <!--more-->
 
-&#8211; The feedback form is at \[htotw.com/contact\](https://htotw.com/contact)  
-&#8211; Leave us voice message at +1 (208) 996-8667 or \[htotw.com/speakpipe\](https://htotw.com/speakpike)  
-&#8211; Support the show on a monthly basis with Patreon or just once with PayPal, credit or debit card, Apple Pay, or Google Pay links are at \[htotw.com/donate\](https://htotw.com/donate)  
-&#8211; Subscribe at \[htotw.com/subscribe\](https://htotw.com/subscribe)  
-&#8211; Join our Discord server at \[htotw.com/discord\](https://htotw.com/discord)
+- The feedback form is at [htotw.com/contact](https://htotw.com/contact)  
+- Leave us voice message at +1 (208) 996-8667 or [htotw.com/speakpipe](https://htotw.com/speakpike)  
+- Support the show on a monthly basis with Patreon or just once with PayPal, credit or debit card, Apple Pay, or Google Pay links are at [htotw.com/donate](https://htotw.com/donate)  
+- Subscribe at [htotw.com/subscribe](https://htotw.com/subscribe)  
+- Join our Discord server at [htotw.com/discord](https://htotw.com/discord)
 
-\### Feedback
+### Feedback
 
-<a rel="mention" class="u-url mention" href="https://mstdn.plus/@Ferky123">@<span>Ferky123</span></a>
+<a rel="mention" class="u-url mention" href="https://mstdnplus/@Ferky123">@<span>Ferky123</span></a>
 
 @htotw on today&#8217;s episode of the podcast you made a couple of mistakes. For the first mention of the Respect for Marriage act you called it DOMA and Clarence Thomas&#8217;s wife’s name is Gini Thomas not Anita Thomas.
 
 This episode is brought to you by:
 
-&#8211; JS  
-&#8211; Danielle  
-&#8211; Henry K  
-&#8211; Darryl G  
-&#8211; Erica B  
-&#8211; Sally R  
-&#8211; Chuck R  
-&#8211; Pat Acks from the \[Humanists of Idaho\](https://www.humanistsofidaho.org/)  
-&#8211; Arthur K  
-&#8211; Big Easy Blasphemy  
-&#8211; Nathan P  
-&#8211; Sam E  
-&#8211; Samuel C  
-&#8211; Steven  
-&#8211; Balázs
+- JS  
+- Danielle  
+- Henry K  
+- Darryl G  
+- Erica B  
+- Sally R  
+- Chuck R  
+- Pat Acks from the \[Humanists of Idaho\](https://www.humanistsofidaho.org/)  
+- Arthur K  
+- Big Easy Blasphemy  
+- Nathan P  
+- Sam E  
+- Samuel C  
+- Steven  
+- Balázs
 
 And by our other patrons and those who want no reward.
 
