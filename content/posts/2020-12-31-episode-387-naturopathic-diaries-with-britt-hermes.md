@@ -69,5 +69,5 @@ Theme music is provided by Sturdy Fred.
  [7]: https://www.interestingiftrue.com/
  [8]: https://www.humanistsofidaho.org/
  [9]: https://www.htotw.com/
- [10]: https://twitter.com/AtheistNomads
+ [10]: https://htotw.com/twitter
  [11]: https://htotw.com/facebook

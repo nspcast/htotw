@@ -78,5 +78,5 @@ Theme music is provided by Sturdy Fred.
  [13]: https://www.sbs.com.au/news/turkey-s-president-says-there-s-no-such-thing-as-lgbt-and-calls-student-protesters-terrorists
  [14]: https://www.humanistsofidaho.org/
  [15]: https://www.htotw.com/
- [16]: https://twitter.com/AtheistNomads
+ [16]: https://htotw.com/twitter
  [17]: https://htotw.com/facebook

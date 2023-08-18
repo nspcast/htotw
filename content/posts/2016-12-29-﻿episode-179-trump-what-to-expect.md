@@ -89,6 +89,6 @@ Dark Matter Sponsor &#8211; >US$35.00 \* Travis Megee Nuclear Sponsor &#8211; US
 
 * Archway Hosting provides full featured web hosting for a fraction of the cost of traditional shared hosting. You get all the benefits of shared hosting, without the sticker shock or extra fees. Check them out at <a href="http://archwayhosting.com/" target="_blank" rel="noopener">archwayhosting.com</a>.
 
-You can find us online at <a href="http://www.htotw.com/" target="_blank" rel="noopener">www.htotw.com</a>, follow us on Twitter <a href="https://twitter.com/AtheistNomads" target="_blank" rel="noopener">@AtheistNomads</a>, <a href="https://www.facebook.com/AtheistNomads" target="_blank" rel="noopener">like us on Facebook</a>, use the [contact form](https://htotw.com/contact), and leave us a voice mail message at (541) 203-0666.
+You can find us online at <a href="http://www.htotw.com/" target="_blank" rel="noopener">www.htotw.com</a>, follow us on Twitter <a href="https://htotw.com/twitter" target="_blank" rel="noopener">@AtheistNomads</a>, <a href="https://www.facebook.com/AtheistNomads" target="_blank" rel="noopener">like us on Facebook</a>, use the [contact form](https://htotw.com/contact), and leave us a voice mail message at (541) 203-0666.
 
 Theme music is provided by Sturdy Fred.

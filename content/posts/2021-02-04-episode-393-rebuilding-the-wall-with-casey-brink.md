@@ -82,5 +82,5 @@ Theme music is provided by Sturdy Fred.
  [12]: https://www.courthousenews.com/boston-can-reject-religious-flag-at-city-hall/
  [13]: https://www.humanistsofidaho.org/
  [14]: https://www.htotw.com/
- [15]: https://twitter.com/AtheistNomads
+ [15]: https://htotw.com/twitter
  [16]: https://htotw.com/facebook

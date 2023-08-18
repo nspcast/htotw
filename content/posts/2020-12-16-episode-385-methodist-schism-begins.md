@@ -90,5 +90,5 @@ Theme music is provided by Sturdy Fred.
  [14]: https://www.notion.so/Faith-Leaders-Condemn-OK-Gov-for-Responding-to-COVID-with-Prayer-and-Fasting-2b1a7622675e44d9ac9955deedb44b3d
  [15]: https://www.humanistsofidaho.org/
  [16]: https://www.htotw.com/
- [17]: https://twitter.com/AtheistNomads
+ [17]: https://htotw.com/twitter
  [18]: https://htotw.com/facebook

@@ -86,5 +86,5 @@ Theme music is provided by Sturdy Fred.
  [17]: https://www.theguardian.com/world/2021/jan/24/jewish-leaders-use-holocaust-day-to-decry-persecution-of-uighurs
  [18]: https://www.humanistsofidaho.org/
  [19]: https://www.htotw.com/
- [20]: https://twitter.com/AtheistNomads
+ [20]: https://htotw.com/twitter
  [21]: https://htotw.com/facebook

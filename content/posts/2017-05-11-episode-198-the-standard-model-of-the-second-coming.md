@@ -139,7 +139,7 @@ Bronze Sponsor &#8211; < US$4.00 per month
 
 <hr width="500" />
 
-You can find us online at <a href="https://www.htotw.com/" target="_blank" rel="noopener noreferrer">www.htotw.com</a>, follow us on Twitter <a href="https://twitter.com/AtheistNomads" target="_blank" rel="noopener noreferrer">@AtheistNomads</a>, <a href="https://htotw.com/facebook" target="_blank" rel="noopener noreferrer">like us on Facebook</a>, use the [contact form](https://htotw.com/contact), and leave us a voice mail message at (541) 203-0666.
+You can find us online at <a href="https://www.htotw.com/" target="_blank" rel="noopener noreferrer">www.htotw.com</a>, follow us on Twitter <a href="https://htotw.com/twitter" target="_blank" rel="noopener noreferrer">@AtheistNomads</a>, <a href="https://htotw.com/facebook" target="_blank" rel="noopener noreferrer">like us on Facebook</a>, use the [contact form](https://htotw.com/contact), and leave us a voice mail message at (541) 203-0666.
 
 Theme music is provided by Sturdy Fred.
 

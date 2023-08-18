@@ -104,5 +104,5 @@ Theme music is provided by Sturdy Fred.
  [19]: https://thesatanictemple.com/pages/church-of-satan-vs-satanic-temple
  [20]: https://www.humanistsofidaho.org/
  [21]: https://www.htotw.com/
- [22]: https://twitter.com/AtheistNomads
+ [22]: https://htotw.com/twitter
  [23]: https://htotw.com/facebook

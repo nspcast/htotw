@@ -107,6 +107,6 @@ This episode is brought to you by:
   * George G
   * Freethinker215
 
-You can find us online at <a href="https://www.htotw.com/" target="_blank" rel="noopener">www.htotw.com</a>, follow us on Twitter <a href="https://twitter.com/AtheistNomads" target="_blank" rel="noopener">@AtheistNomads</a>, <a href="https://www.facebook.com/AtheistNomads" target="_blank" rel="noopener">like us on Facebook</a>, email us at <a href= "mailto:[redacted]">[redacted]</a>, and leave us a voice mail message at (541) 203-0666.
+You can find us online at <a href="https://www.htotw.com/" target="_blank" rel="noopener">www.htotw.com</a>, follow us on Twitter <a href="https://htotw.com/twitter" target="_blank" rel="noopener">@AtheistNomads</a>, <a href="https://www.facebook.com/AtheistNomads" target="_blank" rel="noopener">like us on Facebook</a>, email us at <a href= "mailto:[redacted]">[redacted]</a>, and leave us a voice mail message at (541) 203-0666.
 
 Theme music is provided by Sturdy Fred.
