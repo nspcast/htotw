@@ -10,10 +10,13 @@ aliases:
 categories:
   - Episodes
 
+
 ---
 <div id="buzzsprout-player-10552771"></div><script src="https://www.buzzsprout.com/1983601/10552771-338-space-force-bible.js?container_id=buzzsprout-player-10552771&player=small" type="text/javascript" charset="utf-8"></script>
 
 It’s a news week and there sure is a lot.
+
+<!--more-->
 
   * The feedback form is at [htotw.com/contact](https://htotw.com/contact) or leave us a voice message using <a href="https://htotw.com/speakpipe" target="_blank" rel="noopener noreferrer">htotw.com/speakpipe</a>
   * Support the show at <a href="https://htotw.com/donate" target="_blank" rel="noopener noreferrer">htotw.com/donate</a>

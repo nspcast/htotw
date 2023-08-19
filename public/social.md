@@ -7,7 +7,7 @@
     <title>Social | Humanists Take on the World</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
     <meta name="description" content="The Facebook page and Twitter account have both been closed.">
-    <meta name="generator" content="Hugo 0.101.0" />
+    <meta name="generator" content="Hugo 0.116.1">
     
     
     
@@ -35,7 +35,6 @@
 <meta property="og:url" content="https://htotw.com/social.md" /><meta property="article:section" content="pages" />
 <meta property="article:published_time" content="2023-08-17T21:37:28-06:00" />
 <meta property="article:modified_time" content="2023-08-17T21:37:28-06:00" />
-
 <meta itemprop="name" content="Social">
 <meta itemprop="description" content="The Facebook page and Twitter account have both been closed."><meta itemprop="datePublished" content="2023-08-17T21:37:28-06:00" />
 <meta itemprop="dateModified" content="2023-08-17T21:37:28-06:00" />
