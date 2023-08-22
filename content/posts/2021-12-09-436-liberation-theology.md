@@ -3,56 +3,15 @@ title: 436 Liberation Theology
 author: Dustin
 type: post
 date: 2021-12-10T03:23:46+00:00
-url: /436-liberation-theology/
-enclosure:
-  - |
-    https://cdn.nomads.studio/file/nsp-media/atheist_nomads_436.mp3
-    29217320
-    audio/mpeg
-    a:5:{s:8:"duration";s:8:"00:40:31";s:8:"explicit";s:1:"1";s:12:"itunes_image";s:68:"https://cdn.nomads.studio/file/nsp-media/an436-thumbnail.jpg";s:13:"episode_title";s:19:"Liberation Theology";s:10:"episode_no";s:3:"436";}
-audio_file:
-  - |
-    https://cdn.nomads.studio/file/nsp-media/atheist_nomads_436.mp3
-    29217320
-    audio/mpeg
-    a:5:{s:8:"duration";s:8:"00:40:31";s:8:"explicit";s:1:"1";s:12:"itunes_image";s:68:"https://cdn.nomads.studio/file/nsp-media/an436-thumbnail.jpg";s:13:"episode_title";s:19:"Liberation Theology";s:10:"episode_no";s:3:"436";}
+url: /an/436/
+aliases:
+  - /an/436-liberation-theology/
+  - /436-liberation-theology/
 categories:
   - Episodes
 
 ---
-<div itemscope itemtype="http://schema.org/AudioObject">
-  <meta itemprop="name" content="436 Liberation Theology" />
-  
-  <meta itemprop="uploadDate" content="2021-12-09T20:23:46-07:00" />
-  
-  <meta itemprop="encodingFormat" content="audio/mpeg" />
-  
-  <meta itemprop="description" content="This week we talk about Liberation Theology in Latin America and how it was crushed by the Vatican.
-
-
-
- 	The feedback form is at htotw.com/contact
- 	Leave us voice message at htotw.com/speakpipe
- 	Support the show at htotw.com/donate
- 	Subscribe at h..." />
-  
-  <meta itemprop="contentUrl" content="https://dts.podtrac.com/redirect.mp3/cdn.nomads.studio/file/nsp-media/atheist_nomads_436.mp3" />
-  
-  <meta itemprop="contentSize" content="27.9" />
-  </p> 
-  
-  <div class="powerpress_player" id="powerpress_player_9928">
-    <audio class="wp-audio-shortcode" id="audio-6657-443" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://dts.podtrac.com/redirect.mp3/cdn.nomads.studio/file/nsp-media/atheist_nomads_436.mp3?_=443" /><a href="https://dts.podtrac.com/redirect.mp3/cdn.nomads.studio/file/nsp-media/atheist_nomads_436.mp3">https://dts.podtrac.com/redirect.mp3/cdn.nomads.studio/file/nsp-media/atheist_nomads_436.mp3</a></audio>
-  </div>
-</div>
-
-<p class="powerpress_links powerpress_links_mp3">
-  Podcast: <a href="https://dts.podtrac.com/redirect.mp3/cdn.nomads.studio/file/nsp-media/atheist_nomads_436.mp3" class="powerpress_link_pinw" target="_blank" title="Play in new window" onclick="return powerpress_pinw('https://htotw.com/?powerpress_pinw=6657-podcast');" rel="nofollow">Play in new window</a> | <a href="https://dts.podtrac.com/redirect.mp3/cdn.nomads.studio/file/nsp-media/atheist_nomads_436.mp3" class="powerpress_link_d" title="Download" rel="nofollow" download="atheist_nomads_436.mp3">Download</a>
-</p>
-
-<p class="powerpress_links powerpress_subscribe_links">
-  Subscribe: <a href="https://podcasts.apple.com/us/podcast/humanists-take-on-the-world/id530050098?mt=2&ls=1" class="powerpress_link_subscribe powerpress_link_subscribe_itunes" target="_blank" title="Subscribe on Apple Podcasts" rel="nofollow">Apple Podcasts</a> | <a href="https://www.google.com/podcasts?feed=aHR0cDovL2F0aGVpc3Rub21hZHMubGlic3luLmNvbS9yc3M%3D" class="powerpress_link_subscribe powerpress_link_subscribe_googleplay" target="_blank" title="Subscribe on Google Podcasts" rel="nofollow">Google Podcasts</a> | <a href="https://open.spotify.com/show/3LzK2xZGike6Tc1GEMtMbr?si=LieN9SNuTpq96smuaUsH8A" class="powerpress_link_subscribe powerpress_link_subscribe_spotify" target="_blank" title="Subscribe on Spotify" rel="nofollow">Spotify</a> | <a href="https://www.pandora.com/podcast/atheist-nomads/PC:10122?corr=62071012&part=ug" class="powerpress_link_subscribe powerpress_link_subscribe_pandora" target="_blank" title="Subscribe on Pandora" rel="nofollow">Pandora</a> | <a href="https://htotw.com/feed/podcast/" class="powerpress_link_subscribe powerpress_link_subscribe_rss" target="_blank" title="Subscribe via RSS" rel="nofollow">RSS</a>
-</p>
+<div id="buzzsprout-player-10552673"></div><script src="https://www.buzzsprout.com/1983601/10552673-436-liberation-theology.js?container_id=buzzsprout-player-10552673&player=small" type="text/javascript" charset="utf-8"></script>
 
 This week we talk about Liberation Theology in Latin America and how it was crushed by the Vatican.
 

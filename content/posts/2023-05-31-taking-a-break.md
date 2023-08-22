@@ -10,5 +10,6 @@ categories:
 ---
 <div id="buzzsprout-player-12957598"></div><script src="https://www.buzzsprout.com/1983601/12957598-taking-a-break.js?container_id=buzzsprout-player-12957598&player=small" type="text/javascript" charset="utf-8"></script>
 
+<!--more-->
   
 I&#8217;ve talked before about health issues in the family, things have progressed and I need to take a few months off from the show.
