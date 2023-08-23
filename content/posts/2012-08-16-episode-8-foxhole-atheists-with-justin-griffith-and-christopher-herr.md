@@ -100,7 +100,7 @@ SGT Justin Griffith, USA, is the Military Director for American Atheists and was
 
 <hr width="500" />
 
-You can use the [contact form](https://htotw.com/contact), leave us a voice mail message at (541) 203-0666, find us blogging at <a href="http://www.dwnomad.com" target="_blank" rel="noopener">www.dwnomad.com</a>, and <a href="https://htotw.com/facebook" target="_blank" rel="noopener">like us on Facebook</a>.
+You can use the [contact form](https://htotw.com/contact), leave us a voice mail message at +1 (208) 996-8667, find us blogging at <a href="http://www.dwnomad.com" target="_blank" rel="noopener">www.dwnomad.com</a>, and <a href="https://htotw.com/facebook" target="_blank" rel="noopener">like us on Facebook</a>.
 
 Theme music is provided by Sturdy Fred.
 

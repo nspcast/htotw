@@ -92,7 +92,7 @@ FEEDBACK
 * Casandra via email | <a href="http://www.pbs.org/newshour/updates/spring-fever/" target="_blank" rel="noopener">Sex-ed for kids</a>  
 * Gabi via email | <a href="ouisiana-department-of-education-louisiana-state-house-louisiana-state-senate-louisiana-bese-bobby-jindal-shawna-creamer-documents-have-recently-been-leaked-proving-that-many-teachers-have-been-promoting-creationsim-in-public-schools-this-is-in-vari" target="_blank" rel="noopener">Alabama creationism petition</a>
 
-Email us at [redacted] or call us at (541) 203-0666.
+Email us at [redacted] or call us at +1 (208) 996-8667.
 
 SUPPORTERS
 
@@ -127,6 +127,6 @@ Bronze Sponsor &#8211; US$10 per year/ US1.00 per month
 
 <hr width="500" />
 
-You can find us online at <a href="https://www.htotw.com/" target="_blank" rel="noopener">www.htotw.com</a>, follow us on Twitter <a href="https://htotw.com/twitter" target="_blank" rel="noopener">@AtheistNomads</a>, <a href="https://htotw.com/facebook" target="_blank" rel="noopener">like us on Facebook</a>, use the [contact form](https://htotw.com/contact), and leave us a voice mail message at (541) 203-0666.
+You can find us online at <a href="https://www.htotw.com/" target="_blank" rel="noopener">www.htotw.com</a>, follow us on Twitter <a href="https://htotw.com/twitter" target="_blank" rel="noopener">@AtheistNomads</a>, <a href="https://htotw.com/facebook" target="_blank" rel="noopener">like us on Facebook</a>, use the [contact form](https://htotw.com/contact), and leave us a voice mail message at +1 (208) 996-8667.
 
 Theme music is provided by Sturdy Fred.

@@ -94,6 +94,6 @@ Recently the Skeptics Guide to the Universe and Skeptics with a K both covered t
 
 <hr width="500" />
 
-You can find us online at www.htotw.com use the [contact form](https://htotw.com/contact), leave us a voice mail message at (541) 203-0666, find us blogging at www.dwnomad.com, and <a href="https://htotw.com/facebook" target="_blank" rel="noopener">like us on Facebook</a>.
+You can find us online at www.htotw.com use the [contact form](https://htotw.com/contact), leave us a voice mail message at +1 (208) 996-8667, find us blogging at www.dwnomad.com, and <a href="https://htotw.com/facebook" target="_blank" rel="noopener">like us on Facebook</a>.
 
 Theme music is provided by Sturdy Fred.

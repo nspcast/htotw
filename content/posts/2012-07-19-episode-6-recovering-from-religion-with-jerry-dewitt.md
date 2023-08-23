@@ -81,7 +81,7 @@ Joining us for the feature segment is [Jerry DeWitt][2], Executive Director of [
 
 You can follow Jerry on [Twitter][5].
 
-You can find us at [htotw.com][6] email us at [contact@atheist][7] or leave us a message at (541) 203-0666.
+You can find us at [htotw.com][6] email us at [contact@atheist][7] or leave us a message at +1 (208) 996-8667.
 
 The music is provided by Sturdy Fred.
 

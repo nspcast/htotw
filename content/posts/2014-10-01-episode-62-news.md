@@ -80,7 +80,7 @@ FEEDBACK
 * @AngryTxn via Twitter  
 * @quranifyme via Twitter
 
-Email us at [redacted], call us at (541) 203-0666, tweet us @AtheistNomads or contact us on Facebook.
+Email us at [redacted], call us at +1 (208) 996-8667, tweet us @AtheistNomads or contact us on Facebook.
 
 SUPPORTERS
 
@@ -117,7 +117,7 @@ Kickass Patron &#8211; US$1.00 per episode
 
 <hr width="500" />
 
-You can find us online at <a href="https://www.htotw.com/" target="_blank" rel="noopener">www.htotw.com</a>, follow us on Twitter <a href="https://htotw.com/twitter" target="_blank" rel="noopener">@AtheistNomads</a>, <a href="https://htotw.com/facebook" target="_blank" rel="noopener">like us on Facebook</a>, use the [contact form](https://htotw.com/contact), and leave us a voice mail message at (541) 203-0666.
+You can find us online at <a href="https://www.htotw.com/" target="_blank" rel="noopener">www.htotw.com</a>, follow us on Twitter <a href="https://htotw.com/twitter" target="_blank" rel="noopener">@AtheistNomads</a>, <a href="https://htotw.com/facebook" target="_blank" rel="noopener">like us on Facebook</a>, use the [contact form](https://htotw.com/contact), and leave us a voice mail message at +1 (208) 996-8667.
 
 Theme music is provided by Sturdy Fred.
 

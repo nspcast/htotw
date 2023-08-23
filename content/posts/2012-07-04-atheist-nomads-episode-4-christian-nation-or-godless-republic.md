@@ -97,7 +97,7 @@ Christian Nation or Godless Republic?
 
 59:56 Out takes
 
-If you’d like to contact us, you  can use the [feedback form](https://htotw.com/contact) or leave us a message at (541) 203-0666.
+If you’d like to contact us, you  can use the [feedback form](https://htotw.com/contact) or leave us a message at +1 (208) 996-8667.
 
 &#8220;I&#8217;m as mad as hell&#8221; speech taken from a clip found on <a href="http://www.youtube.com/watch?v=q_qgVn-Op7Q" target="_blank" rel="noopener">YouTube</a> and is originally from the motion picture &#8220;The Network&#8221; (1977) and is available on <a href="http://www.amazon.com/gp/product/B000CNESU8?ie=UTF8&tag=dwnomad-20&linkCode=xm2&creativeASIN=B000CNESU8" target="_blank" rel="noopener">Amazon.com</a>.
 

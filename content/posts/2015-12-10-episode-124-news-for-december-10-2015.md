@@ -77,7 +77,7 @@ POLITICS AND RELIGION
 
 FEEDBACK
 
-Email us at [redacted] or call us at (541) 203-0666.
+Email us at [redacted] or call us at +1 (208) 996-8667.
 
 This episode is brought to you by:
 

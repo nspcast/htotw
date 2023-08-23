@@ -66,7 +66,7 @@ FEEDBACK
 
 * Ryan
 
-use the [contact form](https://htotw.com/contact) or call us at (541) 203-0666.
+use the [contact form](https://htotw.com/contact) or call us at +1 (208) 996-8667.
 
 THIS DAY IN HISTORY &#8211;  
 * 1970 &#8211; <a href="http://www.history.com/this-day-in-history/curt-flood-files-historic-lawsuit-against-major-league-baseball" target="_blank" rel="noopener">Curt Flood files historic lawsuit against Major League Baseball</a>  
@@ -110,7 +110,7 @@ Gold Sponsor – US$5.00 per month
 
 <hr width="500" />
 
-You can find us online at <a href="https://www.htotw.com/" target="_blank" rel="noopener">www.htotw.com</a>, follow us on Twitter <a href="https://htotw.com/twitter" target="_blank" rel="noopener">@AtheistNomads</a>, <a href="https://htotw.com/facebook" target="_blank" rel="noopener">like us on Facebook</a>, use the [contact form](https://htotw.com/contact), and leave us a voice mail message at (541) 203-0666.
+You can find us online at <a href="https://www.htotw.com/" target="_blank" rel="noopener">www.htotw.com</a>, follow us on Twitter <a href="https://htotw.com/twitter" target="_blank" rel="noopener">@AtheistNomads</a>, <a href="https://htotw.com/facebook" target="_blank" rel="noopener">like us on Facebook</a>, use the [contact form](https://htotw.com/contact), and leave us a voice mail message at +1 (208) 996-8667.
 
 Theme music is provided by Sturdy Fred.
 

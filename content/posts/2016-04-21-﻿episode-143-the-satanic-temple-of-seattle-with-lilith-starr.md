@@ -55,7 +55,7 @@ We are joined by the head of the Seattle Chapter of The Satanic Temple and autho
 <a href="http://amzn.to/1QowTwA" target="_blank" rel="noopener">Book</a>  
 <a href="http://thesatanictempleseattle.com/" target="_blank" rel="noopener">The Satanic Temple Seattle</a>
 
-Email us at [redacted] or call us at (541) 203-0666.
+Email us at [redacted] or call us at +1 (208) 996-8667.
 
 This episode is brought to you by:
 
@@ -95,6 +95,6 @@ Bronze Sponsor &#8211; < US$4.00 per month
 
 <hr width="500" />
 
-You can find us online at <a href="https://www.htotw.com/" target="_blank" rel="noopener">www.htotw.com</a>, follow us on Twitter <a href="https://htotw.com/twitter" target="_blank" rel="noopener">@AtheistNomads</a>, <a href="https://htotw.com/facebook" target="_blank" rel="noopener">like us on Facebook</a>, use the [contact form](https://htotw.com/contact), and leave us a voice mail message at (541) 203-0666.
+You can find us online at <a href="https://www.htotw.com/" target="_blank" rel="noopener">www.htotw.com</a>, follow us on Twitter <a href="https://htotw.com/twitter" target="_blank" rel="noopener">@AtheistNomads</a>, <a href="https://htotw.com/facebook" target="_blank" rel="noopener">like us on Facebook</a>, use the [contact form](https://htotw.com/contact), and leave us a voice mail message at +1 (208) 996-8667.
 
 Theme music is provided by Sturdy Fred.
