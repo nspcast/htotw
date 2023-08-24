@@ -1,5 +1,5 @@
 ---
-title: Episode 61 – The Oasis with Mike Aus
+title: AN 61 – The Oasis with Mike Aus
 author: Dustin
 type: post
 date: 2014-09-25T21:41:26+00:00

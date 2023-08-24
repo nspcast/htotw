@@ -1,5 +1,5 @@
 ---
-title: Episode 18 – God’s Sexually Transmitted Infection with Dr. Darrel Ray
+title: AN 18 – God’s Sexually Transmitted Infection with Dr. Darrel Ray
 author: Dustin
 type: post
 date: 2013-01-10T08:00:07+00:00

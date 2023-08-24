@@ -1,5 +1,5 @@
 ---
-title: Episode 1 – The Pilot, featuring Roy Zimmerman
+title: AN 1 – The Pilot, featuring Roy Zimmerman
 author: Dustin
 date: 2012-05-24T05:10:03+00:00
 url: /atheist-nomads-episode-1-the-pilot-featuring-roy-zimmerman/

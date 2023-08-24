@@ -1,5 +1,5 @@
 ---
-title: 384 Speaking of God with D.B. Ramsey
+title: AN 384 Speaking of God with D.B. Ramsey
 author: Dustin
 type: post
 date: 2020-12-10T08:00:00+00:00

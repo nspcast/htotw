@@ -1,5 +1,5 @@
 ---
-title: Episode 237 – Following Christ with Child Sacrifice
+title: AN 237 – Following Christ with Child Sacrifice
 author: Dustin
 type: post
 date: 2018-02-06T08:00:52+00:00

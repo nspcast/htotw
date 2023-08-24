@@ -1,5 +1,5 @@
 ---
-title: Episode 230 – Latino Culture with Raquel Pearson
+title: AN 230 – Latino Culture with Raquel Pearson
 author: Dustin
 type: post
 date: 2017-12-19T08:00:14+00:00

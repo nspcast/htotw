@@ -1,5 +1,5 @@
 ---
-title: Episode 12 – Disability and accessibility with Chris Hofstader
+title: AN 12 – Disability and accessibility with Chris Hofstader
 author: Dustin
 type: post
 date: 2012-10-11T07:00:54+00:00

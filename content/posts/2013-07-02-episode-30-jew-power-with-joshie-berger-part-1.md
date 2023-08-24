@@ -1,5 +1,5 @@
 ---
-title: Episode 30 – Jew Power with Joshie Berger, part 1
+title: AN 30 – Jew Power with Joshie Berger, part 1
 author: Dustin
 type: post
 date: 2013-07-03T05:31:58+00:00

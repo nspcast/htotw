@@ -1,5 +1,5 @@
 ---
-title: Episode 60 – News
+title: AN 60 – News
 author: Dustin
 type: post
 date: 2014-09-18T05:00:00+00:00

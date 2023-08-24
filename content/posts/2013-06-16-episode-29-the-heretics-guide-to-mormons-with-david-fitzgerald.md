@@ -1,5 +1,5 @@
 ---
-title: Episode 29 – The Heretics Guide to Mormons with David Fitzgerald
+title: AN 29 – The Heretics Guide to Mormons with David Fitzgerald
 author: Dustin
 type: post
 date: 2013-06-16T22:13:30+00:00

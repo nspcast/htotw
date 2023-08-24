@@ -1,5 +1,5 @@
 ---
-title: 398 Mask Burning in Idaho
+title: AN 398 Mask Burning in Idaho
 author: Dustin
 type: post
 date: 2021-03-11T10:10:12+00:00

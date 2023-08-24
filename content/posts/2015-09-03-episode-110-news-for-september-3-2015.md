@@ -1,5 +1,5 @@
 ---
-title: Episode 110 – News for September 3, 2015
+title: AN 110 – News for September 3, 2015
 author: Dustin
 type: post
 date: 2015-09-03T07:00:00+00:00

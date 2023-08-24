@@ -1,5 +1,5 @@
 ---
-title: Episode 92 – News for April 30, 2015
+title: AN 92 – News for April 30, 2015
 author: Dustin
 type: post
 date: 2015-04-30T07:00:00+00:00

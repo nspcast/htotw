@@ -1,5 +1,5 @@
 ---
-title: Episode 218 – Take a Knee
+title: AN 218 – Take a Knee
 author: Dustin
 type: post
 date: 2017-09-26T07:00:13+00:00

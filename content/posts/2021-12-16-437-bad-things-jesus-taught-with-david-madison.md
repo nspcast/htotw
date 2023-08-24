@@ -1,5 +1,5 @@
 ---
-title: 437 Bad Things Jesus Taught with David Madison
+title: AN 437 Bad Things Jesus Taught with David Madison
 author: Dustin
 type: post
 date: 2021-12-16T08:00:39+00:00

@@ -1,5 +1,5 @@
 ---
-title: 436 Liberation Theology
+title: AN 436 Liberation Theology
 author: Dustin
 type: post
 date: 2021-12-10T03:23:46+00:00

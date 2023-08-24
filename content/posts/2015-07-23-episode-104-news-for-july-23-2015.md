@@ -1,5 +1,5 @@
 ---
-title: Episode 104 – News for July 23, 2015
+title: AN 104 – News for July 23, 2015
 author: Dustin
 type: post
 date: 2015-07-23T07:00:00+00:00

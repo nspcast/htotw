@@ -1,5 +1,5 @@
 ---
-title: Episode 250 – Freedom, hate, and social media
+title: AN 250 – Freedom, hate, and social media
 author: Dustin
 type: post
 date: 2018-05-10T07:00:03+00:00

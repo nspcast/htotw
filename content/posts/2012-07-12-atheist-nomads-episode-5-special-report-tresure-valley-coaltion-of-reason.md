@@ -1,5 +1,5 @@
 ---
-title: Episode 5 – SPECIAL REPORT – Tresure Valley Coaltion of Reason
+title: AN 5 – SPECIAL REPORT – Tresure Valley Coaltion of Reason
 author: Dustin
 type: post
 date: 2012-07-12T06:06:02+00:00

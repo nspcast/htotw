@@ -1,5 +1,5 @@
 ---
-title: Episode 17 – Atheist Music, Morality, and Post-Jewish Life with Shelley Segal
+title: AN 17 – Atheist Music, Morality, and Post-Jewish Life with Shelley Segal
 author: Dustin
 type: post
 date: 2012-12-28T03:22:18+00:00

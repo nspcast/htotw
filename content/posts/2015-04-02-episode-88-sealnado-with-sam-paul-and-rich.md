@@ -1,5 +1,5 @@
 ---
-title: Episode 88 – Sealnado with Sam, Paul, and Rich
+title: AN 88 – Sealnado with Sam, Paul, and Rich
 author: Dustin
 type: post
 date: 2015-04-02T07:00:00+00:00

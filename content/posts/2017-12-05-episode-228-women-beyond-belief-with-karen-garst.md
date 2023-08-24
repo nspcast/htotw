@@ -1,5 +1,5 @@
 ---
-title: Episode 228 – Women Beyond Belief with Karen Garst
+title: AN 228 – Women Beyond Belief with Karen Garst
 author: Dustin
 type: post
 date: 2017-12-05T08:00:44+00:00

@@ -1,5 +1,5 @@
 ---
-title: Episode 241 – The Sun, Moon, and Rod
+title: AN 241 – The Sun, Moon, and Rod
 author: Dustin
 type: post
 date: 2018-03-06T08:00:32+00:00

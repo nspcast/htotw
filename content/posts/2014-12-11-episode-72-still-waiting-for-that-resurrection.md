@@ -1,5 +1,5 @@
 ---
-title: Episode 72 – Still Waiting for that Resurrection
+title: AN 72 – Still Waiting for that Resurrection
 author: Dustin
 type: post
 date: 2014-12-12T03:36:51+00:00

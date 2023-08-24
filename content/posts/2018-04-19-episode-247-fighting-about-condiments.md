@@ -1,5 +1,5 @@
 ---
-title: Episode 247 – Fighting About Condiments
+title: AN 247 – Fighting About Condiments
 author: Dustin
 type: post
 date: 2018-04-19T07:00:49+00:00

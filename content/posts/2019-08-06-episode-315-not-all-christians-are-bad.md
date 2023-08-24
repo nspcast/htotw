@@ -1,5 +1,5 @@
 ---
-title: 315 Not all Christians are bad
+title: AN 315 Not all Christians are bad
 author: Dustin
 type: post
 date: 2019-08-07T03:38:19+00:00

@@ -1,5 +1,5 @@
 ---
-title: Episode 195 – Jehovah’s Kingdom
+title: AN 195 – Jehovah’s Kingdom
 author: Dustin
 type: post
 date: 2017-04-20T07:00:43+00:00

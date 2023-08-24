@@ -1,5 +1,5 @@
 ---
-title: 396 The Satanic Temple with Lucien Greaves 2021
+title: AN 396 The Satanic Temple with Lucien Greaves 2021
 author: Dustin
 type: post
 date: 2021-02-25T10:09:23+00:00

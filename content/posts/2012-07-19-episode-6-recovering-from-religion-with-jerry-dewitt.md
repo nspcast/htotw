@@ -1,5 +1,5 @@
 ---
-title: Episode 6 – Recovering from Religion with Jerry DeWitt
+title: AN 6 – Recovering from Religion with Jerry DeWitt
 author: Dustin
 type: post
 date: 2012-07-20T03:34:54+00:00

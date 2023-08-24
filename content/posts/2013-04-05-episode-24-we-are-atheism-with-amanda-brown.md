@@ -1,5 +1,5 @@
 ---
-title: Episode 24 – We are Atheism with Amanda Brown
+title: AN 24 – We are Atheism with Amanda Brown
 author: Dustin
 type: post
 date: 2013-04-05T19:42:33+00:00

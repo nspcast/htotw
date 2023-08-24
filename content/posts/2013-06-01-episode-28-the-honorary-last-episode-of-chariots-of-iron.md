@@ -1,5 +1,5 @@
 ---
-title: Episode 28 – The honorary last episode of Chariots of Iron
+title: AN 28 – The honorary last episode of Chariots of Iron
 author: Dustin
 type: post
 date: 2013-06-01T23:20:08+00:00

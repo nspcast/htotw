@@ -1,5 +1,5 @@
 ---
-title: Episode 197 – The Name of God
+title: AN 197 – The Name of God
 author: Dustin
 type: post
 date: 2017-05-04T07:00:34+00:00

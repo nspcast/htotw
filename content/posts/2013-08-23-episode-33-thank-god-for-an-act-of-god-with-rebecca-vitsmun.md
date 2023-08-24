@@ -1,5 +1,5 @@
 ---
-title: Episode 33 – Thank God for an “act of God”? with Rebecca Vitsmun
+title: AN 33 – Thank God for an “act of God”? with Rebecca Vitsmun
 author: Dustin
 type: post
 date: 2013-08-23T21:54:51+00:00

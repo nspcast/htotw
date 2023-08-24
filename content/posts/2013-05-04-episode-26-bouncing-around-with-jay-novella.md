@@ -1,5 +1,5 @@
 ---
-title: Episode 26 – Bouncing Around with Jay Novella
+title: AN 26 – Bouncing Around with Jay Novella
 author: Dustin
 type: post
 date: 2013-05-04T19:10:47+00:00

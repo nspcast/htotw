@@ -1,5 +1,5 @@
 ---
-title: Episode 20 – Mr. Deity with Brian Keith Dalton and Tom Vilot
+title: AN 20 – Mr. Deity with Brian Keith Dalton and Tom Vilot
 author: Dustin
 type: post
 date: 2013-02-11T01:00:46+00:00

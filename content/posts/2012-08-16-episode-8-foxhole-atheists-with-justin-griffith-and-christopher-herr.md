@@ -1,5 +1,5 @@
 ---
-title: Episode 8 – Foxhole Atheists with Justin Griffith and Christopher Herr
+title: AN 8 – Foxhole Atheists with Justin Griffith and Christopher Herr
 author: Dustin
 type: post
 date: 2012-08-16T06:01:50+00:00

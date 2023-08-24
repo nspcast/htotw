@@ -1,5 +1,5 @@
 ---
-title: 405 Another Schism in the Atheist Movement
+title: AN 405 Another Schism in the Atheist Movement
 author: Dustin
 type: post
 date: 2021-04-29T19:56:04+00:00

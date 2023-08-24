@@ -1,5 +1,5 @@
 ---
-title: 385 Methodist Schism Begins
+title: AN 385 Methodist Schism Begins
 author: Dustin
 type: post
 date: 2020-12-17T05:15:29+00:00

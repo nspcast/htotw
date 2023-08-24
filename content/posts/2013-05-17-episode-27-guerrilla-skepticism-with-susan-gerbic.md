@@ -1,5 +1,5 @@
 ---
-title: Episode 27 – Guerrilla Skepticism with Susan Gerbic
+title: AN 27 – Guerrilla Skepticism with Susan Gerbic
 author: Dustin
 type: post
 date: 2013-05-17T06:55:54+00:00

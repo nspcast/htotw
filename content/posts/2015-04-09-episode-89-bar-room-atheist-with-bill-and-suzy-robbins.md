@@ -1,5 +1,5 @@
 ---
-title: Episode 89 – Bar Room Atheist with Bill and Suzy Robbins
+title: AN 89 – Bar Room Atheist with Bill and Suzy Robbins
 author: Dustin
 type: post
 date: 2015-04-09T07:00:00+00:00

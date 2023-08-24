@@ -1,5 +1,5 @@
 ---
-title: Episode 107 – An Atheist in Texas with Dr. Zach Moore, Part 2
+title: AN 107 – An Atheist in Texas with Dr. Zach Moore, Part 2
 author: Dustin
 type: post
 date: 2015-08-13T07:00:00+00:00

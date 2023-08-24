@@ -1,5 +1,5 @@
 ---
-title: Episode 76 – Turning the Other Cheek
+title: AN 76 – Turning the Other Cheek
 author: Dustin
 type: post
 date: 2015-01-10T21:51:11+00:00

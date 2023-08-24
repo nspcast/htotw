@@ -1,5 +1,5 @@
 ---
-title: Episode 50 – We Need a DJ at this Party with DJ Grothe!
+title: AN 50 – We Need a DJ at this Party with DJ Grothe!
 author: Dustin
 type: post
 date: 2014-05-02T02:33:37+00:00

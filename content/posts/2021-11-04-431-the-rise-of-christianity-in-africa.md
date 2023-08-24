@@ -1,5 +1,5 @@
 ---
-title: 431 The Rise of Christianity in Africa
+title: AN 431 The Rise of Christianity in Africa
 author: Dustin
 type: post
 date: 2021-11-05T04:41:41+00:00

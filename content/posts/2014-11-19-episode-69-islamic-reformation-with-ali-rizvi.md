@@ -1,5 +1,5 @@
 ---
-title: Episode 69 – Islamic Reformation with Ali Rizvi
+title: AN 69 – Islamic Reformation with Ali Rizvi
 author: Dustin
 type: post
 date: 2014-11-20T04:38:55+00:00

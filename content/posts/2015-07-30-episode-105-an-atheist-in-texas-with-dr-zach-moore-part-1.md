@@ -1,5 +1,5 @@
 ---
-title: Episode 105 – An Atheist in Texas with Dr. Zach Moore, Part 1
+title: AN 105 – An Atheist in Texas with Dr. Zach Moore, Part 1
 author: Dustin
 type: post
 date: 2015-07-30T07:00:00+00:00

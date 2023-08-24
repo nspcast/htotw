@@ -1,5 +1,5 @@
 ---
-title: Episode 282 – The War on Christmas 2018
+title: AN 282 – The War on Christmas 2018
 author: Dustin
 type: post
 date: 2018-12-18T08:00:20+00:00

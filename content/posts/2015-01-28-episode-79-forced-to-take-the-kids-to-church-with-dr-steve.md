@@ -1,5 +1,5 @@
 ---
-title: Episode 79 – Forced to Take the Kids to Church with Dr. Steve
+title: AN 79 – Forced to Take the Kids to Church with Dr. Steve
 author: Dustin
 type: post
 date: 2015-01-29T03:57:12+00:00

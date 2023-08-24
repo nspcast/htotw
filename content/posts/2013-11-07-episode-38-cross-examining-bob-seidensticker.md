@@ -1,5 +1,5 @@
 ---
-title: Episode 38 – Cross Examining Bob Seidensticker
+title: AN 38 – Cross Examining Bob Seidensticker
 author: Dustin
 type: post
 date: 2013-11-08T03:18:00+00:00

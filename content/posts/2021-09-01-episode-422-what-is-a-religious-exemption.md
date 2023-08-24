@@ -1,5 +1,5 @@
 ---
-title: 422 What is a religious exemption?
+title: AN 422 What is a religious exemption?
 author: Dustin
 type: post
 date: 2021-09-02T04:34:46+00:00

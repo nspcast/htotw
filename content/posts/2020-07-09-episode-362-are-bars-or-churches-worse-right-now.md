@@ -1,5 +1,5 @@
 ---
-title: 362 Are bars or churches worse right now
+title: AN 362 Are bars or churches worse right now
 author: Dustin
 type: post
 date: 2020-07-10T04:07:43+00:00

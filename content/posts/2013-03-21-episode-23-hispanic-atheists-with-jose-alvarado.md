@@ -1,5 +1,5 @@
 ---
-title: Episode 23 – Hispanic Atheists with Jose Alvarado
+title: AN 23 – Hispanic Atheists with Jose Alvarado
 author: Dustin
 type: post
 date: 2013-03-21T07:00:41+00:00

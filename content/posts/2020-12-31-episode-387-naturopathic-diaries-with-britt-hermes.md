@@ -1,5 +1,5 @@
 ---
-title: 387 Naturopathic Diaries with Britt Hermes
+title: AN 387 Naturopathic Diaries with Britt Hermes
 author: Dustin
 type: post
 date: 2020-12-31T10:11:44+00:00

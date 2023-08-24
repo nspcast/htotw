@@ -1,5 +1,5 @@
 ---
-title: Episode 223 – Church Governance
+title: AN 223 – Church Governance
 author: Dustin
 type: post
 date: 2017-10-31T07:00:17+00:00

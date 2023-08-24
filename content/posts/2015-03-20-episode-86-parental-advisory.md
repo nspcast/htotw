@@ -1,5 +1,5 @@
 ---
-title: Episode 86 – Parental Advisory
+title: AN 86 – Parental Advisory
 author: Dustin
 type: post
 date: 2015-03-20T22:38:19+00:00

@@ -1,5 +1,5 @@
 ---
-title: 401 Sudan get’s church state separation
+title: AN 401 Sudan get’s church state separation
 author: Dustin
 type: post
 date: 2021-04-02T04:29:16+00:00

@@ -1,5 +1,5 @@
 ---
-title: Episode 16 – Teaching Critical Thinking with the Token Skeptic’s Kylie Sturgess
+title: AN 16 – Teaching Critical Thinking with the Token Skeptic’s Kylie Sturgess
 author: Dustin
 type: post
 date: 2012-12-13T08:00:03+00:00

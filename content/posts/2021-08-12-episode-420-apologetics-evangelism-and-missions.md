@@ -1,5 +1,5 @@
 ---
-title: 420 Apologetics, evangelism, and missions
+title: AN 420 Apologetics, evangelism, and missions
 author: Dustin
 type: post
 date: 2021-08-13T04:12:27+00:00

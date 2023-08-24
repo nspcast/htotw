@@ -1,5 +1,5 @@
 ---
-title: Episode 44 – A Year without God with Ryan Bell
+title: AN 44 – A Year without God with Ryan Bell
 author: Dustin
 type: post
 date: 2014-02-01T01:16:00+00:00

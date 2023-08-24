@@ -1,5 +1,5 @@
 ---
-title: Episode 4 – Christian Nation or Godless Republic?
+title: AN 4 – Christian Nation or Godless Republic?
 author: Dustin
 type: post
 date: 2012-07-04T07:00:22+00:00

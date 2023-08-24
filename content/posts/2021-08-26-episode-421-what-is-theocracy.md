@@ -1,5 +1,5 @@
 ---
-title: 421 What is Theocracy?
+title: AN 421 What is Theocracy?
 author: Dustin
 type: post
 date: 2021-08-27T04:31:36+00:00

@@ -1,5 +1,5 @@
 ---
-title: Episode 58 – Getting Geopolitical
+title: AN 58 – Getting Geopolitical
 author: Dustin
 type: post
 date: 2014-08-22T22:59:52+00:00

@@ -1,5 +1,5 @@
 ---
-title: Episode 19 – Charity, the JW’s, and Black Atheism with Bridget Gaudette
+title: AN 19 – Charity, the JW’s, and Black Atheism with Bridget Gaudette
 author: Dustin
 type: post
 date: 2013-01-25T10:51:45+00:00

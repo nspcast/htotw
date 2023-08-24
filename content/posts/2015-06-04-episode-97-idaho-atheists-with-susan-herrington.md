@@ -1,5 +1,5 @@
 ---
-title: Episode 97 – Idaho Atheists with Susan Herrington
+title: AN 97 – Idaho Atheists with Susan Herrington
 author: Dustin
 type: post
 date: 2015-06-04T07:00:00+00:00

@@ -1,5 +1,5 @@
 ---
-title: Episode 25 LIVE – Foundation Beyond Belief with Dale McGowan
+title: AN 25 LIVE – Foundation Beyond Belief with Dale McGowan
 author: Dustin
 type: post
 date: 2013-04-18T07:00:24+00:00

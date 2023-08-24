@@ -1,5 +1,5 @@
 ---
-title: Episode 13 – Luck has nothing to do with it with Sam Mulvey
+title: AN 13 – Luck has nothing to do with it with Sam Mulvey
 author: Dustin
 type: post
 date: 2012-10-27T22:54:25+00:00

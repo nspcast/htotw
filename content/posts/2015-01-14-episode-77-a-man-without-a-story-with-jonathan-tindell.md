@@ -1,5 +1,5 @@
 ---
-title: Episode 77 – A Man Without a Story with Jonathan Tindell
+title: AN 77 – A Man Without a Story with Jonathan Tindell
 author: Dustin
 type: post
 date: 2015-01-15T00:49:17+00:00

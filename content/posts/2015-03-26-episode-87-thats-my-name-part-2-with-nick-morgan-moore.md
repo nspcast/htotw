@@ -1,5 +1,5 @@
 ---
-title: Episode 87 – That’s My Name, part 2 with Nick Morgan-Moore
+title: AN 87 – That’s My Name, part 2 with Nick Morgan-Moore
 author: Dustin
 type: post
 date: 2015-03-26T07:00:00+00:00

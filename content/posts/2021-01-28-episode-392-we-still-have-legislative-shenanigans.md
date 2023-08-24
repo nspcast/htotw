@@ -1,5 +1,5 @@
 ---
-title: 392 We still have legislative shenanigans
+title: AN 392 We still have legislative shenanigans
 author: Dustin
 type: post
 date: 2021-01-29T04:57:40+00:00

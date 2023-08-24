@@ -1,5 +1,5 @@
 ---
-title: Episode 78 – So Much Religious Violence
+title: AN 78 – So Much Religious Violence
 author: Dustin
 type: post
 date: 2015-01-22T23:01:53+00:00

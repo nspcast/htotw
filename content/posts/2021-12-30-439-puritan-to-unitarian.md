@@ -1,5 +1,5 @@
 ---
-title: 439 Puritan to Unitarian
+title: AN 439 Puritan to Unitarian
 author: Dustin
 type: post
 date: 2021-12-30T19:08:32+00:00

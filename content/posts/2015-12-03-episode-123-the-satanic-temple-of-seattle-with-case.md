@@ -1,5 +1,5 @@
 ---
-title: Episode 123 – The Satanic Temple of Seattle with Case
+title: AN 123 – The Satanic Temple of Seattle with Case
 author: Dustin
 type: post
 date: 2015-12-03T08:00:00+00:00

@@ -1,5 +1,5 @@
 ---
-title: Episode 14 – Living After Faith with Rich and Deanna Joy Lyons
+title: AN 14 – Living After Faith with Rich and Deanna Joy Lyons
 author: Dustin
 type: post
 date: 2012-11-16T18:30:43+00:00

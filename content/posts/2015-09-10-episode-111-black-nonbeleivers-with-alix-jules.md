@@ -1,5 +1,5 @@
 ---
-title: Episode 111 – Black Nonbeleivers with Alix Jules
+title: AN 111 – Black Nonbeleivers with Alix Jules
 author: Dustin
 type: post
 date: 2015-09-10T07:00:00+00:00

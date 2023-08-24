@@ -1,5 +1,5 @@
 ---
-title: 418 What’s the Trinity?
+title: AN 418 What’s the Trinity?
 author: Dustin
 type: post
 date: 2021-07-29T04:02:49+00:00

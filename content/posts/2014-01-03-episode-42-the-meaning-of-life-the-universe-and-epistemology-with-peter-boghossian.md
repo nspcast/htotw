@@ -1,5 +1,5 @@
 ---
-title: Episode 42 – The Meaning of Life, the Universe, and Epistemology with Peter Boghossian
+title: AN 42 – The Meaning of Life, the Universe, and Epistemology with Peter Boghossian
 author: Dustin
 type: post
 date: 2014-01-03T23:25:09+00:00

@@ -1,5 +1,5 @@
 ---
-title: Episode 45 – Giving Bunches of F___s with Bria Crutchfield
+title: AN 45 – Giving Bunches of F___s with Bria Crutchfield
 author: Dustin
 type: post
 date: 2014-02-16T00:47:00+00:00

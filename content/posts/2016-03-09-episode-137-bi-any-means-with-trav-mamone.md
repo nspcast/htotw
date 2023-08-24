@@ -1,5 +1,5 @@
 ---
-title: Episode 137 – Bi Any Means with Trav Mamone
+title: AN 137 – Bi Any Means with Trav Mamone
 author: Dustin
 type: post
 date: 2016-03-10T06:00:00+00:00

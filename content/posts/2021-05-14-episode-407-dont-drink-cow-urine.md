@@ -1,5 +1,5 @@
 ---
-title: 407 Don’t drink cow urine
+title: AN 407 Don’t drink cow urine
 author: Dustin
 type: post
 date: 2021-05-14T07:00:15+00:00

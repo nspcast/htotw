@@ -1,5 +1,5 @@
 ---
-title: Episode 125 – Angry Black Rant with Ishmael Brown
+title: AN 125 – Angry Black Rant with Ishmael Brown
 author: Dustin
 type: post
 date: 2015-12-17T08:00:00+00:00

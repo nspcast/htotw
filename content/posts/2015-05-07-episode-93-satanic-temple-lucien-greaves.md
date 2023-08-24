@@ -1,5 +1,5 @@
 ---
-title: Episode 93 – The Satanic Temple with Lucien Greaves
+title: AN 93 – The Satanic Temple with Lucien Greaves
 author: Dustin
 type: post
 date: 2015-05-07T07:00:00+00:00

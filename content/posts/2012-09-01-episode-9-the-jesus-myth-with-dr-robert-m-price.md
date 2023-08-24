@@ -1,5 +1,5 @@
 ---
-title: Episode 9 – The Jesus Myth with Dr. Robert M. Price
+title: AN 9 – The Jesus Myth with Dr. Robert M. Price
 author: Dustin
 type: post
 date: 2012-09-01T20:05:19+00:00

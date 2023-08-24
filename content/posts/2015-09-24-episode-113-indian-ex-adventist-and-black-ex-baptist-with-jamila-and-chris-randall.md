@@ -1,5 +1,5 @@
 ---
-title: Episode 113 – Indian Ex-Adventist and Black Ex-Baptist with Jamila and Chris Randall
+title: AN 113 – Indian Ex-Adventist and Black Ex-Baptist with Jamila and Chris Randall
 author: Dustin
 type: post
 date: 2015-09-24T07:00:00+00:00

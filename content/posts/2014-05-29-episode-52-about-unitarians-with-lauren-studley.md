@@ -1,5 +1,5 @@
 ---
-title: Episode 52 – About Unitarians with Lauren Studley
+title: AN 52 – About Unitarians with Lauren Studley
 author: Dustin
 type: post
 date: 2014-05-30T02:49:45+00:00

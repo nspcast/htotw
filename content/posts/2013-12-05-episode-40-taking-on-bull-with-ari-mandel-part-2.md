@@ -1,5 +1,5 @@
 ---
-title: Episode 40 – Taking on Bull with Ari Mandel, part 2
+title: AN 40 – Taking on Bull with Ari Mandel, part 2
 author: Dustin
 type: post
 date: 2013-12-05T08:32:54+00:00

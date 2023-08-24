@@ -1,5 +1,5 @@
 ---
-title: Episode 252 – Christian Science
+title: AN 252 – Christian Science
 author: Dustin
 type: post
 date: 2018-05-24T07:00:57+00:00

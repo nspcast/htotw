@@ -1,5 +1,5 @@
 ---
-title: Episode 229 – Opening Arguments with Andrew Torrez
+title: AN 229 – Opening Arguments with Andrew Torrez
 author: Dustin
 type: post
 date: 2017-12-12T08:00:36+00:00

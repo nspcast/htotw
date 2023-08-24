@@ -1,5 +1,5 @@
 ---
-title: Episode 35 – Apologizing for Apologetics with Rachael Slick
+title: AN 35 – Apologizing for Apologetics with Rachael Slick
 author: Dustin
 type: post
 date: 2013-09-26T22:43:44+00:00

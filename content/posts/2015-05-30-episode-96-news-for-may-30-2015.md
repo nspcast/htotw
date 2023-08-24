@@ -1,5 +1,5 @@
 ---
-title: Episode 96 – News for May 30, 2015
+title: AN 96 – News for May 30, 2015
 author: Dustin
 type: post
 date: 2015-05-30T18:30:52+00:00

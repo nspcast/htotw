@@ -1,5 +1,5 @@
 ---
-title: 395 The Church of Satan
+title: AN 395 The Church of Satan
 author: Dustin
 type: post
 date: 2021-02-19T05:23:21+00:00

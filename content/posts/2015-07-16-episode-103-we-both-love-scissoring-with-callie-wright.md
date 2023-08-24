@@ -1,5 +1,5 @@
 ---
-title: Episode 103 – We both love scissoring with Callie Wright
+title: AN 103 – We both love scissoring with Callie Wright
 author: Dustin
 type: post
 date: 2015-07-16T07:00:00+00:00

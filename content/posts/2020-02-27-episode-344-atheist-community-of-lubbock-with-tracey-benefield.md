@@ -1,5 +1,5 @@
 ---
-title: 344 Atheist Community of Lubbock with Tracey Benefield
+title: AN 344 Atheist Community of Lubbock with Tracey Benefield
 author: Dustin
 type: post
 date: 2020-02-27T08:00:00+00:00

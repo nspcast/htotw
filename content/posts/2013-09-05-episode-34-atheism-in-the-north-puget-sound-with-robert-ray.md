@@ -1,5 +1,5 @@
 ---
-title: Episode 34 – Atheism in the North Puget Sound with Robert Ray
+title: AN 34 – Atheism in the North Puget Sound with Robert Ray
 author: Dustin
 type: post
 date: 2013-09-06T05:46:08+00:00

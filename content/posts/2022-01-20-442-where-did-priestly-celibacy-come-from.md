@@ -1,5 +1,5 @@
 ---
-title: 442 Where did priestly celibacy come from?
+title: AN 442 Where did priestly celibacy come from?
 author: Dustin
 type: post
 date: 2022-01-21T03:59:44+00:00

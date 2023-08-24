@@ -1,5 +1,5 @@
 ---
-title: Episode 114 – News for October 1, 2015
+title: AN 114 – News for October 1, 2015
 author: Dustin
 type: post
 date: 2015-10-01T07:00:00+00:00

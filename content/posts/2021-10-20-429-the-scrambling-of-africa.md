@@ -1,5 +1,5 @@
 ---
-title: 429 The Scrambling of Africa
+title: AN 429 The Scrambling of Africa
 author: Dustin
 type: post
 date: 2021-10-21T04:08:12+00:00

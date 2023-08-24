@@ -1,5 +1,5 @@
 ---
-title: 428 Religion in Africa
+title: AN 428 Religion in Africa
 author: Dustin
 type: post
 date: 2021-10-15T03:59:39+00:00

@@ -1,5 +1,5 @@
 ---
-title: Episode 41 – Attacking the Theocrats with Sean Faircloth
+title: AN 41 – Attacking the Theocrats with Sean Faircloth
 author: Dustin
 type: post
 date: 2013-12-19T22:57:33+00:00

@@ -1,5 +1,5 @@
 ---
-title: Episode 100 Live – News for June 25, 2015
+title: AN 100 Live – News for June 25, 2015
 author: Dustin
 type: post
 date: 2015-06-25T07:00:00+00:00

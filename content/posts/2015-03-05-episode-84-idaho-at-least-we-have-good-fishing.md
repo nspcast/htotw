@@ -1,5 +1,5 @@
 ---
-title: 'Episode 84 – Idaho: At least we have good fishing'
+title: 'AN 84 – Idaho: At least we have good fishing'
 author: Dustin
 type: post
 date: 2015-03-06T03:58:00+00:00

@@ -1,5 +1,5 @@
 ---
-title: Episode 131 – Epistemology and Ethics with Chris King
+title: AN 131 – Epistemology and Ethics with Chris King
 author: Dustin
 type: post
 date: 2016-01-28T08:00:11+00:00

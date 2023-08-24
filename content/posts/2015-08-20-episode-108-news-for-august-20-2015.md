@@ -1,5 +1,5 @@
 ---
-title: Episode 108 – News for August 20, 2015
+title: AN 108 – News for August 20, 2015
 author: Dustin
 type: post
 date: 2015-08-20T07:00:00+00:00

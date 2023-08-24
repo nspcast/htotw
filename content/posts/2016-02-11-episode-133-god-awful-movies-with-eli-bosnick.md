@@ -1,5 +1,5 @@
 ---
-title: Episode 133 – God Awful Movies with Eli Bosnick
+title: AN 133 – God Awful Movies with Eli Bosnick
 author: Dustin
 type: post
 date: 2016-02-11T08:00:00+00:00

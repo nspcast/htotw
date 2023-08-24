@@ -1,5 +1,5 @@
 ---
-title: Episode 240 – The Blessed Semi-automatic Rifles
+title: AN 240 – The Blessed Semi-automatic Rifles
 author: Dustin
 type: post
 date: 2018-02-27T08:00:03+00:00

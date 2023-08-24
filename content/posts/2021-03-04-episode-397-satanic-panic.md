@@ -1,5 +1,5 @@
 ---
-title: 397 Satanic Panic
+title: AN 397 Satanic Panic
 author: Dustin
 type: post
 date: 2021-03-04T10:14:47+00:00

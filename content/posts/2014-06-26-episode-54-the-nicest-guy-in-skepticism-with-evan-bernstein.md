@@ -1,5 +1,5 @@
 ---
-title: Episode 54 – The Nicest Guy in Skepticism with Evan Bernstein
+title: AN 54 – The Nicest Guy in Skepticism with Evan Bernstein
 author: Dustin
 type: post
 date: 2014-06-27T03:38:23+00:00

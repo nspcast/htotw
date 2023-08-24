@@ -1,5 +1,5 @@
 ---
-title: Episode 22 – Nailed with David Fitzgerald
+title: AN 22 – Nailed with David Fitzgerald
 author: Dustin
 type: post
 date: 2013-03-07T18:16:27+00:00

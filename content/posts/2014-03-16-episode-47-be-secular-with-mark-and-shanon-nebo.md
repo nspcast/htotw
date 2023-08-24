@@ -1,5 +1,5 @@
 ---
-title: Episode 47 – Be Secular with Mark and Shanon Nebo
+title: AN 47 – Be Secular with Mark and Shanon Nebo
 author: Dustin
 type: post
 date: 2014-03-16T23:00:22+00:00

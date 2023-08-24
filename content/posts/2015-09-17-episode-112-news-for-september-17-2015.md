@@ -1,5 +1,5 @@
 ---
-title: Episode 112 – News for September 17, 2015
+title: AN 112 – News for September 17, 2015
 author: Dustin
 type: post
 date: 2015-09-17T07:00:00+00:00

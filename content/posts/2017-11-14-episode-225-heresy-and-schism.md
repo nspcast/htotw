@@ -1,5 +1,5 @@
 ---
-title: Episode 225 – Heresy and Schism
+title: AN 225 – Heresy and Schism
 author: Dustin
 type: post
 date: 2017-11-14T08:00:19+00:00

@@ -1,5 +1,5 @@
 ---
-title: Episode 239 – American Atheists 2018 with David Silverman
+title: AN 239 – American Atheists 2018 with David Silverman
 author: Dustin
 type: post
 date: 2018-02-20T08:00:15+00:00

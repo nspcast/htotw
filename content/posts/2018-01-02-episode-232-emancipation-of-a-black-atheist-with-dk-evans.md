@@ -1,5 +1,5 @@
 ---
-title: Episode 232 – Emancipation of a Black Atheist with DK Evans
+title: AN 232 – Emancipation of a Black Atheist with DK Evans
 author: Dustin
 type: post
 date: 2018-01-02T08:00:14+00:00

@@ -1,5 +1,5 @@
 ---
-title: Episode 82 – When will Alabama get with the times?
+title: AN 82 – When will Alabama get with the times?
 author: Dustin
 type: post
 date: 2015-02-19T06:00:00+00:00

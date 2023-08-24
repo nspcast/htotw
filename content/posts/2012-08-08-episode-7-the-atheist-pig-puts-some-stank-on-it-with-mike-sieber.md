@@ -1,5 +1,5 @@
 ---
-title: Episode 7 – The Atheist Pig puts some STANK on it with Mike Sieber
+title: AN 7 – The Atheist Pig puts some STANK on it with Mike Sieber
 author: Dustin
 type: post
 date: 2012-08-09T04:33:37+00:00

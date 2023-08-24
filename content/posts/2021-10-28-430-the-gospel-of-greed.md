@@ -1,5 +1,5 @@
 ---
-title: 430 The Gospel of Greed
+title: AN 430 The Gospel of Greed
 author: Dustin
 type: post
 date: 2021-10-28T07:00:01+00:00

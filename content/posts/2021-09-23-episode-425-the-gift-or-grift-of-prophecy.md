@@ -1,5 +1,5 @@
 ---
-title: 425 The Gift or Grift of Prophecy
+title: AN 425 The Gift or Grift of Prophecy
 author: Dustin
 type: post
 date: 2021-09-23T09:15:05+00:00

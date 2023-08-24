@@ -1,5 +1,5 @@
 ---
-title: 443 Burning Books in the name of Liberty
+title: AN 443 Burning Books in the name of Liberty
 author: Dustin
 type: post
 date: 2022-01-27T08:00:16+00:00
