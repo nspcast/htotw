@@ -1,9 +1,9 @@
 ---
-title: ﻿Episode 126 – News for December 24, 2015
+title: AN Episode 126 – News for December 24, 2015
 author: Dustin
 type: post
 date: 2015-12-24T08:00:00+00:00
-url: /﻿episode-126-news-for-december-24-2015/
+url: /%EF%BB%BFepisode-126-news-for-december-24-2015/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_126.mp3
@@ -21,7 +21,7 @@ categories:
 
 ---
 <div itemscope itemtype="http://schema.org/AudioObject">
-  <meta itemprop="name" content="﻿Episode 126 &#8211; News for December 24, 2015" />
+  <meta itemprop="name" content="%EF%BB%BFEpisode 126 &#8211; News for December 24, 2015" />
   
   <meta itemprop="uploadDate" content="2015-12-24T01:00:00-07:00" />
   

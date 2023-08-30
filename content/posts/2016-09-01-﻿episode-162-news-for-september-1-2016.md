@@ -3,7 +3,7 @@ title: 162 News for September 1, 2016
 author: Dustin
 type: post
 date: 2016-09-01T07:00:00+00:00
-url: /﻿episode-162-news-for-september-1-2016/
+url: /%EF%BB%BFepisode-162-news-for-september-1-2016/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_162.mp3

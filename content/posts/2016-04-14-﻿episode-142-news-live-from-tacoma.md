@@ -1,9 +1,9 @@
 ---
-title: ﻿Episode 142 – News Live from Tacoma
+title: AN Episode 142 – News Live from Tacoma
 author: Dustin
 type: post
 date: 2016-04-14T16:00:00+00:00
-url: /﻿episode-142-news-live-from-tacoma/
+url: /%EF%BB%BFepisode-142-news-live-from-tacoma/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_142.mp3
@@ -21,7 +21,7 @@ categories:
 
 ---
 <div itemscope itemtype="http://schema.org/AudioObject">
-  <meta itemprop="name" content="﻿Episode 142 &#8211; News Live from Tacoma" />
+  <meta itemprop="name" content="%EF%BB%BFEpisode 142 &#8211; News Live from Tacoma" />
   
   <meta itemprop="uploadDate" content="2016-04-14T10:00:00-06:00" />
   

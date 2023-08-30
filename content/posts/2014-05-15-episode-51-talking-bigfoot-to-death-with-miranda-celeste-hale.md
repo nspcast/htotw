@@ -1,5 +1,5 @@
 ---
-title: ﻿Episode 51 – Talking Bigfoot to Death with Miranda Celeste Hale
+title: AN Episode 51 – Talking Bigfoot to Death with Miranda Celeste Hale
 author: Dustin
 type: post
 date: 2014-05-16T04:15:57+00:00
@@ -21,7 +21,7 @@ categories:
 
 ---
 <div itemscope itemtype="http://schema.org/AudioObject">
-  <meta itemprop="name" content="﻿Episode 51 &#8211; Talking Bigfoot to Death with Miranda Celeste Hale" />
+  <meta itemprop="name" content="%EF%BB%BFEpisode 51 &#8211; Talking Bigfoot to Death with Miranda Celeste Hale" />
   
   <meta itemprop="uploadDate" content="2014-05-15T22:15:57-06:00" />
   

@@ -1,5 +1,5 @@
 ---
-title: ﻿Episode 117 – Secular Sexuality with Dr. Darryl Ray
+title: AN Episode 117 – Secular Sexuality with Dr. Darryl Ray
 author: Dustin
 type: post
 date: 2015-10-22T07:00:00+00:00
@@ -21,7 +21,7 @@ categories:
 
 ---
 <div itemscope itemtype="http://schema.org/AudioObject">
-  <meta itemprop="name" content="﻿Episode 117 &#8211; Secular Sexuality with Dr. Darryl Ray" />
+  <meta itemprop="name" content="%EF%BB%BFEpisode 117 &#8211; Secular Sexuality with Dr. Darryl Ray" />
   
   <meta itemprop="uploadDate" content="2015-10-22T01:00:00-06:00" />
   

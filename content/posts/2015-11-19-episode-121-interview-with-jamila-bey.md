@@ -1,5 +1,5 @@
 ---
-title: ﻿Episode 121 – Interview with Jamila Bey
+title: AN Episode 121 – Interview with Jamila Bey
 author: Dustin
 type: post
 date: 2015-11-19T08:00:00+00:00
@@ -21,7 +21,7 @@ categories:
 
 ---
 <div itemscope itemtype="http://schema.org/AudioObject">
-  <meta itemprop="name" content="﻿Episode 121 &#8211; Interview with Jamila Bey" />
+  <meta itemprop="name" content="%EF%BB%BFEpisode 121 &#8211; Interview with Jamila Bey" />
   
   <meta itemprop="uploadDate" content="2015-11-19T01:00:00-07:00" />
   

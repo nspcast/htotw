@@ -1,9 +1,9 @@
 ---
-title: ﻿Episode 128 – News for January 7, 2016
+title: AN Episode 128 – News for January 7, 2016
 author: Dustin
 type: post
 date: 2016-01-07T08:00:00+00:00
-url: /﻿episode-128-news-for-january-7-2016/
+url: /%EF%BB%BFepisode-128-news-for-january-7-2016/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_128.mp3
@@ -21,7 +21,7 @@ categories:
 
 ---
 <div itemscope itemtype="http://schema.org/AudioObject">
-  <meta itemprop="name" content="﻿Episode 128 &#8211; News for January 7, 2016" />
+  <meta itemprop="name" content="%EF%BB%BFEpisode 128 &#8211; News for January 7, 2016" />
   
   <meta itemprop="uploadDate" content="2016-01-07T01:00:00-07:00" />
   

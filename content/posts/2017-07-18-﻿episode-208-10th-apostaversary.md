@@ -1,9 +1,9 @@
 ---
-title: ﻿Episode 208 – 10th Apostaversary
+title: AN Episode 208 – 10th Apostaversary
 author: Dustin
 type: post
 date: 2017-07-18T07:00:58+00:00
-url: /﻿episode-208-10th-apostaversary/
+url: /%EF%BB%BFepisode-208-10th-apostaversary/
 enclosure:
   - |
     |
@@ -23,7 +23,7 @@ categories:
 
 ---
 <div itemscope itemtype="http://schema.org/AudioObject">
-  <meta itemprop="name" content="﻿Episode 208 &#8211; 10th Apostaversary" />
+  <meta itemprop="name" content="%EF%BB%BFEpisode 208 &#8211; 10th Apostaversary" />
   
   <meta itemprop="uploadDate" content="2017-07-18T01:00:58-06:00" />
   

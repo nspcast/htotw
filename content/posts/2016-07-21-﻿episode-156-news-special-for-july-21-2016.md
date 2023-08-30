@@ -1,9 +1,9 @@
 ---
-title: ﻿Episode 156 – News Special for July 21, 2016
+title: AN Episode 156 – News Special for July 21, 2016
 author: Dustin
 type: post
 date: 2016-07-21T07:00:00+00:00
-url: /﻿episode-156-news-special-for-july-21-2016/
+url: /%EF%BB%BFepisode-156-news-special-for-july-21-2016/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_156.mp3
@@ -21,7 +21,7 @@ categories:
 
 ---
 <div itemscope itemtype="http://schema.org/AudioObject">
-  <meta itemprop="name" content="﻿Episode 156 &#8211; News Special for July 21, 2016" />
+  <meta itemprop="name" content="%EF%BB%BFEpisode 156 &#8211; News Special for July 21, 2016" />
   
   <meta itemprop="uploadDate" content="2016-07-21T01:00:00-06:00" />
   

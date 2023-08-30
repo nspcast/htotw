@@ -3,57 +3,19 @@ title: AN 247 – Fighting About Condiments
 author: Dustin
 type: post
 date: 2018-04-19T07:00:49+00:00
-url: /episode-247-fighting-about-condiments/
-enclosure:
-  - |
-    |
-        https://cdn.nomads.studio/file/nsp-media/atheist_nomads_247.mp3
-        0
-        audio/mpeg
-        
-audio_file:
-  - |
-    |
-        https://cdn.nomads.studio/file/nsp-media/atheist_nomads_247.mp3
-        0
-        audio/mpeg
-        
+url: /an/247/
+aliases:
+  - /an/episode-247-fighting-about-condiments/
+  - /episode-247-fighting-about-condiments/
 categories:
   - Episodes
 
 ---
-<div itemscope itemtype="http://schema.org/AudioObject">
-  <meta itemprop="name" content="Episode 247 &#8211; Fighting About Condiments" />
-  
-  <meta itemprop="uploadDate" content="2018-04-19T01:00:49-06:00" />
-  
-  <meta itemprop="encodingFormat" content="audio/mpeg" />
-  
-  <meta itemprop="description" content="
-This week we're joined by Mikey Pullman and we've got David Silverman, updates on Trump's latest trans military ban, Ken Ham's labor woes, the impending apocalypse, fighting over condiments, and more!
-
-Atheist Comedy Experience - May 18 in Boise
-
-NE..." />
-  
-  <meta itemprop="contentUrl" content="https://dts.podtrac.com/redirect.mp3/cdn.nomads.studio/file/nsp-media/atheist_nomads_247.mp3" />
-  </p> 
-  
-  <div class="powerpress_player" id="powerpress_player_8510">
-    <audio class="wp-audio-shortcode" id="audio-1714-254" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://dts.podtrac.com/redirect.mp3/cdn.nomads.studio/file/nsp-media/atheist_nomads_247.mp3?_=254" /><a href="https://dts.podtrac.com/redirect.mp3/cdn.nomads.studio/file/nsp-media/atheist_nomads_247.mp3">https://dts.podtrac.com/redirect.mp3/cdn.nomads.studio/file/nsp-media/atheist_nomads_247.mp3</a></audio>
-  </div>
-</div>
-
-<p class="powerpress_links powerpress_links_mp3">
-  Podcast: <a href="https://dts.podtrac.com/redirect.mp3/cdn.nomads.studio/file/nsp-media/atheist_nomads_247.mp3" class="powerpress_link_pinw" target="_blank" title="Play in new window" onclick="return powerpress_pinw('https://htotw.com/?powerpress_pinw=1714-podcast');" rel="nofollow">Play in new window</a> | <a href="https://dts.podtrac.com/redirect.mp3/cdn.nomads.studio/file/nsp-media/atheist_nomads_247.mp3" class="powerpress_link_d" title="Download" rel="nofollow" download="atheist_nomads_247.mp3">Download</a>
-</p>
-
-<p class="powerpress_links powerpress_subscribe_links">
-  Subscribe: <a href="https://podcasts.apple.com/us/podcast/humanists-take-on-the-world/id530050098?mt=2&ls=1" class="powerpress_link_subscribe powerpress_link_subscribe_itunes" target="_blank" title="Subscribe on Apple Podcasts" rel="nofollow">Apple Podcasts</a> | <a href="https://www.google.com/podcasts?feed=aHR0cDovL2F0aGVpc3Rub21hZHMubGlic3luLmNvbS9yc3M%3D" class="powerpress_link_subscribe powerpress_link_subscribe_googleplay" target="_blank" title="Subscribe on Google Podcasts" rel="nofollow">Google Podcasts</a> | <a href="https://open.spotify.com/show/3LzK2xZGike6Tc1GEMtMbr?si=LieN9SNuTpq96smuaUsH8A" class="powerpress_link_subscribe powerpress_link_subscribe_spotify" target="_blank" title="Subscribe on Spotify" rel="nofollow">Spotify</a> | <a href="https://www.pandora.com/podcast/atheist-nomads/PC:10122?corr=62071012&part=ug" class="powerpress_link_subscribe powerpress_link_subscribe_pandora" target="_blank" title="Subscribe on Pandora" rel="nofollow">Pandora</a> | <a href="https://htotw.com/feed/podcast/" class="powerpress_link_subscribe powerpress_link_subscribe_rss" target="_blank" title="Subscribe via RSS" rel="nofollow">RSS</a>
-</p>
-
+<div id="buzzsprout-player-10552862"></div><script src="https://www.buzzsprout.com/1983601/10552862-episode-247-fighting-about-condiments.js?container_id=buzzsprout-player-10552862&player=small" type="text/javascript" charset="utf-8"></script>
   
 This week we&#8217;re joined by <a href="https://twitter.com/MikeyPullman" target="_blank" rel="noopener">Mikey Pullman</a> and we&#8217;ve got David Silverman, updates on Trump&#8217;s latest trans military ban, Ken Ham&#8217;s labor woes, the impending apocalypse, fighting over condiments, and more!
+
+<!--more-->
 
 [Atheist Comedy Experience][1] &#8211; May 18 in Boise
 
@@ -107,9 +69,4 @@ You can find us online at <a href="https://www.htotw.com/" target="_blank" rel="
 
 Theme music is provided by Sturdy Fred.
 
-<hr width="”500”" />
-
-[DOWNLOAD EPISODE][2]
-
  [1]: https://www.eventbrite.com/e/the-atheist-comedy-experience-tickets-42304819855?aff=eac2
- [2]: https://dts.podtrac.com/redirect.mp3/cdn.nomads.studio/file/nsp-media/atheist_nomads_247.mp3

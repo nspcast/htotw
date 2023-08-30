@@ -1,9 +1,9 @@
 ---
-title: ﻿Episode 212 – Lady Bizness
+title: AN Episode 212 – Lady Bizness
 author: Dustin
 type: post
 date: 2017-08-15T07:00:58+00:00
-url: /﻿episode-212-lady-bizness/
+url: /%EF%BB%BFepisode-212-lady-bizness/
 enclosure:
   - |
     |
@@ -23,7 +23,7 @@ categories:
 
 ---
 <div itemscope itemtype="http://schema.org/AudioObject">
-  <meta itemprop="name" content="﻿Episode 212 &#8211; Lady Bizness" />
+  <meta itemprop="name" content="%EF%BB%BFEpisode 212 &#8211; Lady Bizness" />
   
   <meta itemprop="uploadDate" content="2017-08-15T01:00:58-06:00" />
   

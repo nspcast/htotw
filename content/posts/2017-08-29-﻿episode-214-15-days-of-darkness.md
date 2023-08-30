@@ -1,9 +1,9 @@
 ---
-title: ﻿Episode 214 – 15 Days of Darkness
+title: AN Episode 214 – 15 Days of Darkness
 author: Dustin
 type: post
 date: 2017-08-30T02:13:05+00:00
-url: /﻿episode-214-15-days-of-darkness/
+url: /%EF%BB%BFepisode-214-15-days-of-darkness/
 enclosure:
   - |
     |
@@ -23,7 +23,7 @@ categories:
 
 ---
 <div itemscope itemtype="http://schema.org/AudioObject">
-  <meta itemprop="name" content="﻿Episode 214 &#8211; 15 Days of Darkness" />
+  <meta itemprop="name" content="%EF%BB%BFEpisode 214 &#8211; 15 Days of Darkness" />
   
   <meta itemprop="uploadDate" content="2017-08-29T20:13:05-06:00" />
   

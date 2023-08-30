@@ -3,7 +3,7 @@ title: 169 Shaking Things Up
 author: Dustin
 type: post
 date: 2016-10-20T07:00:00+00:00
-url: /﻿episode-169-shaking-things-up/
+url: /%EF%BB%BFepisode-169-shaking-things-up/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_169.mp3

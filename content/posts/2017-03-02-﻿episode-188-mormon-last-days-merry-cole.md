@@ -1,9 +1,9 @@
 ---
-title: ﻿Episode 188 – The Mormon Last Days with Merry Cole
+title: AN Episode 188 – The Mormon Last Days with Merry Cole
 author: Dustin
 type: post
 date: 2017-03-02T08:00:54+00:00
-url: /﻿episode-188-mormon-last-days-merry-cole/
+url: /%EF%BB%BFepisode-188-mormon-last-days-merry-cole/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_188.mp3
@@ -21,7 +21,7 @@ categories:
 
 ---
 <div itemscope itemtype="http://schema.org/AudioObject">
-  <meta itemprop="name" content="﻿Episode 188 &#8211; The Mormon Last Days with Merry Cole" />
+  <meta itemprop="name" content="%EF%BB%BFEpisode 188 &#8211; The Mormon Last Days with Merry Cole" />
   
   <meta itemprop="uploadDate" content="2017-03-02T01:00:54-07:00" />
   

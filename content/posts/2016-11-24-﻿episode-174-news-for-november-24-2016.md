@@ -3,7 +3,7 @@ title: 174 News for November 24, 2016
 author: Dustin
 type: post
 date: 2016-11-24T08:00:00+00:00
-url: /﻿episode-174-news-for-november-24-2016/
+url: /%EF%BB%BFepisode-174-news-for-november-24-2016/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_174.mp3

@@ -1,9 +1,9 @@
 ---
-title: ﻿Episode 216 – Baptism by Hurricane
+title: AN Episode 216 – Baptism by Hurricane
 author: Dustin
 type: post
 date: 2017-09-12T07:00:40+00:00
-url: /﻿episode-216-baptism-by-hurricane/
+url: /%EF%BB%BFepisode-216-baptism-by-hurricane/
 enclosure:
   - |
     |
@@ -23,7 +23,7 @@ categories:
 
 ---
 <div itemscope itemtype="http://schema.org/AudioObject">
-  <meta itemprop="name" content="﻿Episode 216 &#8211; Baptism by Hurricane" />
+  <meta itemprop="name" content="%EF%BB%BFEpisode 216 &#8211; Baptism by Hurricane" />
   
   <meta itemprop="uploadDate" content="2017-09-12T01:00:40-06:00" />
   

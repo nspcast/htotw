@@ -1,9 +1,9 @@
 ---
-title: ﻿Episode 210 – Republican Atheists
+title: AN Episode 210 – Republican Atheists
 author: Dustin
 type: post
 date: 2017-08-01T07:00:34+00:00
-url: /﻿episode-210-republican-atheists/
+url: /%EF%BB%BFepisode-210-republican-atheists/
 enclosure:
   - |
     |
@@ -23,7 +23,7 @@ categories:
 
 ---
 <div itemscope itemtype="http://schema.org/AudioObject">
-  <meta itemprop="name" content="﻿Episode 210 &#8211; Republican Atheists" />
+  <meta itemprop="name" content="%EF%BB%BFEpisode 210 &#8211; Republican Atheists" />
   
   <meta itemprop="uploadDate" content="2017-08-01T01:00:34-06:00" />
   

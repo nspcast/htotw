@@ -1,9 +1,9 @@
 ---
-title: ﻿Episode 152 – News for June 23, 2016
+title: AN Episode 152 – News for June 23, 2016
 author: Dustin
 type: post
 date: 2016-06-23T07:00:00+00:00
-url: /﻿episode-152-news-for-june-23-2016/
+url: /%EF%BB%BFepisode-152-news-for-june-23-2016/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_152.mp3
@@ -21,7 +21,7 @@ categories:
 
 ---
 <div itemscope itemtype="http://schema.org/AudioObject">
-  <meta itemprop="name" content="﻿Episode 152 &#8211; News for June 23, 2016" />
+  <meta itemprop="name" content="%EF%BB%BFEpisode 152 &#8211; News for June 23, 2016" />
   
   <meta itemprop="uploadDate" content="2016-06-23T01:00:00-06:00" />
   

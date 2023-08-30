@@ -1,9 +1,9 @@
 ---
-title: ﻿Episode 213 – More on Charlottesville
+title: AN Episode 213 – More on Charlottesville
 author: Dustin
 type: post
 date: 2017-08-22T07:00:27+00:00
-url: /﻿episode-213-more-on-charlottesville/
+url: /%EF%BB%BFepisode-213-more-on-charlottesville/
 enclosure:
   - |
     |
@@ -23,7 +23,7 @@ categories:
 
 ---
 <div itemscope itemtype="http://schema.org/AudioObject">
-  <meta itemprop="name" content="﻿Episode 213 &#8211; More on Charlottesville" />
+  <meta itemprop="name" content="%EF%BB%BFEpisode 213 &#8211; More on Charlottesville" />
   
   <meta itemprop="uploadDate" content="2017-08-22T01:00:27-06:00" />
   

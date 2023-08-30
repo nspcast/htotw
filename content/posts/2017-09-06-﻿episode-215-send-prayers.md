@@ -1,9 +1,9 @@
 ---
-title: ﻿Episode 215 – Send Prayers
+title: AN Episode 215 – Send Prayers
 author: Dustin
 type: post
 date: 2017-09-07T01:05:20+00:00
-url: /﻿episode-215-send-prayers/
+url: /%EF%BB%BFepisode-215-send-prayers/
 enclosure:
   - |
     |
@@ -23,7 +23,7 @@ categories:
 
 ---
 <div itemscope itemtype="http://schema.org/AudioObject">
-  <meta itemprop="name" content="﻿Episode 215 &#8211; Send Prayers" />
+  <meta itemprop="name" content="%EF%BB%BFEpisode 215 &#8211; Send Prayers" />
   
   <meta itemprop="uploadDate" content="2017-09-06T19:05:20-06:00" />
   

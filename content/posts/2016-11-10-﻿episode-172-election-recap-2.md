@@ -3,7 +3,7 @@ title: 172 Election Recap
 author: Dustin
 type: post
 date: 2016-11-10T08:00:00+00:00
-url: /﻿episode-172-election-recap-2/
+url: /%EF%BB%BFepisode-172-election-recap-2/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_172.mp3

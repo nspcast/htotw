@@ -1,9 +1,9 @@
 ---
-title: ﻿Episode 141 – Hunting Chupacabra with Ben Radford
+title: AN Episode 141 – Hunting Chupacabra with Ben Radford
 author: Dustin
 type: post
 date: 2016-04-07T07:00:00+00:00
-url: /﻿episode-141-hunting-chupacabra-with-ben-radford/
+url: /%EF%BB%BFepisode-141-hunting-chupacabra-with-ben-radford/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_141.mp3
@@ -21,7 +21,7 @@ categories:
 
 ---
 <div itemscope itemtype="http://schema.org/AudioObject">
-  <meta itemprop="name" content="﻿Episode 141 &#8211; Hunting Chupacabra with Ben Radford" />
+  <meta itemprop="name" content="%EF%BB%BFEpisode 141 &#8211; Hunting Chupacabra with Ben Radford" />
   
   <meta itemprop="uploadDate" content="2016-04-07T01:00:00-06:00" />
   

@@ -1,9 +1,9 @@
 ---
-title: ﻿Episode 211 – Liar, Lunatic, or Lord
+title: AN Episode 211 – Liar, Lunatic, or Lord
 author: Dustin
 type: post
 date: 2017-08-09T02:44:47+00:00
-url: /﻿episode-211-liar-lunatic-or-lord/
+url: /%EF%BB%BFepisode-211-liar-lunatic-or-lord/
 enclosure:
   - |
     |
@@ -23,7 +23,7 @@ categories:
 
 ---
 <div itemscope itemtype="http://schema.org/AudioObject">
-  <meta itemprop="name" content="﻿Episode 211 &#8211; Liar, Lunatic, or Lord" />
+  <meta itemprop="name" content="%EF%BB%BFEpisode 211 &#8211; Liar, Lunatic, or Lord" />
   
   <meta itemprop="uploadDate" content="2017-08-08T20:44:47-06:00" />
   

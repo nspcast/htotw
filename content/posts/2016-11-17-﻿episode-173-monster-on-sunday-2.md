@@ -3,7 +3,7 @@ title: 173 Monster on Sunday
 author: Dustin
 type: post
 date: 2016-11-17T08:00:00+00:00
-url: /﻿episode-173-monster-on-sunday-2/
+url: /%EF%BB%BFepisode-173-monster-on-sunday-2/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_173.mp3
