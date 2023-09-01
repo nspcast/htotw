@@ -21,7 +21,7 @@ categories:
 
 ---
 <div itemscope itemtype="http://schema.org/AudioObject">
-  <meta itemprop="name" content="%EF%BB%BFEpisode 117 &#8211; Secular Sexuality with Dr. Darryl Ray" />
+  <meta itemprop="name" content=" episode 117 &#8211; Secular Sexuality with Dr. Darryl Ray" />
   
   <meta itemprop="uploadDate" content="2015-10-22T01:00:00-06:00" />
   

@@ -3,7 +3,7 @@ title: AN Episode 154 – News for July 7, 2016
 author: Dustin
 type: post
 date: 2016-07-07T07:00:00+00:00
-url: /%EF%BB%BFepisode-154-news-for-july-7-2016/
+url: /episode-154-news-for-july-7-2016/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_154.mp3
@@ -21,7 +21,7 @@ categories:
 
 ---
 <div itemscope itemtype="http://schema.org/AudioObject">
-  <meta itemprop="name" content="%EF%BB%BFEpisode 154 &#8211; News for July 7, 2016" />
+  <meta itemprop="name" content=" episode 154 &#8211; News for July 7, 2016" />
   
   <meta itemprop="uploadDate" content="2016-07-07T01:00:00-06:00" />
   

@@ -21,7 +21,7 @@ categories:
 
 ---
 <div itemscope itemtype="http://schema.org/AudioObject">
-  <meta itemprop="name" content="%EF%BB%BFEpisode 51 &#8211; Talking Bigfoot to Death with Miranda Celeste Hale" />
+  <meta itemprop="name" content=" episode 51 &#8211; Talking Bigfoot to Death with Miranda Celeste Hale" />
   
   <meta itemprop="uploadDate" content="2014-05-15T22:15:57-06:00" />
   

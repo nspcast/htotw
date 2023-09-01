@@ -21,7 +21,7 @@ categories:
 
 ---
 <div itemscope itemtype="http://schema.org/AudioObject">
-  <meta itemprop="name" content="%EF%BB%BFEpisode 116 &#8211; News for October 15, 2015" />
+  <meta itemprop="name" content=" episode 116 &#8211; News for October 15, 2015" />
   
   <meta itemprop="uploadDate" content="2015-10-15T01:00:00-06:00" />
   

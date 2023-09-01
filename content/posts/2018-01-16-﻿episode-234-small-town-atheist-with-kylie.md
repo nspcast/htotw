@@ -5,8 +5,8 @@ type: post
 date: 2018-01-16T08:00:35+00:00
 url: /an/234/
 aliases:
-  - /an/%EF%BB%BFepisode-234-small-town-atheist-with-kylie/
-  - /%EF%BB%BFepisode-234-small-town-atheist-with-kylie/
+  - /an/episode-234-small-town-atheist-with-kylie/
+  - /episode-234-small-town-atheist-with-kylie/
   - /an/episode-234-small-town-atheist-with-kylie/
   - /episode-234-small-town-atheist-with-kylie/
 categories:

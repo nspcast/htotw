@@ -3,7 +3,7 @@ title: AN Episode 130 – News for January 21, 2016
 author: Dustin
 type: post
 date: 2016-01-21T08:00:00+00:00
-url: /%EF%BB%BFepisode-130-news-for-january-21-2016/
+url: /episode-130-news-for-january-21-2016/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_130.mp3
@@ -21,7 +21,7 @@ categories:
 
 ---
 <div itemscope itemtype="http://schema.org/AudioObject">
-  <meta itemprop="name" content="%EF%BB%BFEpisode 130 &#8211; News for January 21, 2016" />
+  <meta itemprop="name" content=" episode 130 &#8211; News for January 21, 2016" />
   
   <meta itemprop="uploadDate" content="2016-01-21T01:00:00-07:00" />
   

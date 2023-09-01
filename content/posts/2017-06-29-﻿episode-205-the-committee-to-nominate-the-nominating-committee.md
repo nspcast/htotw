@@ -3,7 +3,7 @@ title: AN Episode 205 – The Committee to Nominate the Nominating Committee
 author: Dustin
 type: post
 date: 2017-06-29T07:00:28+00:00
-url: /%EF%BB%BFepisode-205-the-committee-to-nominate-the-nominating-committee/
+url: /episode-205-the-committee-to-nominate-the-nominating-committee/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_205.mp3
@@ -21,7 +21,7 @@ categories:
 
 ---
 <div itemscope itemtype="http://schema.org/AudioObject">
-  <meta itemprop="name" content="%EF%BB%BFEpisode 205 &#8211; The Committee to Nominate the Nominating Committee" />
+  <meta itemprop="name" content=" episode 205 &#8211; The Committee to Nominate the Nominating Committee" />
   
   <meta itemprop="uploadDate" content="2017-06-29T01:00:28-06:00" />
   

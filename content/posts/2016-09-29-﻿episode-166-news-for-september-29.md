@@ -3,7 +3,7 @@ title: 166 News for September 29
 author: Dustin
 type: post
 date: 2016-09-29T07:00:00+00:00
-url: /%EF%BB%BFepisode-166-news-for-september-29/
+url: /episode-166-news-for-september-29/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_166.mp3

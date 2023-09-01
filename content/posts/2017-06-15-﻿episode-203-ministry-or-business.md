@@ -3,7 +3,7 @@ title: AN Episode 203 – Ministry or Business
 author: Dustin
 type: post
 date: 2017-06-15T07:00:03+00:00
-url: /%EF%BB%BFepisode-203-ministry-or-business/
+url: /episode-203-ministry-or-business/
 enclosure:
   - |
     |
@@ -23,7 +23,7 @@ categories:
 
 ---
 <div itemscope itemtype="http://schema.org/AudioObject">
-  <meta itemprop="name" content="%EF%BB%BFEpisode 203 &#8211; Ministry or Business" />
+  <meta itemprop="name" content=" episode 203 &#8211; Ministry or Business" />
   
   <meta itemprop="uploadDate" content="2017-06-15T01:00:03-06:00" />
   

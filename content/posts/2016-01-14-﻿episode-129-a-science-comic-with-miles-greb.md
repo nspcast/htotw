@@ -3,7 +3,7 @@ title: AN Episode 129 – A Science Comic with Miles Greb
 author: Dustin
 type: post
 date: 2016-01-14T08:00:00+00:00
-url: /%EF%BB%BFepisode-129-a-science-comic-with-miles-greb/
+url: /episode-129-a-science-comic-with-miles-greb/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_129.mp3
@@ -21,7 +21,7 @@ categories:
 
 ---
 <div itemscope itemtype="http://schema.org/AudioObject">
-  <meta itemprop="name" content="%EF%BB%BFEpisode 129 &#8211; A Science Comic with Miles Greb" />
+  <meta itemprop="name" content=" episode 129 &#8211; A Science Comic with Miles Greb" />
   
   <meta itemprop="uploadDate" content="2016-01-14T01:00:00-07:00" />
   

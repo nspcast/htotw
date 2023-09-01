@@ -3,7 +3,7 @@ title: 170 Peeing on Churches
 author: Dustin
 type: post
 date: 2016-10-27T07:00:00+00:00
-url: /%EF%BB%BFepisode-170-peeing-on-churches/
+url: /episode-170-peeing-on-churches/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_170.mp3

@@ -3,7 +3,7 @@ title: AN Episode 193 – The Enemy of My Enemy
 author: Dustin
 type: post
 date: 2017-04-06T07:00:28+00:00
-url: /%EF%BB%BFepisode-193-the-enemy-of-my-enemy/
+url: /episode-193-the-enemy-of-my-enemy/
 enclosure:
   - |
     |
@@ -23,7 +23,7 @@ categories:
 
 ---
 <div itemscope itemtype="http://schema.org/AudioObject">
-  <meta itemprop="name" content="%EF%BB%BFEpisode 193 &#8211; The Enemy of My Enemy" />
+  <meta itemprop="name" content=" episode 193 &#8211; The Enemy of My Enemy" />
   
   <meta itemprop="uploadDate" content="2017-04-06T01:00:28-06:00" />
   

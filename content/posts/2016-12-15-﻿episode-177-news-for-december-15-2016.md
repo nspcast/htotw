@@ -3,7 +3,7 @@ title: 177 News for December 15, 2016
 author: Dustin
 type: post
 date: 2016-12-15T08:00:00+00:00
-url: /%EF%BB%BFepisode-177-news-for-december-15-2016/
+url: /episode-177-news-for-december-15-2016/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_177.mp3

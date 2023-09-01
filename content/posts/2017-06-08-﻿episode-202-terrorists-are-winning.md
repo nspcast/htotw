@@ -3,7 +3,7 @@ title: AN Episode 202 – The Terrorists are Winning
 author: Dustin
 type: post
 date: 2017-06-08T07:00:52+00:00
-url: /%EF%BB%BFepisode-202-terrorists-are-winning/
+url: /episode-202-terrorists-are-winning/
 enclosure:
   - |
     |
@@ -23,7 +23,7 @@ categories:
 
 ---
 <div itemscope itemtype="http://schema.org/AudioObject">
-  <meta itemprop="name" content="%EF%BB%BFEpisode 202 &#8211; The Terrorists are Winning" />
+  <meta itemprop="name" content=" episode 202 &#8211; The Terrorists are Winning" />
   
   <meta itemprop="uploadDate" content="2017-06-08T01:00:52-06:00" />
   

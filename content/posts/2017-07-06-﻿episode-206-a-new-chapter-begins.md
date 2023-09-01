@@ -3,7 +3,7 @@ title: AN Episode 206 – A New Chapter Begins
 author: Dustin
 type: post
 date: 2017-07-07T02:55:44+00:00
-url: /%EF%BB%BFepisode-206-a-new-chapter-begins/
+url: /episode-206-a-new-chapter-begins/
 enclosure:
   - |
     |
@@ -23,7 +23,7 @@ categories:
 
 ---
 <div itemscope itemtype="http://schema.org/AudioObject">
-  <meta itemprop="name" content="%EF%BB%BFEpisode 206 &#8211; A New Chapter Begins" />
+  <meta itemprop="name" content=" episode 206 &#8211; A New Chapter Begins" />
   
   <meta itemprop="uploadDate" content="2017-07-06T20:55:44-06:00" />
   

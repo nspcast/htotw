@@ -5,8 +5,8 @@ type: post
 date: 2018-01-23T08:00:22+00:00
 url: /an/235/
 aliases:
-  - /an/%EF%BB%BFepisode-235-super-blue-blood-moon-eclipse/
-  - /%EF%BB%BFepisode-235-super-blue-blood-moon-eclipse/
+  - /an/episode-235-super-blue-blood-moon-eclipse/
+  - /episode-235-super-blue-blood-moon-eclipse/
   - /an/episode-235-super-blue-blood-moon-eclipse/
   - /episode-235-super-blue-blood-moon-eclipse/
 categories:

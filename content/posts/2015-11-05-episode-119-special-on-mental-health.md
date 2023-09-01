@@ -21,7 +21,7 @@ categories:
 
 ---
 <div itemscope itemtype="http://schema.org/AudioObject">
-  <meta itemprop="name" content="%EF%BB%BFEpisode 119 &#8211; Special on Mental Health" />
+  <meta itemprop="name" content=" episode 119 &#8211; Special on Mental Health" />
   
   <meta itemprop="uploadDate" content="2015-11-05T19:47:26-07:00" />
   

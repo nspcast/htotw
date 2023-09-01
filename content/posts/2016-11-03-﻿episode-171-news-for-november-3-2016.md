@@ -3,7 +3,7 @@ title: 171 News for November 3, 2016
 author: Dustin
 type: post
 date: 2016-11-03T07:00:00+00:00
-url: /%EF%BB%BFepisode-171-news-for-november-3-2016/
+url: /episode-171-news-for-november-3-2016/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_171.mp3

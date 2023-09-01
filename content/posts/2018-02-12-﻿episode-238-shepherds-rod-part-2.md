@@ -5,8 +5,8 @@ type: post
 date: 2018-02-12T08:00:38+00:00
 url: /an/238/
 aliases:
-  - /an/%EF%BB%BFepisode-238-shepherds-rod-part-2/
-  - /%EF%BB%BFepisode-238-shepherds-rod-part-2/
+  - /an/episode-238-shepherds-rod-part-2/
+  - /episode-238-shepherds-rod-part-2/
   - /an/episode-238-shepherds-rod-part-2/
   - /episode-238-shepherds-rod-part-2/
 categories:

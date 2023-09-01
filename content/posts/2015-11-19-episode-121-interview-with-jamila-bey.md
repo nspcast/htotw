@@ -21,7 +21,7 @@ categories:
 
 ---
 <div itemscope itemtype="http://schema.org/AudioObject">
-  <meta itemprop="name" content="%EF%BB%BFEpisode 121 &#8211; Interview with Jamila Bey" />
+  <meta itemprop="name" content=" episode 121 &#8211; Interview with Jamila Bey" />
   
   <meta itemprop="uploadDate" content="2015-11-19T01:00:00-07:00" />
   

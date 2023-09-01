@@ -3,7 +3,7 @@ title: AN Episode 155 – Ghost Busting with Hayley Stevens
 author: Dustin
 type: post
 date: 2016-07-14T07:00:00+00:00
-url: /%EF%BB%BFepisode-155-ghost-busting-with-hayley-stevens/
+url: /episode-155-ghost-busting-with-hayley-stevens/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_155.mp3
@@ -21,7 +21,7 @@ categories:
 
 ---
 <div itemscope itemtype="http://schema.org/AudioObject">
-  <meta itemprop="name" content="%EF%BB%BFEpisode 155 &#8211; Ghost Busting with Hayley Stevens" />
+  <meta itemprop="name" content=" episode 155 &#8211; Ghost Busting with Hayley Stevens" />
   
   <meta itemprop="uploadDate" content="2016-07-14T01:00:00-06:00" />
   

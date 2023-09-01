@@ -3,7 +3,7 @@ title: 178 The War on Christmas 2016
 author: Dustin
 type: post
 date: 2016-12-22T08:00:00+00:00
-url: /%EF%BB%BFepisode-178-the-war-on-christmas-2016/
+url: /episode-178-the-war-on-christmas-2016/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_178.mp3
