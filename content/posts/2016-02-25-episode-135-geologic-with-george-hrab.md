@@ -3,7 +3,7 @@ title: AN 135 – Geologic with George Hrab
 author: Dustin
 type: post
 date: 2016-02-25T08:00:00+00:00
-url: /episode-135-geologic-with-george-hrab/
+url: /an/episode-135-geologic-with-george-hrab/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_135.mp3

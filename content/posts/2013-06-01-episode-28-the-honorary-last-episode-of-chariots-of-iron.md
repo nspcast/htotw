@@ -3,7 +3,7 @@ title: AN 28 – The honorary last episode of Chariots of Iron
 author: Dustin
 type: post
 date: 2013-06-01T23:20:08+00:00
-url: /episode-28-the-honorary-last-episode-of-chariots-of-iron/
+url: /an/episode-28-the-honorary-last-episode-of-chariots-of-iron/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_028.mp3

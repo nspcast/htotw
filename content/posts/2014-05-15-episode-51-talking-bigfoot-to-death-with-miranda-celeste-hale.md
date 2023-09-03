@@ -3,7 +3,7 @@ title: AN Episode 51 – Talking Bigfoot to Death with Miranda Celeste Hale
 author: Dustin
 type: post
 date: 2014-05-16T04:15:57+00:00
-url: /episode-51-talking-bigfoot-to-death-with-miranda-celeste-hale/
+url: /an/episode-51-talking-bigfoot-to-death-with-miranda-celeste-hale/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_051.mp3

@@ -3,7 +3,7 @@ title: AN Episode 187 – The Adventist Millennium
 author: Dustin
 type: post
 date: 2017-02-23T08:00:02+00:00
-url: /episode-187-adventist-millennium/
+url: /an/episode-187-adventist-millennium/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_187.mp3

@@ -3,7 +3,7 @@ title: AN 43 – The Creationist Fail with Rachel Nanon Brown
 author: Dustin
 type: post
 date: 2014-01-17T00:00:00+00:00
-url: /episode-43-the-creationist-fail-with-rachel-nanon-brown/
+url: /an/episode-43-the-creationist-fail-with-rachel-nanon-brown/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_043.mp3

@@ -3,7 +3,7 @@ title: AN Episode 106 – News for August 6, 2015
 author: Dustin
 type: post
 date: 2015-08-06T07:00:00+00:00
-url: /episode-106-news-for-august-6-2015/
+url: /an/episode-106-news-for-august-6-2015/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_106.mp3

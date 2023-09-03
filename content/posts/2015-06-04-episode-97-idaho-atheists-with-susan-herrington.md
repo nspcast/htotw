@@ -3,7 +3,7 @@ title: AN 97 – Idaho Atheists with Susan Herrington
 author: Dustin
 type: post
 date: 2015-06-04T07:00:00+00:00
-url: /episode-97-idaho-atheists-with-susan-herrington/
+url: /an/episode-97-idaho-atheists-with-susan-herrington/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_097.mp3

@@ -3,7 +3,7 @@ title: AN 122 – News for November 26, 2015
 author: Dustin
 type: post
 date: 2015-11-26T08:00:00+00:00
-url: /episode-122-news-for-november-26-2015/
+url: /an/episode-122-news-for-november-26-2015/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_122.mp3

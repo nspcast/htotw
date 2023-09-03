@@ -3,7 +3,7 @@ title: AN Episode 150 – News for June 9, 2016
 author: Dustin
 type: post
 date: 2016-06-09T07:00:00+00:00
-url: /episode-150-news-for-june-9-2016/
+url: /an/episode-150-news-for-june-9-2016/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_150.mp3

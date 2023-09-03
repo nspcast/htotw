@@ -3,7 +3,7 @@ title: AN 22 – Nailed with David Fitzgerald
 author: Dustin
 type: post
 date: 2013-03-07T18:16:27+00:00
-url: /episode-22-nailed-with-david-fitzgerald/
+url: /an/episode-22-nailed-with-david-fitzgerald/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_022.mp3

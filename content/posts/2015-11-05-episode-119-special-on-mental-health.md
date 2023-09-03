@@ -3,7 +3,7 @@ title: AN Episode 119 – Special on Mental Health
 author: Dustin
 type: post
 date: 2015-11-06T02:47:26+00:00
-url: /episode-119-special-on-mental-health/
+url: /an/episode-119-special-on-mental-health/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_119.mp3

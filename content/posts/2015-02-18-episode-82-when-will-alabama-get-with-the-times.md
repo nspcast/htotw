@@ -3,7 +3,7 @@ title: AN 82 – When will Alabama get with the times?
 author: Dustin
 type: post
 date: 2015-02-19T06:00:00+00:00
-url: /episode-82-when-will-alabama-get-with-the-times/
+url: /an/episode-82-when-will-alabama-get-with-the-times/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_082.mp3

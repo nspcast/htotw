@@ -3,7 +3,7 @@ title: AN 123 – The Satanic Temple of Seattle with Case
 author: Dustin
 type: post
 date: 2015-12-03T08:00:00+00:00
-url: /episode-123-the-satanic-temple-of-seattle-with-case/
+url: /an/episode-123-the-satanic-temple-of-seattle-with-case/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_123.mp3

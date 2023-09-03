@@ -3,7 +3,7 @@ title: AN 32 – Catching up on the News and Mail
 author: Dustin
 type: post
 date: 2013-08-09T03:43:57+00:00
-url: /episode-32-catching-up-on-the-news-and-mail/
+url: /an/episode-32-catching-up-on-the-news-and-mail/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_032.mp3

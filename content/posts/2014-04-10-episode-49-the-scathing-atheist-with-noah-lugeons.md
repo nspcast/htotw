@@ -3,7 +3,7 @@ title: AN 49 – The Scathing Atheist with Noah Lugeons
 author: Dustin
 type: post
 date: 2014-04-11T04:08:32+00:00
-url: /episode-49-the-scathing-atheist-with-noah-lugeons/
+url: /an/episode-49-the-scathing-atheist-with-noah-lugeons/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_049.mp3

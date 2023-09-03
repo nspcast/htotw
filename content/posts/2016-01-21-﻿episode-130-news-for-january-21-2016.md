@@ -3,7 +3,7 @@ title: AN Episode 130 – News for January 21, 2016
 author: Dustin
 type: post
 date: 2016-01-21T08:00:00+00:00
-url: /episode-130-news-for-january-21-2016/
+url: /an/episode-130-news-for-january-21-2016/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_130.mp3

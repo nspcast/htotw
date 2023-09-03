@@ -3,7 +3,7 @@ title: AN 47 – Be Secular with Mark and Shanon Nebo
 author: Dustin
 type: post
 date: 2014-03-16T23:00:22+00:00
-url: /episode-47-be-secular-with-mark-and-shanon-nebo/
+url: /an/episode-47-be-secular-with-mark-and-shanon-nebo/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_047.mp3

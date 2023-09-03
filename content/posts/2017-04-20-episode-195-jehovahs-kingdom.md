@@ -3,7 +3,7 @@ title: AN 195 – Jehovah’s Kingdom
 author: Dustin
 type: post
 date: 2017-04-20T07:00:43+00:00
-url: /episode-195-jehovahs-kingdom/
+url: /an/episode-195-jehovahs-kingdom/
 enclosure:
   - |
     |

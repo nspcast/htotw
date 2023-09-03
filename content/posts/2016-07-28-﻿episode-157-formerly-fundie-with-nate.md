@@ -3,7 +3,7 @@ title: AN Episode 157 – Formerly Fundie with Nate
 author: Dustin
 type: post
 date: 2016-07-28T07:00:00+00:00
-url: /episode-157-formerly-fundie-with-nate/
+url: /an/episode-157-formerly-fundie-with-nate/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_157.mp3

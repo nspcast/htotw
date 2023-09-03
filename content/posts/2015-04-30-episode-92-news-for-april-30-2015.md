@@ -3,7 +3,7 @@ title: AN 92 – News for April 30, 2015
 author: Dustin
 type: post
 date: 2015-04-30T07:00:00+00:00
-url: /episode-92-news-for-april-30-2015/
+url: /an/episode-92-news-for-april-30-2015/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_092.mp3

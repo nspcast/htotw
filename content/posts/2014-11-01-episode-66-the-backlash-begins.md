@@ -3,7 +3,7 @@ title: AN 66 – The Backlash Begins
 author: Dustin
 type: post
 date: 2014-11-01T23:03:21+00:00
-url: /episode-66-the-backlash-begins/
+url: /an/episode-66-the-backlash-begins/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_066.mp3

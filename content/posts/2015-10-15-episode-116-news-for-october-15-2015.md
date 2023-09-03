@@ -3,7 +3,7 @@ title: AN Episode 116 – News for October 15, 2015
 author: Dustin
 type: post
 date: 2015-10-15T07:00:00+00:00
-url: /episode-116-news-for-october-15-2015/
+url: /an/episode-116-news-for-october-15-2015/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_116.mp3

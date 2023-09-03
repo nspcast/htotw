@@ -3,7 +3,7 @@ title: AN 140 – News for March 31, 2016
 author: Dustin
 type: post
 date: 2016-03-31T07:00:00+00:00
-url: /episode-140-news-for-march-31-2016/
+url: /an/episode-140-news-for-march-31-2016/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_140.mp3

@@ -3,7 +3,7 @@ title: AN 79 – Forced to Take the Kids to Church with Dr. Steve
 author: Dustin
 type: post
 date: 2015-01-29T03:57:12+00:00
-url: /episode-79-forced-to-take-the-kids-to-church-with-dr-steve/
+url: /an/episode-79-forced-to-take-the-kids-to-church-with-dr-steve/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_079.mp3

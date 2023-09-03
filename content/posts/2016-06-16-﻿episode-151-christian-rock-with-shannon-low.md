@@ -3,7 +3,7 @@ title: AN Episode 151 – Christian Rock with Shannon Low
 author: Dustin
 type: post
 date: 2016-06-16T07:00:00+00:00
-url: /episode-151-christian-rock-with-shannon-low/
+url: /an/episode-151-christian-rock-with-shannon-low/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_151.mp3

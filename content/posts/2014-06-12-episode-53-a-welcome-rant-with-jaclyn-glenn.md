@@ -3,7 +3,7 @@ title: AN 53 – A Welcome Rant with Jaclyn Glenn
 author: Dustin
 type: post
 date: 2014-06-13T00:40:53+00:00
-url: /episode-53-a-welcome-rant-with-jaclyn-glenn/
+url: /an/episode-53-a-welcome-rant-with-jaclyn-glenn/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_053.mp3

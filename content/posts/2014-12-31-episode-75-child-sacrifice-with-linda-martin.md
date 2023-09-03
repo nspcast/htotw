@@ -3,7 +3,7 @@ title: AN 75 – Child Sacrifice with Linda Martin
 author: Dustin
 type: post
 date: 2015-01-01T06:00:00+00:00
-url: /episode-75-child-sacrifice-with-linda-martin/
+url: /an/episode-75-child-sacrifice-with-linda-martin/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_075.mp3

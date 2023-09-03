@@ -3,7 +3,7 @@ title: AN 86 – Parental Advisory
 author: Dustin
 type: post
 date: 2015-03-20T22:38:19+00:00
-url: /episode-86-parental-advisory/
+url: /an/episode-86-parental-advisory/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_086.mp3

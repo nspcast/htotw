@@ -3,7 +3,7 @@ title: AN 85 – That’s My Name with Nick Morgan-Moore
 author: Dustin
 type: post
 date: 2015-03-12T23:45:07+00:00
-url: /episode-85-thats-my-name-with-nick-morgan-moore/
+url: /an/episode-85-thats-my-name-with-nick-morgan-moore/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_085.mp3

@@ -3,7 +3,7 @@ title: AN 50 – We Need a DJ at this Party with DJ Grothe!
 author: Dustin
 type: post
 date: 2014-05-02T02:33:37+00:00
-url: /episode-50-we-need-a-dj-at-this-party-with-dj-grothe/
+url: /an/episode-50-we-need-a-dj-at-this-party-with-dj-grothe/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_050.mp3

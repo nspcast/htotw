@@ -3,7 +3,7 @@ title: 168 Inciting Incident with Al and Astrid
 author: Dustin
 type: post
 date: 2016-10-13T07:00:00+00:00
-url: /episode-168-inciting-incident-with-al-and-astrid/
+url: /an/episode-168-inciting-incident-with-al-and-astrid/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_168.mp3

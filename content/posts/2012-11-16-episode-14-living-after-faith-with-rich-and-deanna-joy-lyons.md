@@ -3,7 +3,7 @@ title: AN 14 – Living After Faith with Rich and Deanna Joy Lyons
 author: Dustin
 type: post
 date: 2012-11-16T18:30:43+00:00
-url: /episode-14-living-after-faith-with-rich-and-deanna-joy-lyons/
+url: /an/episode-14-living-after-faith-with-rich-and-deanna-joy-lyons/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_014.mp3

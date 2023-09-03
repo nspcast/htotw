@@ -3,7 +3,7 @@ title: AN 41 – Attacking the Theocrats with Sean Faircloth
 author: Dustin
 type: post
 date: 2013-12-19T22:57:33+00:00
-url: /episode-41-attacking-the-theocrats-with-sean-faircloth/
+url: /an/episode-41-attacking-the-theocrats-with-sean-faircloth/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_041.mp3

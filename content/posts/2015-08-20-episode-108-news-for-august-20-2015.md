@@ -3,7 +3,7 @@ title: AN 108 – News for August 20, 2015
 author: Dustin
 type: post
 date: 2015-08-20T07:00:00+00:00
-url: /episode-108-news-for-august-20-2015/
+url: /an/episode-108-news-for-august-20-2015/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_108.mp3

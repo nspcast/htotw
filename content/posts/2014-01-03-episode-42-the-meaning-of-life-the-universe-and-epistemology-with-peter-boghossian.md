@@ -3,7 +3,7 @@ title: AN 42 – The Meaning of Life, the Universe, and Epistemology with Peter 
 author: Dustin
 type: post
 date: 2014-01-03T23:25:09+00:00
-url: /episode-42-the-meaning-of-life-the-universe-and-epistemology-with-peter-boghossian/
+url: /an/episode-42-the-meaning-of-life-the-universe-and-epistemology-with-peter-boghossian/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_042.mp3

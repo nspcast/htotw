@@ -3,7 +3,7 @@ title: AN 46 – Ex-Muslims with Mohammed Sayed and Sadaf
 author: Dustin
 type: post
 date: 2014-02-28T17:00:00+00:00
-url: /episode-46-ex-muslims-with-mohammed-sayed-and-sadaf/
+url: /an/episode-46-ex-muslims-with-mohammed-sayed-and-sadaf/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_046.mp3

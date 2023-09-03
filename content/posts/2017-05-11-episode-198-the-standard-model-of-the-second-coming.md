@@ -3,7 +3,7 @@ title: AN 198 – The Standard Model of the Second Coming
 author: Dustin
 type: post
 date: 2017-05-11T07:00:42+00:00
-url: /episode-198-the-standard-model-of-the-second-coming/
+url: /an/episode-198-the-standard-model-of-the-second-coming/
 enclosure:
   - |
     |

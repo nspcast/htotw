@@ -3,7 +3,7 @@ title: AN 27 – Guerrilla Skepticism with Susan Gerbic
 author: Dustin
 type: post
 date: 2013-05-17T06:55:54+00:00
-url: /episode-27-guerrilla-skepticism-with-susan-gerbic/
+url: /an/episode-27-guerrilla-skepticism-with-susan-gerbic/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_027.mp3

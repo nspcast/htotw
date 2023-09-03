@@ -3,7 +3,7 @@ title: AN 98 – News for June 11, 2015
 author: Dustin
 type: post
 date: 2015-06-11T07:00:00+00:00
-url: /episode-98-news-for-june-11-2015/
+url: /an/episode-98-news-for-june-11-2015/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_098.mp3

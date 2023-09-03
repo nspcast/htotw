@@ -3,7 +3,7 @@ title: AN 64 – News
 author: Dustin
 type: post
 date: 2014-10-16T23:54:20+00:00
-url: /episode-64-news/
+url: /an/episode-64-news/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_064.mp3

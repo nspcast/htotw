@@ -3,7 +3,7 @@ title: AN 36 – On the Road Again with Sam Mulvey
 author: Dustin
 type: post
 date: 2013-10-14T22:03:30+00:00
-url: /episode-36-on-the-road-again-with-sam-mulvey/
+url: /an/episode-36-on-the-road-again-with-sam-mulvey/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_036.mp3

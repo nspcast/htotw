@@ -3,7 +3,7 @@ title: AN 132 – News for February 4, 2016
 author: Dustin
 type: post
 date: 2016-02-04T08:00:00+00:00
-url: /episode-132-news-for-february-4-2016/
+url: /an/episode-132-news-for-february-4-2016/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_132.mp3

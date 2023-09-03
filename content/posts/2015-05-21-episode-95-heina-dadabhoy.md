@@ -3,7 +3,7 @@ title: AN 95 – Heinous Dealings with Heina Dadabhoy
 author: Dustin
 type: post
 date: 2015-05-21T07:00:54+00:00
-url: /episode-95-heina-dadabhoy/
+url: /an/episode-95-heina-dadabhoy/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_095.mp3

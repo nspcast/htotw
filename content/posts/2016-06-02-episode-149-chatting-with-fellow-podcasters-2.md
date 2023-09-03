@@ -3,7 +3,7 @@ title: AN 149 – Chatting with Fellow Podcasters
 author: Dustin
 type: post
 date: 2016-06-02T07:00:00+00:00
-url: /episode-149-chatting-with-fellow-podcasters-2/
+url: /an/episode-149-chatting-with-fellow-podcasters-2/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_149.mp3

@@ -3,7 +3,7 @@ title: AN Episode 118 – News for October 29, 2015
 author: Dustin
 type: post
 date: 2015-10-29T07:00:00+00:00
-url: /episode-118-news-for-october-29-2015/
+url: /an/episode-118-news-for-october-29-2015/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_118.mp3

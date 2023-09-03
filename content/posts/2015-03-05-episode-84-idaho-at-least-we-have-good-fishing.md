@@ -3,7 +3,7 @@ title: 'AN 84 – Idaho: At least we have good fishing'
 author: Dustin
 type: post
 date: 2015-03-06T03:58:00+00:00
-url: /episode-84-idaho-at-least-we-have-good-fishing/
+url: /an/episode-84-idaho-at-least-we-have-good-fishing/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_084.mp3

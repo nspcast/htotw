@@ -3,7 +3,7 @@ title: AN 10 – The FDA takes on the Woo
 author: Dustin
 type: post
 date: 2012-09-15T03:17:02+00:00
-url: /episode-10-the-fda-takes-on-the-woo/
+url: /an/episode-10-the-fda-takes-on-the-woo/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_010.mp3

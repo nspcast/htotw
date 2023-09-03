@@ -3,7 +3,7 @@ title: 175 News for December 1, 2016
 author: Dustin
 type: post
 date: 2016-12-01T08:00:00+00:00
-url: /episode-175-news-for-december-1-2016/
+url: /an/episode-175-news-for-december-1-2016/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_175.mp3

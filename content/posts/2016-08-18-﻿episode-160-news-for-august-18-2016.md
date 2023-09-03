@@ -3,7 +3,7 @@ title: AN Episode 160 – News for August 18, 2016
 author: Dustin
 type: post
 date: 2016-08-18T07:00:00+00:00
-url: /episode-160-news-for-august-18-2016/
+url: /an/episode-160-news-for-august-18-2016/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_160.mp3

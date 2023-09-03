@@ -3,7 +3,7 @@ title: 161 Failed Apologetics with Robert M. Laurence
 author: Dustin
 type: post
 date: 2016-08-26T02:22:56+00:00
-url: /episode-161-failed-apologetics-with-robert-m-laurence/
+url: /an/episode-161-failed-apologetics-with-robert-m-laurence/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_161.mp3

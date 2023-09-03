@@ -3,7 +3,7 @@ title: AN Episode 192 – Revelation Seminars
 author: Dustin
 type: post
 date: 2017-03-30T07:00:02+00:00
-url: /episode-192-revelation-seminars/
+url: /an/episode-192-revelation-seminars/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_192.mp3

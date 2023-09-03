@@ -3,7 +3,7 @@ title: AN 102 – News for July 9, 2015
 author: Dustin
 type: post
 date: 2015-07-09T07:00:00+00:00
-url: /episode-102-news-for-july-9-2015/
+url: /an/episode-102-news-for-july-9-2015/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_102.mp3

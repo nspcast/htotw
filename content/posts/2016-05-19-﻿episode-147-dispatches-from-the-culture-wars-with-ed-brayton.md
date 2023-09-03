@@ -3,7 +3,7 @@ title: AN Episode 147 – Dispatches From the Culture Wars with Ed Brayton
 author: Dustin
 type: post
 date: 2016-05-19T07:00:00+00:00
-url: /episode-147-dispatches-from-the-culture-wars-with-ed-brayton/
+url: /an/episode-147-dispatches-from-the-culture-wars-with-ed-brayton/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_147.mp3

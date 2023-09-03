@@ -3,7 +3,7 @@ title: AN 81 – Karl Mamer is not Dead
 author: Dustin
 type: post
 date: 2015-02-12T02:48:23+00:00
-url: /episode-81-karl-mamer-is-not-dead/
+url: /an/episode-81-karl-mamer-is-not-dead/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_081.mp3

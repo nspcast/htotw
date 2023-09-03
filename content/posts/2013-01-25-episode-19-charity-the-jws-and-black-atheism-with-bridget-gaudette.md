@@ -3,7 +3,7 @@ title: AN 19 – Charity, the JW’s, and Black Atheism with Bridget Gaudette
 author: Dustin
 type: post
 date: 2013-01-25T10:51:45+00:00
-url: /episode-19-charity-the-jws-and-black-atheism-with-bridget-gaudette/
+url: /an/episode-19-charity-the-jws-and-black-atheism-with-bridget-gaudette/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_019.mp3

@@ -3,7 +3,7 @@ title: AN 113 – Indian Ex-Adventist and Black Ex-Baptist with Jamila and Chris
 author: Dustin
 type: post
 date: 2015-09-24T07:00:00+00:00
-url: /episode-113-indian-ex-adventist-and-black-ex-baptist-with-jamila-and-chris-randall/
+url: /an/episode-113-indian-ex-adventist-and-black-ex-baptist-with-jamila-and-chris-randall/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_113.mp3

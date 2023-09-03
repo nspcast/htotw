@@ -3,7 +3,7 @@ title: AN 8 – Foxhole Atheists with Justin Griffith and Christopher Herr
 author: Dustin
 type: post
 date: 2012-08-16T06:01:50+00:00
-url: /episode-8-foxhole-atheists-with-justin-griffith-and-christopher-herr/
+url: /an/episode-8-foxhole-atheists-with-justin-griffith-and-christopher-herr/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_008.mp3

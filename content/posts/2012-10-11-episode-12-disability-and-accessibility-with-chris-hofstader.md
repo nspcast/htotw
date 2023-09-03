@@ -3,7 +3,7 @@ title: AN 12 – Disability and accessibility with Chris Hofstader
 author: Dustin
 type: post
 date: 2012-10-11T07:00:54+00:00
-url: /episode-12-disability-and-accessibility-with-chris-hofstader/
+url: /an/episode-12-disability-and-accessibility-with-chris-hofstader/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_012.mp3

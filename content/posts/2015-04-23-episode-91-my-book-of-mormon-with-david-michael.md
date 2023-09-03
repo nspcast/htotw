@@ -3,7 +3,7 @@ title: AN 91 – My Book of Mormon with David Michael
 author: Dustin
 type: post
 date: 2015-04-23T07:00:00+00:00
-url: /episode-91-my-book-of-mormon-with-david-michael/
+url: /an/episode-91-my-book-of-mormon-with-david-michael/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_091.mp3

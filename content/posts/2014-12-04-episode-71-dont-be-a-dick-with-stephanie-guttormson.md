@@ -3,7 +3,7 @@ title: AN 71 – Don’t be a Dick with Stephanie Guttormson
 author: Dustin
 type: post
 date: 2014-12-05T02:57:13+00:00
-url: /episode-71-dont-be-a-dick-with-stephanie-guttormson/
+url: /an/episode-71-dont-be-a-dick-with-stephanie-guttormson/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_071.mp3

@@ -3,7 +3,7 @@ title: AN Episode 187b – Mailbag
 author: Dustin
 type: post
 date: 2017-02-24T08:00:34+00:00
-url: /episode-187b-mailbag/
+url: /an/episode-187b-mailbag/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_187b.mp3

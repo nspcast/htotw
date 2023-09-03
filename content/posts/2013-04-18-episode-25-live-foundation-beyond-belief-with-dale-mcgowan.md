@@ -3,7 +3,7 @@ title: AN 25 LIVE – Foundation Beyond Belief with Dale McGowan
 author: Dustin
 type: post
 date: 2013-04-18T07:00:24+00:00
-url: /episode-25-live-foundation-beyond-belief-with-dale-mcgowan/
+url: /an/episode-25-live-foundation-beyond-belief-with-dale-mcgowan/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_025.mp3

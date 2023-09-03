@@ -3,7 +3,7 @@ title: AN 88 – Sealnado with Sam, Paul, and Rich
 author: Dustin
 type: post
 date: 2015-04-02T07:00:00+00:00
-url: /episode-88-sealnado-with-sam-paul-and-rich/
+url: /an/episode-88-sealnado-with-sam-paul-and-rich/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_088.mp3

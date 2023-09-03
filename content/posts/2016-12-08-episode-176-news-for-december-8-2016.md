@@ -3,7 +3,7 @@ title: 176 News for December 8, 2016
 author: Dustin
 type: post
 date: 2016-12-08T08:00:00+00:00
-url: /episode-176-news-for-december-8-2016/
+url: /an/episode-176-news-for-december-8-2016/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_176.mp3

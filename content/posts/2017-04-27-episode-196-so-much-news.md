@@ -3,7 +3,7 @@ title: AN 196 – So much news
 author: Dustin
 type: post
 date: 2017-04-27T07:00:40+00:00
-url: /episode-196-so-much-news/
+url: /an/episode-196-so-much-news/
 enclosure:
   - |
     |

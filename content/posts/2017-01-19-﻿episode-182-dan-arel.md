@@ -3,7 +3,7 @@ title: AN Episode 182 – News and Danthropology with Dan Arel
 author: Dustin
 type: post
 date: 2017-01-19T08:00:22+00:00
-url: /episode-182-dan-arel/
+url: /an/episode-182-dan-arel/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_182.mp3

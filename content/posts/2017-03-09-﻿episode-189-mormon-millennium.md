@@ -3,7 +3,7 @@ title: AN Episode 189 – The Mormon Millennium
 author: Dustin
 type: post
 date: 2017-03-09T08:00:40+00:00
-url: /episode-189-mormon-millennium/
+url: /an/episode-189-mormon-millennium/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_189.mp3

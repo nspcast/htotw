@@ -3,7 +3,10 @@ title: AN 199 – The Rapture
 author: Dustin
 type: post
 date: 2017-05-18T07:00:45+00:00
-url: /episode-199-the-rapture/
+url: /an/199/
+aliases:
+  - /an/episode-199-the-rapture/
+  - /episode-199-the-rapture/
 enclosure:
   - |
     |

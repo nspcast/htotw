@@ -3,7 +3,7 @@ title: AN 57 – The Friendliest Atheist with Hemant Mehta
 author: Dustin
 type: post
 date: 2014-08-12T02:10:51+00:00
-url: /episode-57-the-friendliest-atheist-with-hemant-mehta/
+url: /an/episode-57-the-friendliest-atheist-with-hemant-mehta/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_057.mp3

@@ -3,7 +3,7 @@ title: AN 6 – Recovering from Religion with Jerry DeWitt
 author: Dustin
 type: post
 date: 2012-07-20T03:34:54+00:00
-url: /episode-6-recovering-from-religion-with-jerry-dewitt/
+url: /an/episode-6-recovering-from-religion-with-jerry-dewitt/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_006.mp3

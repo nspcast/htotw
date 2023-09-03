@@ -3,7 +3,7 @@ title: AN 100 Live – News for June 25, 2015
 author: Dustin
 type: post
 date: 2015-06-25T07:00:00+00:00
-url: /episode-100-live-news-for-june-25-2015/
+url: /an/episode-100-live-news-for-june-25-2015/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_100.mp3

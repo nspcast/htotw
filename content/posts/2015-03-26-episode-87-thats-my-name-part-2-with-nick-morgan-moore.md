@@ -3,7 +3,7 @@ title: AN 87 – That’s My Name, part 2 with Nick Morgan-Moore
 author: Dustin
 type: post
 date: 2015-03-26T07:00:00+00:00
-url: /episode-87-thats-my-name-part-2-with-nick-morgan-moore/
+url: /an/episode-87-thats-my-name-part-2-with-nick-morgan-moore/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_087.mp3

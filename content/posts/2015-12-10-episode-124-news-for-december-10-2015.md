@@ -3,7 +3,7 @@ title: AN 124 – News for December 10, 2015
 author: Dustin
 type: post
 date: 2015-12-10T08:00:00+00:00
-url: /episode-124-news-for-december-10-2015/
+url: /an/episode-124-news-for-december-10-2015/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_124.mp3

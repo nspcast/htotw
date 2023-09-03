@@ -3,7 +3,7 @@ title: AN 69 – Islamic Reformation with Ali Rizvi
 author: Dustin
 type: post
 date: 2014-11-20T04:38:55+00:00
-url: /episode-69-islamic-reformation-with-ali-rizvi/
+url: /an/episode-69-islamic-reformation-with-ali-rizvi/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_069.mp3

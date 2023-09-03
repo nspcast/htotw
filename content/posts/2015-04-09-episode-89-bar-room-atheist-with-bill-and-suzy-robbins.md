@@ -3,7 +3,7 @@ title: AN 89 – Bar Room Atheist with Bill and Suzy Robbins
 author: Dustin
 type: post
 date: 2015-04-09T07:00:00+00:00
-url: /episode-89-bar-room-atheist-with-bill-and-suzy-robbins/
+url: /an/episode-89-bar-room-atheist-with-bill-and-suzy-robbins/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_089.mp3

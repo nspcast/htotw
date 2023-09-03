@@ -3,7 +3,7 @@ title: AN 70 – You’re Not Above the Law
 author: Dustin
 type: post
 date: 2014-11-27T16:38:00+00:00
-url: /episode-70-youre-not-above-the-law/
+url: /an/episode-70-youre-not-above-the-law/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_070.mp3

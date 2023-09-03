@@ -3,7 +3,7 @@ title: AN Episode 143 – The Satanic Temple of Seattle with Lilith Starr
 author: Dustin
 type: post
 date: 2016-04-21T07:00:00+00:00
-url: /episode-143-the-satanic-temple-of-seattle-with-lilith-starr/
+url: /an/episode-143-the-satanic-temple-of-seattle-with-lilith-starr/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_143.mp3

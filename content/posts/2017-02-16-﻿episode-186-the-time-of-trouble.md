@@ -3,7 +3,7 @@ title: AN Episode 186 – The Time of Trouble
 author: Dustin
 type: post
 date: 2017-02-16T08:00:25+00:00
-url: /episode-186-the-time-of-trouble/
+url: /an/episode-186-the-time-of-trouble/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_186.mp3

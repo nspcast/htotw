@@ -3,7 +3,7 @@ title: AN Episode 120 – News for November 12, 2015
 author: Dustin
 type: post
 date: 2015-11-12T08:00:00+00:00
-url: /episode-120-news-for-november-12-2015/
+url: /an/episode-120-news-for-november-12-2015/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_120.mp3

@@ -3,7 +3,7 @@ title: AN Episode 128 – News for January 7, 2016
 author: Dustin
 type: post
 date: 2016-01-07T08:00:00+00:00
-url: /episode-128-news-for-january-7-2016/
+url: /an/episode-128-news-for-january-7-2016/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_128.mp3

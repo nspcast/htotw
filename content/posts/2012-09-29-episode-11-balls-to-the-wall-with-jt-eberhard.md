@@ -3,7 +3,7 @@ title: AN 11 – Balls to the Wall with JT Eberhard
 author: Dustin
 type: post
 date: 2012-09-30T02:37:22+00:00
-url: /episode-11-balls-to-the-wall-with-jt-eberhard/
+url: /an/episode-11-balls-to-the-wall-with-jt-eberhard/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_011.mp3

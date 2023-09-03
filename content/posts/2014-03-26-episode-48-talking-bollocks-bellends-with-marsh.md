@@ -3,7 +3,7 @@ title: 'AN 48 – Talking  Bollocks & Bellends with Marsh'
 author: Dustin
 type: post
 date: 2014-03-27T05:00:00+00:00
-url: /episode-48-talking-bollocks-bellends-with-marsh/
+url: /an/episode-48-talking-bollocks-bellends-with-marsh/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_048.mp3

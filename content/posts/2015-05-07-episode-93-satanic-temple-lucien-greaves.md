@@ -3,7 +3,7 @@ title: AN 93 – The Satanic Temple with Lucien Greaves
 author: Dustin
 type: post
 date: 2015-05-07T07:00:00+00:00
-url: /episode-93-satanic-temple-lucien-greaves/
+url: /an/episode-93-satanic-temple-lucien-greaves/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_093.mp3

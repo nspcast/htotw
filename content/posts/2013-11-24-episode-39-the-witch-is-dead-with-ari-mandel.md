@@ -3,7 +3,7 @@ title: AN 39 – The Witch is Dead with Ari Mandel
 author: Dustin
 type: post
 date: 2013-11-25T03:21:40+00:00
-url: /episode-39-the-witch-is-dead-with-ari-mandel/
+url: /an/episode-39-the-witch-is-dead-with-ari-mandel/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_039.mp3

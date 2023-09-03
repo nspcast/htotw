@@ -3,7 +3,7 @@ title: AN Episode 144 – News for April 28, 2016
 author: Dustin
 type: post
 date: 2016-04-28T07:00:00+00:00
-url: /episode-144-news-for-april-28-2016/
+url: /an/episode-144-news-for-april-28-2016/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_144.mp3

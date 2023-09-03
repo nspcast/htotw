@@ -3,7 +3,7 @@ title: AN 54 – The Nicest Guy in Skepticism with Evan Bernstein
 author: Dustin
 type: post
 date: 2014-06-27T03:38:23+00:00
-url: /episode-54-the-nicest-guy-in-skepticism-with-evan-bernstein/
+url: /an/episode-54-the-nicest-guy-in-skepticism-with-evan-bernstein/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_054.mp3

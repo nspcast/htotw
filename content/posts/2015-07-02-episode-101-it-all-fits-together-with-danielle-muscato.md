@@ -3,7 +3,7 @@ title: AN 101 – It all fits together with Danielle Muscato
 author: Dustin
 type: post
 date: 2015-07-02T07:00:00+00:00
-url: /episode-101-it-all-fits-together-with-danielle-muscato/
+url: /an/episode-101-it-all-fits-together-with-danielle-muscato/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_101.mp3

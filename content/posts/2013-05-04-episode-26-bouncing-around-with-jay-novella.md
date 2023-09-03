@@ -3,7 +3,7 @@ title: AN 26 – Bouncing Around with Jay Novella
 author: Dustin
 type: post
 date: 2013-05-04T19:10:47+00:00
-url: /episode-26-bouncing-around-with-jay-novella/
+url: /an/episode-26-bouncing-around-with-jay-novella/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_026.mp3

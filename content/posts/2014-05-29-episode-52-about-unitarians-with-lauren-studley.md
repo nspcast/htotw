@@ -3,7 +3,7 @@ title: AN 52 – About Unitarians with Lauren Studley
 author: Dustin
 type: post
 date: 2014-05-30T02:49:45+00:00
-url: /episode-52-about-unitarians-with-lauren-studley/
+url: /an/episode-52-about-unitarians-with-lauren-studley/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_052.mp3

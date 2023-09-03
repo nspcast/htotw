@@ -3,7 +3,7 @@ title: AN 58 – Getting Geopolitical
 author: Dustin
 type: post
 date: 2014-08-22T22:59:52+00:00
-url: /episode-58-getting-geopolitical/
+url: /an/episode-58-getting-geopolitical/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_058.mp3

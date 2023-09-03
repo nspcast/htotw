@@ -3,7 +3,7 @@ title: AN 34 – Atheism in the North Puget Sound with Robert Ray
 author: Dustin
 type: post
 date: 2013-09-06T05:46:08+00:00
-url: /episode-34-atheism-in-the-north-puget-sound-with-robert-ray/
+url: /an/episode-34-atheism-in-the-north-puget-sound-with-robert-ray/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_034.mp3

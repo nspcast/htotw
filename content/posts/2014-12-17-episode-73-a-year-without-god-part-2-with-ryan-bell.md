@@ -3,7 +3,7 @@ title: AN 73 – A Year without God, part 2 with Ryan Bell
 author: Dustin
 type: post
 date: 2014-12-18T06:00:00+00:00
-url: /episode-73-a-year-without-god-part-2-with-ryan-bell/
+url: /an/episode-73-a-year-without-god-part-2-with-ryan-bell/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_073.mp3

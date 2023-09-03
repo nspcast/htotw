@@ -3,7 +3,7 @@ title: AN 72 – Still Waiting for that Resurrection
 author: Dustin
 type: post
 date: 2014-12-12T03:36:51+00:00
-url: /episode-72-still-waiting-for-that-resurrection/
+url: /an/episode-72-still-waiting-for-that-resurrection/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_072.mp3

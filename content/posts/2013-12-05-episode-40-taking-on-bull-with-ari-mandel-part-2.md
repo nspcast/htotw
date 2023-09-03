@@ -3,7 +3,7 @@ title: AN 40 – Taking on Bull with Ari Mandel, part 2
 author: Dustin
 type: post
 date: 2013-12-05T08:32:54+00:00
-url: /episode-40-taking-on-bull-with-ari-mandel-part-2/
+url: /an/episode-40-taking-on-bull-with-ari-mandel-part-2/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_040.mp3

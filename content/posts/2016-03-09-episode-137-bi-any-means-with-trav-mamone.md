@@ -3,7 +3,7 @@ title: AN 137 – Bi Any Means with Trav Mamone
 author: Dustin
 type: post
 date: 2016-03-10T06:00:00+00:00
-url: /episode-137-bi-any-means-with-trav-mamone/
+url: /an/episode-137-bi-any-means-with-trav-mamone/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_137.mp3

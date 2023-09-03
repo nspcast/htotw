@@ -3,7 +3,7 @@ title: AN 21 – The Hereafter
 author: Dustin
 type: post
 date: 2013-02-25T05:19:19+00:00
-url: /episode-21-the-hereafter/
+url: /an/episode-21-the-hereafter/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_021.mp3

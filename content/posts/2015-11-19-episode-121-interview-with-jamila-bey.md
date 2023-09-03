@@ -3,7 +3,7 @@ title: AN Episode 121 – Interview with Jamila Bey
 author: Dustin
 type: post
 date: 2015-11-19T08:00:00+00:00
-url: /episode-121-interview-with-jamila-bey/
+url: /an/episode-121-interview-with-jamila-bey/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_121.mp3

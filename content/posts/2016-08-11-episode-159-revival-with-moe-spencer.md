@@ -3,7 +3,7 @@ title: AN 159 – Revival with Moe Spencer
 author: Dustin
 type: post
 date: 2016-08-11T07:00:00+00:00
-url: /episode-159-revival-with-moe-spencer/
+url: /an/episode-159-revival-with-moe-spencer/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_159.mp3

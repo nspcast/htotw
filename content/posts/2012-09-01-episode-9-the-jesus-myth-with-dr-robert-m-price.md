@@ -3,7 +3,7 @@ title: AN 9 – The Jesus Myth with Dr. Robert M. Price
 author: Dustin
 type: post
 date: 2012-09-01T20:05:19+00:00
-url: /episode-9-the-jesus-myth-with-dr-robert-m-price/
+url: /an/episode-9-the-jesus-myth-with-dr-robert-m-price/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_009.mp3

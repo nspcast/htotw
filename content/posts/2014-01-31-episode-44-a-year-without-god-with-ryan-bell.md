@@ -3,7 +3,7 @@ title: AN 44 – A Year without God with Ryan Bell
 author: Dustin
 type: post
 date: 2014-02-01T01:16:00+00:00
-url: /episode-44-a-year-without-god-with-ryan-bell/
+url: /an/episode-44-a-year-without-god-with-ryan-bell/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_044.mp3

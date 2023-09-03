@@ -3,7 +3,7 @@ title: AN 104 – News for July 23, 2015
 author: Dustin
 type: post
 date: 2015-07-23T07:00:00+00:00
-url: /episode-104-news-for-july-23-2015/
+url: /an/episode-104-news-for-july-23-2015/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_104.mp3

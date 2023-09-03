@@ -3,7 +3,7 @@ title: AN 62 – News
 author: Dustin
 type: post
 date: 2014-10-02T04:44:51+00:00
-url: /episode-62-news/
+url: /an/episode-62-news/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_062.mp3

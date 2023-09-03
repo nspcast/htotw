@@ -3,7 +3,7 @@ title: AN 37 – Atheist Comedy with Keith Lowell Jensen
 author: Dustin
 type: post
 date: 2013-10-24T20:34:10+00:00
-url: /episode-37-atheist-comedy-with-keith-lowell-jensen/
+url: /an/episode-37-atheist-comedy-with-keith-lowell-jensen/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_037.mp3

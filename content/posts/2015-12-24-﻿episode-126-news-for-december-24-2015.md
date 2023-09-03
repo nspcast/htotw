@@ -3,7 +3,7 @@ title: AN Episode 126 – News for December 24, 2015
 author: Dustin
 type: post
 date: 2015-12-24T08:00:00+00:00
-url: /episode-126-news-for-december-24-2015/
+url: /an/episode-126-news-for-december-24-2015/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_126.mp3

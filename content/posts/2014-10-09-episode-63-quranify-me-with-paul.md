@@ -3,7 +3,7 @@ title: AN 63 – Quranify Me with Paul
 author: Dustin
 type: post
 date: 2014-10-10T03:41:01+00:00
-url: /episode-63-quranify-me-with-paul/
+url: /an/episode-63-quranify-me-with-paul/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_063.mp3

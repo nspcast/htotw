@@ -3,7 +3,7 @@ title: AN 33 – Thank God for an “act of God”? with Rebecca Vitsmun
 author: Dustin
 type: post
 date: 2013-08-23T21:54:51+00:00
-url: /episode-33-thank-god-for-an-act-of-god-with-rebecca-vitsmun/
+url: /an/episode-33-thank-god-for-an-act-of-god-with-rebecca-vitsmun/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_033.mp3

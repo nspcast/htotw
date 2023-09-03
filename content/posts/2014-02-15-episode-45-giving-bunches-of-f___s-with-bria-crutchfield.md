@@ -3,7 +3,7 @@ title: AN 45 – Giving Bunches of F___s with Bria Crutchfield
 author: Dustin
 type: post
 date: 2014-02-16T00:47:00+00:00
-url: /episode-45-giving-bunches-of-f___s-with-bria-crutchfield/
+url: /an/episode-45-giving-bunches-of-f___s-with-bria-crutchfield/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_045.mp3

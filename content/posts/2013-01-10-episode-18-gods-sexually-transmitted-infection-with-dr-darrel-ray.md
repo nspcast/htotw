@@ -3,7 +3,7 @@ title: AN 18 – God’s Sexually Transmitted Infection with Dr. Darrel Ray
 author: Dustin
 type: post
 date: 2013-01-10T08:00:07+00:00
-url: /episode-18-gods-sexually-transmitted-infection-with-dr-darrel-ray/
+url: /an/episode-18-gods-sexually-transmitted-infection-with-dr-darrel-ray/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_018.mp3

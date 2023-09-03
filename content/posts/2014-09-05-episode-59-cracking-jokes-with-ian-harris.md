@@ -3,7 +3,7 @@ title: AN 59 – Cracking jokes with Ian Harris
 author: Dustin
 type: post
 date: 2014-09-06T02:55:30+00:00
-url: /episode-59-cracking-jokes-with-ian-harris/
+url: /an/episode-59-cracking-jokes-with-ian-harris/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_059.mp3

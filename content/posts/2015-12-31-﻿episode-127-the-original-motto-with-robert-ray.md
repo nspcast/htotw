@@ -3,7 +3,7 @@ title: AN Episode 127 – The Original Motto with Robert Ray
 author: Dustin
 type: post
 date: 2015-12-31T08:00:00+00:00
-url: /episode-127-the-original-motto-with-robert-ray/
+url: /an/episode-127-the-original-motto-with-robert-ray/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_127.mp3

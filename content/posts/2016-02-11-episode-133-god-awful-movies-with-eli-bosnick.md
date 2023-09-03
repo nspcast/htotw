@@ -3,7 +3,7 @@ title: AN 133 – God Awful Movies with Eli Bosnick
 author: Dustin
 type: post
 date: 2016-02-11T08:00:00+00:00
-url: /episode-133-god-awful-movies-with-eli-bosnick/
+url: /an/episode-133-god-awful-movies-with-eli-bosnick/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_133.mp3

@@ -3,7 +3,7 @@ title: AN 83 – A Jolly Good Time with Ash Pryce
 author: Dustin
 type: post
 date: 2015-02-26T08:00:00+00:00
-url: /episode-83-a-jolly-good-time-with-ash-pryce/
+url: /an/episode-83-a-jolly-good-time-with-ash-pryce/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_083.mp3

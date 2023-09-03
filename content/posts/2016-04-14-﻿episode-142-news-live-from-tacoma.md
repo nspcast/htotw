@@ -3,7 +3,7 @@ title: AN Episode 142 – News Live from Tacoma
 author: Dustin
 type: post
 date: 2016-04-14T16:00:00+00:00
-url: /episode-142-news-live-from-tacoma/
+url: /an/episode-142-news-live-from-tacoma/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_142.mp3

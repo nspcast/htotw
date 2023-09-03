@@ -3,7 +3,7 @@ title: 163 More Fun Times with Sam Mulvey
 author: Dustin
 type: post
 date: 2016-09-08T07:00:00+00:00
-url: /episode-163-more-fun-times-with-sam-mulvey/
+url: /an/episode-163-more-fun-times-with-sam-mulvey/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_163.mp3

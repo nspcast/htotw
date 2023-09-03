@@ -3,7 +3,7 @@ title: AN 7 – The Atheist Pig puts some STANK on it with Mike Sieber
 author: Dustin
 type: post
 date: 2012-08-09T04:33:37+00:00
-url: /episode-7-the-atheist-pig-puts-some-stank-on-it-with-mike-sieber/
+url: /an/episode-7-the-atheist-pig-puts-some-stank-on-it-with-mike-sieber/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_007.mp3

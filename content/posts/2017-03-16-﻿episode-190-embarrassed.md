@@ -3,7 +3,7 @@ title: AN Episode 190 – Embarrassed by Religious Experiences
 author: Dustin
 type: post
 date: 2017-03-16T07:00:31+00:00
-url: /episode-190-embarrassed/
+url: /an/episode-190-embarrassed/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_190.mp3

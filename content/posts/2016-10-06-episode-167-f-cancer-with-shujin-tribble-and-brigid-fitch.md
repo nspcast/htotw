@@ -3,7 +3,7 @@ title: 167 F Cancer with Shujin Tribble and Brigid Fitch
 author: Dustin
 type: post
 date: 2016-10-06T07:00:00+00:00
-url: /episode-167-f-cancer-with-shujin-tribble-and-brigid-fitch/
+url: /an/episode-167-f-cancer-with-shujin-tribble-and-brigid-fitch/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_167.mp3

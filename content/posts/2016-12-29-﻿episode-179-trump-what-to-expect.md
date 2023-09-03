@@ -3,7 +3,7 @@ title: ' episode 179 – Trump: what to expect'
 author: Dustin
 type: post
 date: 2016-12-29T08:00:00+00:00
-url: /episode-179-trump-what-to-expect/
+url: /an/episode-179-trump-what-to-expect/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_179.mp3

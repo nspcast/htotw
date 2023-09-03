@@ -3,7 +3,7 @@ title: AN Episode 153 – But America Has Bears with Shelley Segal
 author: Dustin
 type: post
 date: 2016-06-30T07:00:00+00:00
-url: /episode-153-but-america-has-bears-with-shelley-segal/
+url: /an/episode-153-but-america-has-bears-with-shelley-segal/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_153.mp3

@@ -3,7 +3,7 @@ title: AN 68 – Iran, for the love of dog!
 author: Dustin
 type: post
 date: 2014-11-14T01:41:33+00:00
-url: /episode-68-iran-for-the-love-of-dog/
+url: /an/episode-68-iran-for-the-love-of-dog/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_068.mp3

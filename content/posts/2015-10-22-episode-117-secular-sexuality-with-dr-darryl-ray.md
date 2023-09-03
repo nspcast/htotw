@@ -3,7 +3,7 @@ title: AN Episode 117 – Secular Sexuality with Dr. Darryl Ray
 author: Dustin
 type: post
 date: 2015-10-22T07:00:00+00:00
-url: /episode-117-secular-sexuality-with-dr-darryl-ray/
+url: /an/episode-117-secular-sexuality-with-dr-darryl-ray/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_117.mp3

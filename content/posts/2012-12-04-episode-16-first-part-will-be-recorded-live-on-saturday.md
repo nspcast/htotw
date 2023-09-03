@@ -3,7 +3,7 @@ title: AN 16 (first part) will be recorded live on Saturday
 author: Dustin
 type: post
 date: 2012-12-04T07:12:32+00:00
-url: /episode-16-first-part-will-be-recorded-live-on-saturday/
+url: /an/episode-16-first-part-will-be-recorded-live-on-saturday/
 al2fb_facebook_link_id:
   - 140665446068020_215997968534767
 al2fb_facebook_link_time:

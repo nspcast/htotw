@@ -3,7 +3,7 @@ title: AN 115 – The Story of God with Chris Matheson
 author: Dustin
 type: post
 date: 2015-10-08T07:00:00+00:00
-url: /episode-115-the-story-of-god-with-chris-matheson/
+url: /an/episode-115-the-story-of-god-with-chris-matheson/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_115.mp3

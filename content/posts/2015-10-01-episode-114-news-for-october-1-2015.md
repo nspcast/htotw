@@ -3,7 +3,7 @@ title: AN 114 – News for October 1, 2015
 author: Dustin
 type: post
 date: 2015-10-01T07:00:00+00:00
-url: /episode-114-news-for-october-1-2015/
+url: /an/episode-114-news-for-october-1-2015/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_114.mp3

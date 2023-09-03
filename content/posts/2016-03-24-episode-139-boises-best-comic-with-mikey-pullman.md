@@ -3,7 +3,7 @@ title: AN 139 – Boise’s Best Comic with Mikey Pullman
 author: Dustin
 type: post
 date: 2016-03-24T07:00:00+00:00
-url: /episode-139-boises-best-comic-with-mikey-pullman/
+url: /an/episode-139-boises-best-comic-with-mikey-pullman/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_139.mp3

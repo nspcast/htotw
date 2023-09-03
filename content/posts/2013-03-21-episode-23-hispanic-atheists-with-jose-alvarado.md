@@ -3,7 +3,7 @@ title: AN 23 – Hispanic Atheists with Jose Alvarado
 author: Dustin
 type: post
 date: 2013-03-21T07:00:41+00:00
-url: /episode-23-hispanic-atheists-with-jose-alvarado/
+url: /an/episode-23-hispanic-atheists-with-jose-alvarado/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_023.mp3

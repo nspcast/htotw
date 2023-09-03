@@ -3,7 +3,7 @@ title: 'AN 134  – News for February 18, 2016'
 author: Dustin
 type: post
 date: 2016-02-18T08:00:00+00:00
-url: /episode-134-news-for-february-18-2016/
+url: /an/episode-134-news-for-february-18-2016/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_134.mp3

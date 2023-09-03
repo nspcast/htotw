@@ -3,7 +3,7 @@ title: AN 38 – Cross Examining Bob Seidensticker
 author: Dustin
 type: post
 date: 2013-11-08T03:18:00+00:00
-url: /episode-38-cross-examining-bob-seidensticker/
+url: /an/episode-38-cross-examining-bob-seidensticker/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_038.mp3

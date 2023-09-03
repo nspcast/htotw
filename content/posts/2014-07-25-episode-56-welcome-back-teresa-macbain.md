@@ -3,7 +3,7 @@ title: AN 56 – Welcome Back Teresa MacBain
 author: Dustin
 type: post
 date: 2014-07-26T02:41:02+00:00
-url: /episode-56-welcome-back-teresa-macbain/
+url: /an/episode-56-welcome-back-teresa-macbain/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_056.mp3

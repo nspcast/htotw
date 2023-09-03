@@ -3,7 +3,7 @@ title: 165 Idaho Atheists with Gary Mitchell
 author: Dustin
 type: post
 date: 2016-09-22T07:00:00+00:00
-url: /episode-165-idaho-atheists-with-gary-mitchell/
+url: /an/episode-165-idaho-atheists-with-gary-mitchell/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_165.mp3

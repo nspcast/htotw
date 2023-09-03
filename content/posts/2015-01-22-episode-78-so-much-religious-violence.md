@@ -3,7 +3,7 @@ title: AN 78 – So Much Religious Violence
 author: Dustin
 type: post
 date: 2015-01-22T23:01:53+00:00
-url: /episode-78-so-much-religious-violence/
+url: /an/episode-78-so-much-religious-violence/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_078.mp3

@@ -3,7 +3,7 @@ title: AN 103 – We both love scissoring with Callie Wright
 author: Dustin
 type: post
 date: 2015-07-16T07:00:00+00:00
-url: /episode-103-we-both-love-scissoring-with-callie-wright/
+url: /an/episode-103-we-both-love-scissoring-with-callie-wright/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_103.mp3

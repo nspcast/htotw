@@ -3,7 +3,7 @@ title: AN 125 – Angry Black Rant with Ishmael Brown
 author: Dustin
 type: post
 date: 2015-12-17T08:00:00+00:00
-url: /episode-125-angry-black-rant-with-ishmael-brown/
+url: /an/episode-125-angry-black-rant-with-ishmael-brown/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_125.mp3

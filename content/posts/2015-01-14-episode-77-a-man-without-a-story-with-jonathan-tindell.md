@@ -3,7 +3,7 @@ title: AN 77 – A Man Without a Story with Jonathan Tindell
 author: Dustin
 type: post
 date: 2015-01-15T00:49:17+00:00
-url: /episode-77-a-man-without-a-story-with-jonathan-tindell/
+url: /an/episode-77-a-man-without-a-story-with-jonathan-tindell/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_077.mp3

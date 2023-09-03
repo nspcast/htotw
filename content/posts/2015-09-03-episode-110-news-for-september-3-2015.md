@@ -3,7 +3,7 @@ title: AN 110 – News for September 3, 2015
 author: Dustin
 type: post
 date: 2015-09-03T07:00:00+00:00
-url: /episode-110-news-for-september-3-2015/
+url: /an/episode-110-news-for-september-3-2015/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_110.mp3

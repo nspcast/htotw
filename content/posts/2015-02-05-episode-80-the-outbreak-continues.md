@@ -3,7 +3,7 @@ title: AN 80 – The Outbreak Continues
 author: Dustin
 type: post
 date: 2015-02-06T03:06:30+00:00
-url: /episode-80-the-outbreak-continues/
+url: /an/episode-80-the-outbreak-continues/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_080.mp3

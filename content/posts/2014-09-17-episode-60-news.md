@@ -3,7 +3,7 @@ title: AN 60 – News
 author: Dustin
 type: post
 date: 2014-09-18T05:00:00+00:00
-url: /episode-60-news/
+url: /an/episode-60-news/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_060.mp3

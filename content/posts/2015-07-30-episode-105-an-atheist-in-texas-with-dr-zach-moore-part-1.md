@@ -3,7 +3,7 @@ title: AN 105 – An Atheist in Texas with Dr. Zach Moore, Part 1
 author: Dustin
 type: post
 date: 2015-07-30T07:00:00+00:00
-url: /episode-105-an-atheist-in-texas-with-dr-zach-moore-part-1/
+url: /an/episode-105-an-atheist-in-texas-with-dr-zach-moore-part-1/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_105.mp3

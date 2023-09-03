@@ -3,7 +3,7 @@ title: AN 145 – Secular Mental Health with Tom Meacham
 author: Dustin
 type: post
 date: 2016-05-05T07:00:00+00:00
-url: /episode-145-secular-mental-health-with-tom-meacham/
+url: /an/episode-145-secular-mental-health-with-tom-meacham/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_145.mp3

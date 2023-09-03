@@ -3,7 +3,7 @@ title: AN 17 – Atheist Music, Morality, and Post-Jewish Life with Shelley Sega
 author: Dustin
 type: post
 date: 2012-12-28T03:22:18+00:00
-url: /episode-17-atheist-music-morality-and-post-jewish-life-with-shelley-segal/
+url: /an/episode-17-atheist-music-morality-and-post-jewish-life-with-shelley-segal/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_017.mp3

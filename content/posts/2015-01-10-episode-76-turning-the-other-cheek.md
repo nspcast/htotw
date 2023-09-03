@@ -3,7 +3,7 @@ title: AN 76 – Turning the Other Cheek
 author: Dustin
 type: post
 date: 2015-01-10T21:51:11+00:00
-url: /episode-76-turning-the-other-cheek/
+url: /an/episode-76-turning-the-other-cheek/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_076.mp3

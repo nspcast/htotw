@@ -3,7 +3,7 @@ title: AN 94 – News for May 14, 2015
 author: Dustin
 type: post
 date: 2015-05-14T07:00:00+00:00
-url: /episode-94-news-for-may-14-2015/
+url: /an/episode-94-news-for-may-14-2015/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_094.mp3

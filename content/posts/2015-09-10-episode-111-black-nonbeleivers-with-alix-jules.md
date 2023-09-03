@@ -3,7 +3,7 @@ title: AN 111 – Black Nonbeleivers with Alix Jules
 author: Dustin
 type: post
 date: 2015-09-10T07:00:00+00:00
-url: /episode-111-black-nonbeleivers-with-alix-jules/
+url: /an/episode-111-black-nonbeleivers-with-alix-jules/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_111.mp3

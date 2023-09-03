@@ -3,7 +3,7 @@ title: AN 55 – Making Headlines with Dave Silverman
 author: Dustin
 type: post
 date: 2014-07-12T03:19:21+00:00
-url: /episode-55-making-headlines-with-dave-silverman/
+url: /an/episode-55-making-headlines-with-dave-silverman/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_055.mp3

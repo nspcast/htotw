@@ -3,7 +3,7 @@ title: AN 24 – We are Atheism with Amanda Brown
 author: Dustin
 type: post
 date: 2013-04-05T19:42:33+00:00
-url: /episode-24-we-are-atheism-with-amanda-brown/
+url: /an/episode-24-we-are-atheism-with-amanda-brown/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_024.mp3

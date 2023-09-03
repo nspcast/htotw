@@ -3,7 +3,7 @@ title: AN 61 – The Oasis with Mike Aus
 author: Dustin
 type: post
 date: 2014-09-25T21:41:26+00:00
-url: /episode-61-the-oasis-with-mike-aus/
+url: /an/episode-61-the-oasis-with-mike-aus/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_061.mp3

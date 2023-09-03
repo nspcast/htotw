@@ -3,7 +3,7 @@ title: AN Episode 156 – News Special for July 21, 2016
 author: Dustin
 type: post
 date: 2016-07-21T07:00:00+00:00
-url: /episode-156-news-special-for-july-21-2016/
+url: /an/episode-156-news-special-for-july-21-2016/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_156.mp3

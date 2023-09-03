@@ -3,7 +3,7 @@ title: AN 16 – Teaching Critical Thinking with the Token Skeptic’s Kylie Stu
 author: Dustin
 type: post
 date: 2012-12-13T08:00:03+00:00
-url: /episode-16-teaching-critical-thinking-with-the-token-skeptics-kylie-sturgess/
+url: /an/episode-16-teaching-critical-thinking-with-the-token-skeptics-kylie-sturgess/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_016.mp3

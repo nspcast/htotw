@@ -3,7 +3,7 @@ title: AN 30 – Jew Power with Joshie Berger, part 1
 author: Dustin
 type: post
 date: 2013-07-03T05:31:58+00:00
-url: /episode-30-jew-power-with-joshie-berger-part-1/
+url: /an/episode-30-jew-power-with-joshie-berger-part-1/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_030.mp3

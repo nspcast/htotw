@@ -3,7 +3,7 @@ title: ' episode 158  – News for August 4, 2016'
 author: Dustin
 type: post
 date: 2016-08-04T07:00:00+00:00
-url: /episode-158-news-for-august-4-2016/
+url: /an/episode-158-news-for-august-4-2016/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_158.mp3

@@ -3,7 +3,7 @@ title: AN 109 – Genetic Engineering with Amber Sherwood K
 author: Dustin
 type: post
 date: 2015-08-27T07:00:00+00:00
-url: /episode-109-genetic-engineering-with-amber-sherwood-k/
+url: /an/episode-109-genetic-engineering-with-amber-sherwood-k/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_109.mp3

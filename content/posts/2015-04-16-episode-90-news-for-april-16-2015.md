@@ -3,7 +3,7 @@ title: AN 90 – News for April 16, 2015
 author: Dustin
 type: post
 date: 2015-04-16T07:00:00+00:00
-url: /episode-90-news-for-april-16-2015/
+url: /an/episode-90-news-for-april-16-2015/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_090.mp3

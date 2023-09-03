@@ -3,7 +3,7 @@ title: AN Episode 193 – The Enemy of My Enemy
 author: Dustin
 type: post
 date: 2017-04-06T07:00:28+00:00
-url: /episode-193-the-enemy-of-my-enemy/
+url: /an/episode-193-the-enemy-of-my-enemy/
 enclosure:
   - |
     |

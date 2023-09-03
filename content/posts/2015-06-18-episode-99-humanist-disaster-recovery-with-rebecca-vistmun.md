@@ -3,7 +3,7 @@ title: AN 99 – Humanist Disaster Recovery with Rebecca Vistmun
 author: Dustin
 type: post
 date: 2015-06-18T07:00:00+00:00
-url: /episode-99-humanist-disaster-recovery-with-rebecca-vistmun/
+url: /an/episode-99-humanist-disaster-recovery-with-rebecca-vistmun/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_099.mp3

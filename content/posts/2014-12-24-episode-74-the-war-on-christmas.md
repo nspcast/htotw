@@ -3,7 +3,7 @@ title: AN 74 – The War on Christmas
 author: Dustin
 type: post
 date: 2014-12-25T06:00:00+00:00
-url: /episode-74-the-war-on-christmas/
+url: /an/episode-74-the-war-on-christmas/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_074.mp3

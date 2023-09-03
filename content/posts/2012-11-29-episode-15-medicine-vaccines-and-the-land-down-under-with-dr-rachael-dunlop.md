@@ -3,7 +3,7 @@ title: AN 15 – Medicine, Vaccines, and the Land Down Under with Dr. Rachael Du
 author: Dustin
 type: post
 date: 2012-11-29T08:00:32+00:00
-url: /episode-15-medicine-vaccines-and-the-land-down-under-with-dr-rachael-dunlop/
+url: /an/episode-15-medicine-vaccines-and-the-land-down-under-with-dr-rachael-dunlop/
 enclosure:
   - |
     https://cdn.nomads.studio/file/nsp-media/atheist_nomads_015.mp3
