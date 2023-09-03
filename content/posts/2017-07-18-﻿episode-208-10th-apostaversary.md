@@ -3,59 +3,19 @@ title: AN Episode 208 – 10th Apostaversary
 author: Dustin
 type: post
 date: 2017-07-18T07:00:58+00:00
-url: /episode-208-10th-apostaversary/
-enclosure:
-  - |
-    |
-        https://cdn.nomads.studio/file/nsp-media/atheist_nomads_208.mp3
-        0
-        audio/mpeg
-        
-audio_file:
-  - |
-    |
-        https://cdn.nomads.studio/file/nsp-media/atheist_nomads_208.mp3
-        0
-        audio/mpeg
-        
+url: /an/208
+aliases:
+  - /an/episode-208-10th-apostaversary/
+  - /episode-208-10th-apostaversary/
 categories:
   - Episodes
 
 ---
-<div itemscope itemtype="http://schema.org/AudioObject">
-  <meta itemprop="name" content=" episode 208 &#8211; 10th Apostaversary" />
-  
-  <meta itemprop="uploadDate" content="2017-07-18T01:00:58-06:00" />
-  
-  <meta itemprop="encodingFormat" content="audio/mpeg" />
-  
-  <meta itemprop="description" content="Local comic Merry Cole is back
+<div id="buzzsprout-player-10552901"></div><script src="https://www.buzzsprout.com/1983601/10552901-episode-208-10th-apostaversary.js?container_id=buzzsprout-player-10552901&player=small" type="text/javascript" charset="utf-8"></script>
 
-DUSTIN’ OFF THE DEGREE - 10 Years Religion Free
+Local comic Merry Cole is back
 
-NEWS
-
-Malta has approved same sex marriage! The one no vote was because of religion.
-http://www.independent.co.uk/news/world/europe/malta-gay-marriage-same-sex-vote-pass..." />
-  
-  <meta itemprop="contentUrl" content="https://dts.podtrac.com/redirect.mp3/cdn.nomads.studio/file/nsp-media/atheist_nomads_208.mp3" />
-  </p> 
-  
-  <div class="powerpress_player" id="powerpress_player_8471">
-    <audio class="wp-audio-shortcode" id="audio-1593-215" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://dts.podtrac.com/redirect.mp3/cdn.nomads.studio/file/nsp-media/atheist_nomads_208.mp3?_=215" /><a href="https://dts.podtrac.com/redirect.mp3/cdn.nomads.studio/file/nsp-media/atheist_nomads_208.mp3">https://dts.podtrac.com/redirect.mp3/cdn.nomads.studio/file/nsp-media/atheist_nomads_208.mp3</a></audio>
-  </div>
-</div>
-
-<p class="powerpress_links powerpress_links_mp3">
-  Podcast: <a href="https://dts.podtrac.com/redirect.mp3/cdn.nomads.studio/file/nsp-media/atheist_nomads_208.mp3" class="powerpress_link_pinw" target="_blank" title="Play in new window" onclick="return powerpress_pinw('https://htotw.com/?powerpress_pinw=1593-podcast');" rel="nofollow">Play in new window</a> | <a href="https://dts.podtrac.com/redirect.mp3/cdn.nomads.studio/file/nsp-media/atheist_nomads_208.mp3" class="powerpress_link_d" title="Download" rel="nofollow" download="atheist_nomads_208.mp3">Download</a>
-</p>
-
-<p class="powerpress_links powerpress_subscribe_links">
-  Subscribe: <a href="https://podcasts.apple.com/us/podcast/humanists-take-on-the-world/id530050098?mt=2&ls=1" class="powerpress_link_subscribe powerpress_link_subscribe_itunes" target="_blank" title="Subscribe on Apple Podcasts" rel="nofollow">Apple Podcasts</a> | <a href="https://www.google.com/podcasts?feed=aHR0cDovL2F0aGVpc3Rub21hZHMubGlic3luLmNvbS9yc3M%3D" class="powerpress_link_subscribe powerpress_link_subscribe_googleplay" target="_blank" title="Subscribe on Google Podcasts" rel="nofollow">Google Podcasts</a> | <a href="https://open.spotify.com/show/3LzK2xZGike6Tc1GEMtMbr?si=LieN9SNuTpq96smuaUsH8A" class="powerpress_link_subscribe powerpress_link_subscribe_spotify" target="_blank" title="Subscribe on Spotify" rel="nofollow">Spotify</a> | <a href="https://www.pandora.com/podcast/atheist-nomads/PC:10122?corr=62071012&part=ug" class="powerpress_link_subscribe powerpress_link_subscribe_pandora" target="_blank" title="Subscribe on Pandora" rel="nofollow">Pandora</a> | <a href="https://htotw.com/feed/podcast/" class="powerpress_link_subscribe powerpress_link_subscribe_rss" target="_blank" title="Subscribe via RSS" rel="nofollow">RSS</a>
-</p>
-
-<CENTER>
-</CENTER>Local comic Merry Cole is back
+<!--more-->
 
 DUSTIN’ OFF THE DEGREE &#8211; 10 Years Religion Free
 
@@ -91,11 +51,14 @@ This episode is brought to you by:
 
 Dark Matter Sponsor &#8211; >US$35.00  
 * Travis Megee  
+
 Nuclear Sponsor &#8211; US$20.00 &#8211; US$35.00 per month  
 * Russ from the Kitsap Atheists & Agnostics  
 * Darryl Goossen  
+
 Platinum Sponsor &#8211; US$8.00 &#8211; US$19.00 per month  
 * Michael  
+
 Gold Sponsor &#8211; US$4.00 &#8211; US$7.00 per month  
 * Rachel  
 * Mark  
@@ -112,6 +75,7 @@ Gold Sponsor &#8211; US$4.00 &#8211; US$7.00 per month
 * The Flying Skeptic  
 * Grant  
 * Alan  
+
 Bronze Sponsor &#8211; < US$4.00 per month  
 * George  
 * Duncan  
@@ -119,16 +83,8 @@ Bronze Sponsor &#8211; < US$4.00 per month
 * Frank  
 * Heather
 
-* Archway Hosting provides full featured web hosting for a fraction of the cost of traditional shared hosting. You get all the benefits of shared hosting, without the sticker shock or extra fees. Check them out at <a href="http://archwayhosting.com/" target="_blank" rel="noopener">archwayhosting.com</a>.
-
 <hr width="500" />
 
 You can find us online at <a href="https://www.htotw.com/" target="_blank" rel="noopener">www.htotw.com</a>, follow us on Twitter <a href="https://htotw.com/twitter" target="_blank" rel="noopener">@AtheistNomads</a>, <a href="https://htotw.com/facebook" target="_blank" rel="noopener">like us on Facebook</a>, use the [contact form](https://htotw.com/contact), and leave us a voice mail message at +1 (208) 996-8667.
 
 Theme music is provided by Sturdy Fred.
-
-<hr width="500" />
-
-[DOWNLOAD EPISODE][1]
-
- [1]: https://dts.podtrac.com/redirect.mp3/cdn.nomads.studio/file/nsp-media/atheist_nomads_208.mp3
