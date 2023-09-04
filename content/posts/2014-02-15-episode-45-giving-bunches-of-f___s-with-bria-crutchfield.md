@@ -111,7 +111,7 @@ Gold Sponsor – US$5.00 per month
 
 <hr width="500" />
 
-You can visit our website at <a href="https://www.htotw.com/" target="_blank" rel="noopener">www.htotw.com</a>, find us on <a href="http://www.stitcher.com/podcast/atheist-nomads?refid=stpr" target="blank" rel="noopener">Stitcher</a>, <a href="https://itunes.apple.com/us/podcast/atheist-nomads-podcast-mp3/id530050098?mt=2" target="_blank" rel="noopener">iTunes</a>, follow us on Twitter <a href="https://htotw.com/twitter" target="_blank" rel="noopener">@AtheistNomads</a>, <a href="https://htotw.com/facebook" target="_blank" rel="noopener">like us on Facebook</a>, use the [contact form](https://htotw.com/contact), and leave us a voice mail message at +1 (208) 996-8667.
+You can visit our website at <a href="https://www.htotw.com/" target="_blank" rel="noopener">www.htotw.com</a>, find us on <a href="http://www.stitcher.com/podcast/atheist-nomads?refid=stpr" target="blank" rel="noopener">Stitcher</a>, <a href="https://itunes.apple.com/us/podcast/atheist-nomads-podcast-mp3/id530050098?mt=2" target="_blank" rel="noopener">iTunes</a>, follow us on Twitter <a href="https://htotw.com/twitter" target="_blank" rel="noopener">@AtheistNomads</a>, <a href="https://htotw.com/facebook" target="_blank" rel="noopener">like us on Facebook</a>, use the [contact form](https://htotw.com/contact).
 
 Theme music is provided by Sturdy Fred.
 
